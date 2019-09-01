@@ -1,4 +1,12 @@
-site_name: Beezer
+site_name: Deezer
+
+nav:
+    - Inicial: index.md
+    - Planejamento: planejamento.md
+    - Pré-rastreabilidade:
+        - Rich Pictures: pre-rastreabilidade/rich-pictures.md
+
 theme: journal
+
 extra_css:
     - 'stylesheets/common.css'
