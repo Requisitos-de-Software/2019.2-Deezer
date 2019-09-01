@@ -6,3 +6,7 @@ img {
 .line {
 	border-bottom: 1px solid #e3e3e3;
 }
+
+#imagetable th {
+	text-align: center;
+}
