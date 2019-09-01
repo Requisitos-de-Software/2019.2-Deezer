@@ -1,0 +1,8 @@
+img {
+	display: block;
+	margin: auto;
+}
+
+.line {
+	border-bottom: 1px solid #e3e3e3;
+}

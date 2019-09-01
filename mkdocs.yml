@@ -1,0 +1,4 @@
+site_name: Beezer
+theme: journal
+extra_css:
+    - 'stylesheets/common.css'
