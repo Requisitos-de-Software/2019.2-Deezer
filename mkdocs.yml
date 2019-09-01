@@ -1,5 +1,7 @@
 site_name: Deezer
 
+site_favicon: assets/favicon.ico
+
 nav:
     - Inicial: index.md
     - Planejamento: planejamento.md
