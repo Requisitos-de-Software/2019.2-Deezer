@@ -12,3 +12,11 @@ img {
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-column-gap: 10px;
 }
+
+.versions th, .versions td {
+	text-align: center;
+}
+
+.version_header {
+	width: 15%;
+}
