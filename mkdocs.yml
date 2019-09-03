@@ -7,7 +7,7 @@ nav:
     - Planejamento: planejamento.md
     - Pre-rastreabilidade:
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
-
+        - Ponto de Controle: pontocontrole.md
 theme: journal
 
 extra_css:
