@@ -1,14 +1,4 @@
-site_name: Deezer
-
-site_favicon: assets/favicon.ico
-
-nav:
-    - Inicial: index.md
-    - Planejamento: planejamento.md
-    - Pre-rastreabilidade:
-        - Rich Pictures: pre-rastreabilidade/rich-pictures.md
-
+site_name: Beezer
 theme: journal
-
 extra_css:
     - 'stylesheets/common.css'
