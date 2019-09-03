@@ -46,7 +46,11 @@
 		<h3 align="center">Github</h3>
 		<p align="center">O Github será utilizado para versionamento e armazenamento de todos os documentos</p>
 	</div>
-	<div></div>
+	<div>
+		<img height="125px" src="assets/Telegram_Logo.svg">
+		<h3 align="center">Telegram</h3>
+		<p align="center">O Telegram será utilizado para a comunicação entre os membros do grupo</p>
+	</div>
 	<div>
 		<img height="125px" src="assets/Zenhub_Logo.svg">
 		<h3 align="center">Zenhub</h3>
