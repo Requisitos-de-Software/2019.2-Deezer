@@ -2,4 +2,4 @@
 <div class="line"></div>
 
 ## Heatmap
-<img src="../assets/heatmap.png">
+<img src="../assets/Heatmap.png">
