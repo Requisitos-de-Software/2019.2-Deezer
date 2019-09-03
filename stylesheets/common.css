@@ -1,0 +1,22 @@
+img {
+	display: block;
+	margin: auto;
+}
+
+.line {
+	border-bottom: 1px solid #e3e3e3;
+}
+
+.toolgrid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 10px;
+}
+
+.versions th, .versions td {
+	text-align: center;
+}
+
+.version_header {
+	width: 15%;
+}

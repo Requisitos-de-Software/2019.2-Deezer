@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="None">
+        
+        
+        <link rel="shortcut icon" href="assets/favicon.ico">
+        
+        <title>Deezer</title>
+        <link href="css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atelier-forest-light.min.css">
+        <link href="stylesheets/common.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="js/jquery-1.10.2.min.js" defer></script>
+        <script src="js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body class="homepage">
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href=".">Deezer</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="active">
+                                <a href=".">Inicial</a>
+                            </li>
+                            <li >
+                                <a href="planejamento/">Planejamento</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pre-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="disabled">
+                                <a rel="next" >
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="planejamento/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#visao-geral">Visão Geral</a></li>
+        <li class="main "><a href="#equipe">Equipe</a></li>
+        <li class="main "><a href="#ferramentas">Ferramentas</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<p><br></p>
+<p><img draggable=false width="60%" height="60%" src="assets/Deezer_logo.svg">
+<p align="center">Requisitos de Software</p>
+<div class="line"></div></p>
+<h2 id="visao-geral">Visão Geral</h2>
+<p><p text-align="justify">&emsp;&emsp;Esta wiki busca trazer toda a documentação requisitada pela disciplina de Requisitos de Software da Universidade de Brasília no período de 2019/2 no curso de Engenharia de Software, tendo como objeto de estudo a aplicação Deezer.</p>
+<p>&emsp;&emsp;Deezer é um serviço de streaming, disponível em múltiplas plataformas, tendo disponível para seus usuários cerca de 56 milhões de faixas de áudio, incluindo músicas e podcasts.</p></p>
+<h2 id="equipe">Equipe</h2>
+<p>&emsp;&emsp;A equipe é composta por cinco alunos de Engenharia de Software da Universidade de Brasília, sendo eles:</p>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Matrícula</th>
+<th>Github</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eduardo Lima</td>
+<td>17/0102343</td>
+<td><a href="https://github.com/Ed-vL">@Ed-vL</a></td>
+</tr>
+<tr>
+<td>Luís Taira</td>
+<td>17/0109208</td>
+<td><a href="https://github.com/LhTaira">@LhTaira</a></td>
+</tr>
+<tr>
+<td>Micaella Gouveia</td>
+<td>17/0111288</td>
+<td><a href="https://github.com/micaellagouveia">@micaellagouveia</a></td>
+</tr>
+<tr>
+<td>Samuel Pereira</td>
+<td>17/0114040</td>
+<td><a href="https://github.com/SamButers">@SamButers</a></td>
+</tr>
+<tr>
+<td>Sofia Patrocínio</td>
+<td>17/0114333</td>
+<td><a href="https://github.com/sofiapatrocinio">@sofiapatrocinio</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="ferramentas">Ferramentas</h2>
+<p><div class="toolgrid">
+    <div>
+        <img height="125px" src="assets/Google_Drive_Logo.svg">
+        <h3 align="center">Google Drive</h3>
+        <p align="center">O Google Drive será utilizado pela equipe para a confecção de documentos em conjunto</p>
+    </div>
+    <div>
+        <img height="125px" src="assets/Hangouts_Logo.svg">
+        <h3 align="center">Hangouts</h3>
+        <p align="center">O Hangouts será utilizado para a realização de reuniões e atividades em conjunto</p>
+    </div>
+    <div>
+        <img height="125px" src="assets/Calendar_Logo.svg">
+        <h3 align="center">Google Calendar</h3>
+        <p align="center">O Google Calendar será utilizado para o planejamento do grupo</p>
+    </div>
+</div></p>
+<div class="toolgrid">
+    <div>
+        <img height="125px" src="assets/Github_Logo.svg">
+        <h3 align="center">Github</h3>
+        <p align="center">O Github será utilizado para versionamento e armazenamento de todos os documentos</p>
+    </div>
+    <div>
+        <img height="125px" src="assets/Telegram_Logo.svg">
+        <h3 align="center">Telegram</h3>
+        <p align="center">O Telegram será utilizado para a comunicação entre os membros do grupo</p>
+    </div>
+    <div>
+        <img height="125px" src="assets/Zenhub_Logo.svg">
+        <h3 align="center">Zenhub</h3>
+        <p align="center">O Zenhub será utilizado para a organização e planejamento do grupo</p>
+    </div>
+</div></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js" defer></script>
+        <script src="search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.0.4
+Build Date UTC : 2019-09-03 01:17:12
+-->
