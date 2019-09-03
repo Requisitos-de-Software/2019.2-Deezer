@@ -14,11 +14,11 @@
 
 | Nome | Matrícula | Github |
 |--|--|--|
-| Eduardo Lima |  | [@Ed-vL](https://github.com/Ed-vL) |
-| Luís Taira |  | [@LhTaira](https://github.com/LhTaira) |
-| Micaella Gouveia |  | [@micaellagouveia](https://github.com/micaellagouveia) |
-| Samuel Pereira |  | [@SamButers](https://github.com/SamButers) |
-| Sofia Patrocínio |  | [@sofiapatrocinio](https://github.com/sofiapatrocinio) |
+| Eduardo Lima | 17/0102343 | [@Ed-vL](https://github.com/Ed-vL) |
+| Luís Taira | 17/0109208 | [@LhTaira](https://github.com/LhTaira) |
+| Micaella Gouveia | 17/0111288 | [@micaellagouveia](https://github.com/micaellagouveia) |
+| Samuel Pereira | 17/0114040 | [@SamButers](https://github.com/SamButers) |
+| Sofia Patrocínio | 17/0114333 | [@sofiapatrocinio](https://github.com/sofiapatrocinio) |
 
 
 ## Ferramentas
