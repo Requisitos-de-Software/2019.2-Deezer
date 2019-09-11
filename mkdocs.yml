@@ -8,6 +8,8 @@ nav:
     - Pre-rastreabilidade:
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
         - Ponto de Controle: pontocontrole.md
+    - Elicitação: 
+        - MoScoW: elicitacao/moscow.md
 theme: journal
 
 extra_css:
