@@ -26,11 +26,11 @@ de prioridade, sendo elas:
 
 |Nº|Requisito|MoSCoW|
 |--|---------|------|
-|1|Usuário pode se cadastrar pela conta do Google.|Should|
-|2|Usuário pode se cadastrar pela conta do Facebook.|Should|
-|3|Usuário pode se cadastrar inserindo nome, telefone, gênero e idade.|Could|
-|4|Usuário pode fazer login pelo email.|Must|
-|5|Usuário pode fazer login pelo número do telefone.|Could|
+|1|usuário pode se cadastrar pela conta do Google.|Should|
+|2|usuário pode se cadastrar pela conta do Facebook.|Should|
+|3|usuário pode se cadastrar inserindo nome, telefone, gênero e idade.|Could|
+|4|usuário pode fazer login pelo email.|Must|
+|5|usuário pode fazer login pelo número do telefone.|Could|
 |6|O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.|Could|
 |7|O sistema pode pedir ao usuário escolher artistas de seu gosto.|Could|
 |8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|Must|
