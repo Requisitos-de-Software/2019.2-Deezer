@@ -10,6 +10,7 @@ nav:
         - Ponto de Controle: pontocontrole.md
     - Elicitação: 
         - MoScoW: elicitacao/moscow.md
+        - Introspecção: elicitacao/introspeccao.md
 theme: journal
 
 extra_css:
