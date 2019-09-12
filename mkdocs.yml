@@ -12,6 +12,7 @@ nav:
         - MoScoW: elicitacao/moscow.md
         - Introspecção: elicitacao/introspeccao.md
         - Observação Participativa: elicitacao/obs_part.md
+        - Análise de Protocolo: elicitacao/analise_de_protocolo.md
 theme: journal
 
 extra_css:
