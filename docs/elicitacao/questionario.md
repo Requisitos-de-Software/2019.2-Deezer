@@ -54,3 +54,17 @@ Usuários do Deezer consideram suas funcionalidades, como o Flow, busca por áud
 <img src="../../assets/tim.png">
 
 O Deezer possui uma parceria com a Tim, em que usuários da Tim podem ser usuários do Deezer Premium gratuitamente. Por curiosidade, perguntamos ao nosso público se eles são usuários Tim. Vimos que em nossa amostra, não houve o caso de um usuário Tim ser usuário do Deezer.
+
+### **Resultado**
+
+<br>
+
+|Nº|Requisito|
+|--|---------|
+|1|O usuário pode escutar um conteúdo.|
+|2|O usuário pode criar seu Flow.|
+|3|O usuário free pode experimentar o Deezer Premium por um tempo determinado.|
+|4|O usuário premium deve pagar uma mensalidade.|
+|5|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
+|7|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
+
