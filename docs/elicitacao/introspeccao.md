@@ -1,14 +1,10 @@
-## **introspecção** 
+## **Introspecção** 
 <br>
 
 A **introspecção** é uma técnica para os desenvolvedores imaginarem os caminhos dos usuários pelo aplicativo. Seu objetivo é levantar requisitos pela visão do usuário. 
 
 Essa técnica foi usada durante o levantamento de requisitos, por cada membro de forma separada, para auxílio na maior enumeração de tais requisitos.
 
-<br>
-### Execução
-
-<br>
 #### Participantes:
 - Eduardo Lima
 - Samuel Pereira
