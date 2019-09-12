@@ -1,5 +1,5 @@
-## **MoSCoW** 
-<br>
+# MoSCoW 
+<div class="line"></div>
 
 **MoSCoW** é uma técnica de priorização de requisitos, onde os requisitos elicitados são dividos em quatro categorias
 de prioridade, sendo elas:
@@ -12,17 +12,15 @@ de prioridade, sendo elas:
 
 - **_Would_** = Menos crítico ao projeto, requisitos que devem ter a concordância do cliente.
 
-### Execução
 
-<br>
-#### Participantes:
+## Participantes
 - Eduardo Lima
 - Samuel Pereira
 - Micaella Gouveia
 - Sofia Patrocínio
 - Luís Taira
 
-### **Resultado**
+## Resultado
 
 |Nº|Requisito|MoSCoW|
 |--|---------|------|

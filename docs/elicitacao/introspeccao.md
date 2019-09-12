@@ -1,5 +1,5 @@
-## **Introspecção** 
-<br>
+# Introspecção
+<div class="line"></div>
 
 A **introspecção** é uma técnica para os desenvolvedores imaginarem os caminhos dos usuários pelo aplicativo. Seu objetivo é levantar requisitos pela visão do usuário. 
 
@@ -7,14 +7,15 @@ Essa técnica foi usada durante o levantamento de requisitos, por cada membro de
 
 <br>
 
-#### Participantes:
+## Participantes
 - Eduardo Lima
 - Samuel Pereira
 - Micaella Gouveia
 - Sofia Patrocínio
 - Luís Taira
 <br>
-### **Resultado**
+
+## Resultado
 
 <br>
 
@@ -67,3 +68,8 @@ Essa técnica foi usada durante o levantamento de requisitos, por cada membro de
 |45|O sistema gera anúncios ao usuário.|
 |46|O usuário é capaz de fazer ajustes no áudio.|
 |47|O usuário é capaz de gerenciar o áudio pela barra de tarefas do celular.|
+|48|O usuario deve ser capaz de navegar para a aba de pesquisa.|
+|49|O usuario deve ser capaz de pesquisar um perfil de usuario pelo nome.|
+|50|O usuario deve ser capaz de expandir todas as pesquisas de perfil.|
+|51|O usuario deve ser capaz de escolher um perfil da lista.|
+|52|O usuario deve ser capaz de clicar no botao de seguir.|

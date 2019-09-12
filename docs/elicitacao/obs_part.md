@@ -1,8 +1,7 @@
-##  **Observação Participativa**
+#  Observação Participativa
+<div class="line"></div>
 
-<br>
-
-###  Metodologia
+##  Metodologia
 
 <p align="justify">&emsp;
 
@@ -24,7 +23,7 @@ Todos nossos membros se cadastraram e passaram a ser usuários, e após 1 dia de
 
 <br>
 
-###  Resultados
+##  Resultado
 
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
