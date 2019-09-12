@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../assets/favicon.ico">
+        
+        <title>MoScoW - Deezer</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atelier-forest-light.min.css">
+        <link href="../../stylesheets/common.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">Deezer</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">Inicial</a>
+                            </li>
+                            <li >
+                                <a href="../../planejamento/">Planejamento</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pre-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+</li>
+                                    
+<li >
+    <a href="../../pontocontrole/">Ponto de Controle</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li class="active">
+    <a href="./">MoScoW</a>
+</li>
+                                    
+<li >
+    <a href="../introspeccao/">Introspecção</a>
+</li>
+                                    
+<li >
+    <a href="../obs_part/">Observação Participativa</a>
+</li>
+                                    
+<li >
+    <a href="../analise_de_protocolo/">Análise de Protocolo</a>
+</li>
+                                    
+<li >
+    <a href="../questionario/">Questionário</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li >
+                                <a rel="next" href="../../pontocontrole/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../introspeccao/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#moscow">MoSCoW</a></li>
+            <li><a href="#participantes">Participantes</a></li>
+            <li><a href="#resultado">Resultado</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="moscow">MoSCoW</h1>
+<p><div class="line"></div></p>
+<p><strong>MoSCoW</strong> é uma técnica de priorização de requisitos, onde os requisitos elicitados são dividos em quatro categorias
+de prioridade, sendo elas:</p>
+<ul>
+<li>
+<p><strong><em>Must</em></strong> = Maior prioridade, crítico para o negócio ou sistema.</p>
+</li>
+<li>
+<p><strong><em>Should</em></strong> = Importante, porém não é crítico do ponto de vista estratégico.</p>
+</li>
+<li>
+<p><strong><em>Could</em></strong> = Desejável, mas não necessário. Geralmente melhoram a satisfação do cliente.</p>
+</li>
+<li>
+<p><strong><em>Would</em></strong> = Menos crítico ao projeto, requisitos que devem ter a concordância do cliente.</p>
+</li>
+</ul>
+<h2 id="participantes">Participantes</h2>
+<ul>
+<li>Eduardo Lima</li>
+<li>Samuel Pereira</li>
+<li>Micaella Gouveia</li>
+<li>Sofia Patrocínio</li>
+<li>Luís Taira</li>
+</ul>
+<h2 id="resultado">Resultado</h2>
+<table>
+<thead>
+<tr>
+<th>Nº</th>
+<th>Requisito</th>
+<th>MoSCoW</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>usuário pode se cadastrar pela conta do Google.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>2</td>
+<td>usuário pode se cadastrar pela conta do Facebook.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>3</td>
+<td>usuário pode se cadastrar inserindo nome, telefone, gênero e idade.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>4</td>
+<td>usuário pode fazer login pelo email.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>5</td>
+<td>usuário pode fazer login pelo número do telefone.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>6</td>
+<td>O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>7</td>
+<td>O sistema pode pedir ao usuário escolher artistas de seu gosto.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>8</td>
+<td>O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>9</td>
+<td>O usuário pode escutar um conteúdo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>10</td>
+<td>O usuário pode controlar o conteúdo que está em reprodução enquanto usa o aplicativo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>11</td>
+<td>O usuário pode controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>12</td>
+<td>O usuário pode criar seu Flow.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>13</td>
+<td>O usuário pode visualizar a fila de espera.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>14</td>
+<td>O usuário pode adicionar conteúdo a fila de espera.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>15</td>
+<td>O usuário pode configurar a qualidade de áudio.</td>
+<td>Would</td>
+</tr>
+<tr>
+<td>16</td>
+<td>O usuário pode configurar o equalizador.</td>
+<td>Would</td>
+</tr>
+<tr>
+<td>17</td>
+<td>O usuário pode configurar o download.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>18</td>
+<td>O usuário pode bloquear o conteúdo.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>19</td>
+<td>O usuário pode adicionar o conteúdo às Mais Queridas.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>20</td>
+<td>O usuário pode criar playlists.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>21</td>
+<td>O usuário pode adicionar o conteúdo em alguma playlist.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>22</td>
+<td>O usuário pode compartilhar o conteúdo para outras plataformas.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>23</td>
+<td>O usuário pode acessar a página do Artista.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>24</td>
+<td>O usuário pode acessar a página do Álbum.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>25</td>
+<td>O usuário pode acessar a página de perfis de outros usuários.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>26</td>
+<td>O usuário pode visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>27</td>
+<td>O usuário pode começar um flow, mesclando seu gosto musical com o de outro usuário.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>28</td>
+<td>O usuário pode acompanhar a letras das músicas enquanto as ouve.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>29</td>
+<td>O usuário pode compartilhar a letra da música no Instagram Stories.</td>
+<td>Would</td>
+</tr>
+<tr>
+<td>30</td>
+<td>O sistema deve recomendar conteúdo de acordo com a atividade do usuário.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>31</td>
+<td>O sistema deve criar playlists de acordo com o conteúdo mais ouvido pelos usuários.</td>
+<td>Would</td>
+</tr>
+<tr>
+<td>32</td>
+<td>O sistema deve gerar conteúdos tocados recentemente.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>33</td>
+<td>O usuário pode ver suas músicas Mais Queridas.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>34</td>
+<td>O usuário pode ver suas playlists favoritas e criadas.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>35</td>
+<td>O usuário pode ver seus álbuns favoritos.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>36</td>
+<td>O usuário pode ver seus artistas favoritos.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>37</td>
+<td>O usuário pode ver seus mixes criados.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>38</td>
+<td>O usuário pode ver seus podcasts favoritos.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>39</td>
+<td>O sistema deve oferecer episódios do mesmo podcast que o usuário está ouvindo.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>40</td>
+<td>O usuário pode ser notificado com as atualizações e novidades mais recentes.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>41</td>
+<td>O usuário pode acessar suas notificações.</td>
+<td>Would</td>
+</tr>
+<tr>
+<td>42</td>
+<td>O usuário pode seguir artistas e outros usuários.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>43</td>
+<td>O usuário pode ser seguido.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Criações do usuário podem ser seguidas.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>45</td>
+<td>O usuário pode gerenciar sua conta.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>46</td>
+<td>O usuário pode configurar o aplicativo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>47</td>
+<td>O usuário pode gerenciar os dispositivos conectados.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>48</td>
+<td>O usuário pode testar recursos experimentais.</td>
+<td>Would</td>
+</tr>
+<tr>
+<td>49</td>
+<td>O usuário pode buscar por texto um conteúdo específico.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>50</td>
+<td>O usuário pode visualizar na página de busca conteúdos relacionados a pesquisa.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>51</td>
+<td>O usuário pode buscar a partir de um som um conteúdo específico.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>52</td>
+<td>O usuário pode filtrar sua busca por gêneros e moods.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>53</td>
+<td>O usuário pode ampliar sua busca de forma específica.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>54</td>
+<td>O usuário pode ver as Top Músicas, últimos lançamentos, discografia de um artista.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>55</td>
+<td>O usuário pode, a partir de um artista, encontrar artistas similares.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Na Página do Artista, o usuário pode visualizar playlists em que o artista está.</td>
+<td>Should</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Na página do Artista, o usuário pode visualizar faixas em que o artista aparece.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Na Página do Artista, o usuário pode visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>59</td>
+<td>O usuário pode curtir artistas.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>60</td>
+<td>O usuário free pode experimentar o Deezer Premium por um tempo determinado.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>61</td>
+<td>O usuário free deve receber anúncios durante as trocas de conteúdo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>62</td>
+<td>O usuário free tem número limitado para pular o conteúdo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>63</td>
+<td>O usuário free deve escutar o conteúdo de forma aleatória.</td>
+<td>Could</td>
+</tr>
+<tr>
+<td>64</td>
+<td>O usuário free pode iniciar, pausar e pular o conteúdo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>65</td>
+<td>O usuário free deve possuir conexão com internet para acessar o conteúdo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>66</td>
+<td>O usuário premium deve pagar uma mensalidade.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>67</td>
+<td>O usuário premium pode pular o conteúdo de forma ilimitada.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>68</td>
+<td>O usuário premium pode baixar conteúdo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>69</td>
+<td>O usuário premium pode iniciar, pausar, pular e voltar o conteúdo.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>70</td>
+<td>O usuário premium pode escutar o conteúdo offline.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>71</td>
+<td>O usuário premium pode escolher o conteúdo a ser tocado.</td>
+<td>Must</td>
+</tr>
+<tr>
+<td>72</td>
+<td>O usuário premium não recebe anúncios durante a troca de conteúdo.</td>
+<td>Must</td>
+</tr>
+</tbody>
+</table></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"next": 78, "previous": 80, "help": 191, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

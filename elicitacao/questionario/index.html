@@ -4,30 +4,30 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="None">
         
         
-        <link rel="shortcut icon" href="assets/favicon.ico">
         
-        <title>Deezer</title>
-        <link href="css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="css/font-awesome.min.css" rel="stylesheet">
-        <link href="css/base.css" rel="stylesheet">
+        <link rel="shortcut icon" href="../../assets/favicon.ico">
+        
+        <title>Questionário - Deezer</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atelier-forest-light.min.css">
-        <link href="stylesheets/common.css" rel="stylesheet">
+        <link href="../../stylesheets/common.css" rel="stylesheet">
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <script src="js/jquery-1.10.2.min.js" defer></script>
-        <script src="js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
-    <body class="homepage">
+    <body>
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
@@ -41,54 +41,54 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href=".">Deezer</a>
+                    <a class="navbar-brand" href="../..">Deezer</a>
                 </div>
 
                 <!-- Expanded navigation -->
                 <div class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li class="active">
-                                <a href=".">Inicial</a>
+                            <li >
+                                <a href="../..">Inicial</a>
                             </li>
                             <li >
-                                <a href="planejamento/">Planejamento</a>
+                                <a href="../../planejamento/">Planejamento</a>
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pre-rastreabilidade <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+    <a href="../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
 </li>
                                     
 <li >
-    <a href="pontocontrole/">Ponto de Controle</a>
+    <a href="../../pontocontrole/">Ponto de Controle</a>
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="elicitacao/moscow/">MoScoW</a>
+    <a href="../moscow/">MoScoW</a>
 </li>
                                     
 <li >
-    <a href="elicitacao/introspeccao/">Introspecção</a>
+    <a href="../introspeccao/">Introspecção</a>
 </li>
                                     
 <li >
-    <a href="elicitacao/obs_part/">Observação Participativa</a>
+    <a href="../obs_part/">Observação Participativa</a>
 </li>
                                     
 <li >
-    <a href="elicitacao/analise_de_protocolo/">Análise de Protocolo</a>
+    <a href="../analise_de_protocolo/">Análise de Protocolo</a>
 </li>
                                     
-<li >
-    <a href="elicitacao/questionario/">Questionário</a>
+<li class="active">
+    <a href="./">Questionário</a>
 </li>
                                 </ul>
                             </li>
@@ -100,13 +100,13 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li class="disabled">
-                                <a rel="next" >
+                            <li >
+                                <a rel="next" href="../analise_de_protocolo/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="planejamento/">
+                            <li class="disabled">
+                                <a rel="prev" >
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -118,93 +118,79 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#visao-geral">Visão Geral</a></li>
-        <li class="main "><a href="#equipe">Equipe</a></li>
-        <li class="main "><a href="#ferramentas">Ferramentas</a></li>
+        <li class="main active"><a href="#questionario">Questionário</a></li>
+            <li><a href="#resultado">Resultado</a></li>
+            <li><a href="#resultado_1">Resultado</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
+<h1 id="questionario">Questionário</h1>
+<p><div class="line"></div></p>
+<p>O <strong>questionário</strong> é uma técnica com intuito de compreender o público-alvo e os diversos tipos de usuários que utilizam a aplicação. A fim de levantar mais requisitos que públicos específicos utilizam. </p>
+<p>Para a preparação do questionário, levamos em consideração usuários e não usuários da aplicação. Para usuários, nossos principais interesses foram a interface, se intuitiva ou não e opinões sobre as principais funcionalidades do Deezer.</p>
+<h2 id="resultado">Resultado</h2>
 <p><br></p>
-<p><img draggable=false width="60%" height="60%" src="assets/Deezer_logo.svg">
-<p align="center">Requisitos de Software</p>
-<div class="line"></div></p>
-<h2 id="visao-geral">Visão Geral</h2>
-<p><p text-align="justify">&emsp;&emsp;Esta wiki busca trazer toda a documentação requisitada pela disciplina de Requisitos de Software da Universidade de Brasília no período de 2019/2 no curso de Engenharia de Software, tendo como objeto de estudo a aplicação Deezer.</p>
-<p>&emsp;&emsp;Deezer é um serviço de streaming, disponível em múltiplas plataformas, tendo disponível para seus usuários cerca de 56 milhões de faixas de áudio, incluindo músicas e podcasts.</p></p>
-<h2 id="equipe">Equipe</h2>
-<p>&emsp;&emsp;A equipe é composta por cinco alunos de Engenharia de Software da Universidade de Brasília, sendo eles:</p>
+<h3 id="idade">Idade</h3>
+<p><img src="../../assets/images/idade.png"></p>
+<p>Com as respostas que obtivemos, podemos visualizar nosso público alvo. A sua grande maioria possui entre 18 e 20 anos, mas há também uma quantidade significativa de usuários entre 21 a 25. Essas taxas combinadas, somam mais de 80% do nosso público.</p>
+<h3 id="usuarios">Usuários</h3>
+<p><img src="../../assets/images/usuarios.png">
+<br></p>
+<p><img src="../../assets/images/spotify.png"></p>
+<p>Com as repostas que obtivemos, podemos visualizar o alcance do nosso aplicativo. A grande maioria não utiliza o Deezer, porém utilizam outras plataformas de streaming de áudio.</p>
+<h3 id="motivacoes">Motivações</h3>
+<p><img src="../../assets/images/motivacao.png"></p>
+<p>Analisamos também as motivações que levaram nosso público alvo a usar plataformas de streaming de áudio. A grande maioria afirma ser pela conveniência e a por possuir uma variedade de conteúdo.</p>
+<h3 id="o-deezer">O Deezer</h3>
+<h4 id="experiencia">Experiência</h4>
+<p><img src="../../assets/images/expDeezer.png"></p>
+<p>Analisamos a experiência do usuário com a plataforma do Deezer. Por muitos não utilizarem o aplicativo, obtivemos poucas respostas relevantes. Em geral, usuários do Deezer tiveram uma boa experiência com a plataforma.</p>
+<h4 id="interface">Interface</h4>
+<p><img src="../../assets/images/intDeezer.png"></p>
+<p>Usuários do Deezer, em sua maioria, acham a interface intuitiva, porém, há aqueles que a acharam pouco intuitiva.</p>
+<h4 id="funcionalidades">Funcionalidades</h4>
+<p><img src="../../assets/images/funDeezer.png"></p>
+<p>Usuários do Deezer consideram suas funcionalidades, como o Flow, busca por áudio, entre outros, de medianas para boas.</p>
+<h4 id="usuarios-tim">Usuários Tim</h4>
+<p><img src="../../assets/images/tim.png"></p>
+<p>O Deezer possui uma parceria com a Tim, em que usuários da Tim podem ser usuários do Deezer Premium gratuitamente. Por curiosidade, perguntamos ao nosso público se eles são usuários Tim. Vimos que em nossa amostra, não houve o caso de um usuário Tim ser usuário do Deezer.</p>
+<h2 id="resultado_1">Resultado</h2>
+<p><br></p>
 <table>
 <thead>
 <tr>
-<th>Nome</th>
-<th>Matrícula</th>
-<th>Github</th>
+<th>Nº</th>
+<th>Requisito</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Eduardo Lima</td>
-<td>17/0102343</td>
-<td><a href="https://github.com/Ed-vL">@Ed-vL</a></td>
+<td>1</td>
+<td>O usuário pode escutar um conteúdo.</td>
 </tr>
 <tr>
-<td>Luís Taira</td>
-<td>17/0109208</td>
-<td><a href="https://github.com/LhTaira">@LhTaira</a></td>
+<td>2</td>
+<td>O usuário pode criar seu Flow.</td>
 </tr>
 <tr>
-<td>Micaella Gouveia</td>
-<td>17/0111288</td>
-<td><a href="https://github.com/micaellagouveia">@micaellagouveia</a></td>
+<td>3</td>
+<td>O usuário free pode experimentar o Deezer Premium por um tempo determinado.</td>
 </tr>
 <tr>
-<td>Samuel Pereira</td>
-<td>17/0114040</td>
-<td><a href="https://github.com/SamButers">@SamButers</a></td>
+<td>4</td>
+<td>O usuário premium deve pagar uma mensalidade.</td>
 </tr>
 <tr>
-<td>Sofia Patrocínio</td>
-<td>17/0114333</td>
-<td><a href="https://github.com/sofiapatrocinio">@sofiapatrocinio</a></td>
+<td>5</td>
+<td>O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>O sistema deve recomendar conteúdo de acordo com a atividade do usuário.</td>
 </tr>
 </tbody>
-</table>
-<h2 id="ferramentas">Ferramentas</h2>
-<p><div class="toolgrid">
-    <div>
-        <img height="125px" src="assets/Google_Drive_Logo.svg">
-        <h3 align="center">Google Drive</h3>
-        <p align="center">O Google Drive será utilizado pela equipe para a confecção de documentos em conjunto</p>
-    </div>
-    <div>
-        <img height="125px" src="assets/Hangouts_Logo.svg">
-        <h3 align="center">Hangouts</h3>
-        <p align="center">O Hangouts será utilizado para a realização de reuniões e atividades em conjunto</p>
-    </div>
-    <div>
-        <img height="125px" src="assets/Calendar_Logo.svg">
-        <h3 align="center">Google Calendar</h3>
-        <p align="center">O Google Calendar será utilizado para o planejamento do grupo</p>
-    </div>
-</div></p>
-<div class="toolgrid">
-    <div>
-        <img height="125px" src="assets/Github_Logo.svg">
-        <h3 align="center">Github</h3>
-        <p align="center">O Github será utilizado para versionamento e armazenamento de todos os documentos</p>
-    </div>
-    <div>
-        <img height="125px" src="assets/Telegram_Logo.svg">
-        <h3 align="center">Telegram</h3>
-        <p align="center">O Telegram será utilizado para a comunicação entre os membros do grupo</p>
-    </div>
-    <div>
-        <img height="125px" src="assets/Zenhub_Logo.svg">
-        <h3 align="center">Zenhub</h3>
-        <p align="center">O Zenhub será utilizado para a organização e planejamento do grupo</p>
-    </div>
-</div></div>
+</table></div>
         </div>
 
         <footer class="col-md-12">
@@ -212,11 +198,11 @@
             <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
         <script>
-            var base_url = ".",
+            var base_url = "../..",
                 shortcuts = {"next": 78, "previous": 80, "help": 191, "search": 83};
         </script>
-        <script src="js/base.js" defer></script>
-        <script src="search/main.js" defer></script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
     <div class="modal-dialog">
@@ -284,8 +270,3 @@
 
     </body>
 </html>
-
-<!--
-MkDocs version : 1.0.4
-Build Date UTC : 2019-09-12 12:09:19
--->
