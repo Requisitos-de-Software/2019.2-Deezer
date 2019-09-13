@@ -101,3 +101,8 @@ Reunião presencial.
 |70|O usuário premium pode escutar o conteúdo offline.|Must|
 |71|O usuário premium pode escolher o conteúdo a ser tocado.|Must|
 |72|O usuário premium não recebe anúncios durante a troca de conteúdo.|Must|
+|73|O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.|Should|
+|74|O usuário deve conseguir repetir um conteúdo, playlists, álbuns, podcasts.|Must|
+|75|O usuário deve avaliar recomendações do sistema.|Must|
+|76|O usuário pode alterar a ordem da lista a ser tocada.|Should|
+
