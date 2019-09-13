@@ -8,7 +8,11 @@ Para a preparação do questionário, levamos em consideração usuários e não
 
 ## Resultado
 
+
+Data de realização: 05/09/2019 - hoje.
 <br>
+Reunião remota.
+
 
 ### Idade
 

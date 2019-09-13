@@ -22,6 +22,11 @@ de prioridade, sendo elas:
 
 ## Resultado
 
+Data de realização: 10/09/2019.
+<br>
+Reunião presencial.
+<br>
+
 |Nº|Requisito|MoSCoW|
 |--|---------|------|
 |1|usuário pode se cadastrar pela conta do Google.|Should|

@@ -11,6 +11,15 @@ A Análise de Protocolo é uma técnica de elicitação de requisitos, que consi
 
 </p>
 
+## Participantes
+- Eduardo Lima
+- Samuel Pereira
+- Micaella Gouveia
+- Sofia Patrocínio
+- Luís Taira
+
+## Relato
+
 <p align="justify">&emsp;
 
 Micaella: “Como já me registrei, a primeira página que aparece é Minha Música, nela vejo as músicas tocadas recentementes, músicas que baixei, músicas preferidas, playlists, artistas, músicas e podcasts. Nessa página posso acessar configurações e notificações. Para encontrar uma nova música vou em buscar e escrevo o nome do artista que desejo “Maria Rita”, aparece a opção de artista e playlist, ainda aparece alguns álbuns, podcasts, perfis de usuários e músicas dela. <br>
@@ -35,6 +44,11 @@ Luís: “Ao abrir o Deezer, eu estou na tela de minha música, eu deslizo pela 
 <br>
 
 ##  Resultados
+
+Data de realização: 10/09/2019.
+<br>
+Reunião presencial.
+<br>
 
 ### Micaella e Sofia
 

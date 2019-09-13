@@ -16,6 +16,10 @@ Essa técnica foi usada durante o levantamento de requisitos, por cada membro de
 <br>
 
 ## Resultado
+Data de realização: 05/09/2019 - 11/09/2019.
+<br>
+Reunião remota.
+<br>
 
 <br>
 

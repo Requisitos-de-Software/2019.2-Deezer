@@ -21,9 +21,20 @@ Todos nossos membros se cadastraram e passaram a ser usuários, e após 1 dia de
 
 </p>
 
-<br>
+## Participantes
+- Eduardo Lima
+- Samuel Pereira
+- Micaella Gouveia
+- Sofia Patrocínio
+- Luís Taira
 
 ##  Resultado
+
+Data de realização: 05/09/2019.
+<br>
+Reunião remota.
+<br>
+
 
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
