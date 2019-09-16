@@ -105,4 +105,9 @@ Reunião presencial.
 |74|O usuário deve conseguir repetir um conteúdo, playlists, álbuns, podcasts.|Must|
 |75|O usuário deve avaliar recomendações do sistema.|Must|
 |76|O usuário pode alterar a ordem da lista a ser tocada.|Should|
+|77|O usuário pode buscar a partir de um trecho de música específica.|
+|78|O sistema deve assegurar a qualidade da plataforma.|
+|79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
+|80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
+|81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.|
 
