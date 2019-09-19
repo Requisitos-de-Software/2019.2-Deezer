@@ -7,6 +7,12 @@ Essa técnica foi usada durante o levantamento de requisitos, por cada membro de
 
 <br>
 
+## Data de realização: 
+12/09/2019 - 19/09/2019.
+<br>
+Reunião remota.
+<br>
+
 ## Participantes
 - Eduardo Lima
 - Samuel Pereira
@@ -30,7 +36,7 @@ Essa técnica foi usada durante o levantamento de requisitos, por cada membro de
 
 ### Micaella
 
-**Perfil do Entrevistado**:
+**Perfil do Entrevistado 1**:
 <br>
 Mestrando em Agronegócio.
 <br>
@@ -44,9 +50,14 @@ Mestrando em Agronegócio.
 |3|Ter variedade de músicas, personalização do aplicativo de acordo com meu perfil, ter podcasts.|
 |4|Acumular pontos que te dão promoções. Ter cupons, entre outros.|
 |5|Sim, como não escuto muitas músicas, não recebo muitas sugestões relevantes. Acho que a ferramenta de sugestão do Youtube é mais apurada, conexão ruim com outros dispositivos, muitas vezes o aplicativo trava na hora da busca.|
+
+Data de realização: 15/09/2019 - 15:00.
+<br>
+Entrevista presencial.
 <br>
 
-**Perfil da Entrevistada**:
+
+**Perfil da Entrevistada 2**:
 <br>
 Mestranda em História.
 <br>
@@ -60,10 +71,13 @@ Mestranda em História.
 |3|Ter a discografia das bandas, pode montar sua playlists, pode salvar os álbuns.|
 |4|Ser mais personalizado,tem o rastro das ouvidas recentemente, mas aparece muitas sugestões que eu nunca me interessaria.|
 |5|Às vezes trava, não ser personalizado.
-|
+
+Data de realização: 15/09/2019 - 15:10.
+<br>
+Entrevista presencial.
 <br>
 
-**Perfil da Entrevistada**:
+**Perfil da Entrevistada 3**:
 <br>
 Pedagoga.
 <br>
@@ -77,13 +91,13 @@ Pedagoga.
 |3|É melhor do que ouvir pelo Youtube, escutamos as músicas que fazem o nosso gosto.|
 |4|Poderia ser de graça.|
 |5|Sim, algumas músicas que procuro e não acho. Pesquisa por voz ou pelo pedaço da letra.
-|
+
+Data de realização: 15/09/2019 - 15:20.
+<br>
+Entrevista presencial.
+<br>
 
 ### Resultado
-Data de realização: 12/09/2019 - 19/09/2019.
-<br>
-Reunião remota.
-<br>
 
 |Nº|Requisito|
 |--|---------|
@@ -121,7 +135,7 @@ Trabalha no comércio
 
 Data de realização: 15/09/2019 - 12:00.
 <br>
-Reunião presencial.
+Entrevista presencial.
 <br>
 
 **Perfil do Entrevistado 2**:
@@ -148,7 +162,7 @@ Funcionário público.
 
 Data de realização: 17/09/2019 - 9:30.
 <br>
-Reunião presencial.
+Entrevista presencial.
 <br>
 
 |Pergunta|Resposta|
@@ -161,7 +175,7 @@ Reunião presencial.
 
 Data de realização: 17/09/2019 - 22:30.
 <br>
-Reunião presencial.
+Entrevista presencial.
 <br>
 
 ### Resultado
