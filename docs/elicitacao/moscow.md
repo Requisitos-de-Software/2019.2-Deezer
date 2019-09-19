@@ -110,4 +110,5 @@ Reunião presencial.
 |79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
 |80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
 |81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.|
-
+|82|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth|
+|83|O sistema deve apresentar uma interface intuitiva.|
