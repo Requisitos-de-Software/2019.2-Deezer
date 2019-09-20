@@ -191,3 +191,56 @@ Entrevista presencial.
 |61|O usuário free deve receber anúncios durante as trocas de conteúdo.|
 |11|O usuário pode controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
 
+### Samuel
+
+**Perfil do Entrevistado 1**:
+<br>
+Graduando em veterinária
+<br>
+23 anos
+<br>
+
+|Pergunta|Resposta|
+|--|---------|
+|1|Todos os dias.|
+|2|Só Spotify em questão de pago e Youtube.|
+|3|O ideal para mim seria tipo o Spotify, você ter vários estilos de músicas e cantores pequenos poderem colocar músicas. Eu só acho caro, acho que o perfil estudante poderia ser o ideal para todo mundo, sendo 8 reais para todos.|
+|4|Ter um karaokê à parte ia ser muito legal.|
+|5|A busca do Spotify é muito específica, se você escreve uma palavra errada do álbum ou alguma coisa, você já não consegue achar o que queria. Sei que isso é normal, mas a única coisa que senti falta é ele melhor relacionar as pesquisas, às vezes você só está lá procurando uma música por um trecho e você escreve que nem no Youtube e já poderia achar, não precisaria procurar pelo nome exato do cantor.|
+
+Data de realização: 14/09/2019 - 02:08.
+<br>
+Entrevista remota.
+<br>
+
+**Perfil do Entrevistado 2**:
+<br>
+Ensino médio completo
+<br>
+21 anos
+<br>
+
+|Pergunta|Resposta|
+|--|---------|
+|1|Praticamente todo dia.|
+|2|Sim, já usei. Spotify, Youtube, SoundCloud, Grooveshark, plug.dj e muito antigamente utilizava um site chamado Kboing.|
+|3|Ser uma plataforma leve, porque meu computador é ruim e gosto de ouvir enquanto estou jogando e se a plataforma for muito pesada não me apetece, inclusive, seria legal, se tratando de computador, se ela tivesse um programa que nem o Spotify que eu instalo e acaba sendo mais leve que meu próprio navegador, então se fosse só um site seria ruim. O ideal também seria ser gratuito, mas se tratando de algo mais realista, seria bom se tivesse mais formas de pagar pelo serviço sem ser somente pelo cartão de crédito, porque às vezes você só pode pagar com cartão de crédito e isso acaba te limitando, então se pudesse pagar com boleto e PicPay, por exemplo, seria o ideal por que facilita. E o básico, ter as músicas que eu gostaria de ouvir, de certa forma ser uma plataforma mais inclusiva que fosse fácil para artistas independentes, mais humildes, poderem upar e deixarem lá suas músicas e não só grandes gravadoras.|
+|4|Você ter um perfil, tipo um perfil mesmo de usuário onde você pode colocar seu avatar, sua capa, onde você pode compartilhar músicas que você está escutando com outras pessoas. Talvez ter integração com outros programas, tipo Discord, como o Spotify tem. Talvez ter uma personalização maior do player, sei lá, esses frufruzinhos.|
+|5|Acho que falta às vezes as músicas que eu gostaria de escutar. Em questão de função, acho que é mais de ser uma plataforma leve, talvez se tivesse um modo de configuração leve. Por exemplo, o Spotify no programa dele tem tudo ali, biblioteca, procurar artista e etc, talvez se tivesse uma função de configuração leve em que ele feche o programa mais pesado que tem todas as funções e abra um player bem simples, bem leve que só vai reproduzir a música, seria interessante.|
+
+Data de realização: 13/09/2019 - 18:45.
+<br>
+Entrevista remota.
+<br>
+
+### Resultado
+
+|Nº|Requisito|
+|--|---------|
+|82|O sistema deve oferecer uma busca mais flexível ao input do usuário.|
+|77|O usuário pode buscar a partir de um trecho de música específica.|
+|83|O sistema deve oferecer planos acessíveis aos usuários.|
+|84|O sistema deve oferecer uma plataforma leve e otimizada.|
+|85|O sistema deve permitir a utilização de múltiplas formas de pagamento.|
+|86|O usuário deve poder ter uma página de usuário customizável.|
+|87|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|
