@@ -110,4 +110,12 @@ Reunião presencial.
 |79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
 |80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
 |81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.|
-
+|88|O sistema deve fornecer informações a cerca de seu estado.|
+|89|O sistema deve fornecer informações a cerca das ações realizadas pelo usuário.|
+|90|O sistema deve memorizar o estado anterior do usuário.|
+|91|O sistema deve pesquisar em tempo real de acordo com o input do usuário.|
+|92|O usuário deve poder procurar por playlists, álbuns, usuários e faixas.|
+|93|O usuário free deve receber anúncios durante o uso do aplicativo.|
+|94|O sistema deve realizar confirmações de cadastro.|
+|95|O sistema deve automatizar etapas do processo de cadastro.|
+|96|O usuário deve poder visualizar políticas do sistema.|
