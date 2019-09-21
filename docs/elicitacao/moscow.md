@@ -29,11 +29,11 @@ Reunião presencial.
 
 |Nº|Requisito|MoSCoW|
 |--|---------|------|
-|1|usuário pode se cadastrar pela conta do Google.|Should|
-|2|usuário pode se cadastrar pela conta do Facebook.|Should|
-|3|usuário pode se cadastrar inserindo nome, telefone, gênero e idade.|Could|
-|4|usuário pode fazer login pelo email.|Must|
-|5|usuário pode fazer login pelo número do telefone.|Could|
+|1|O usuário pode se cadastrar pela conta do Google.|Should|
+|2|O usuário pode se cadastrar pela conta do Facebook.|Should|
+|3|O usuário pode se cadastrar inserindo nome, telefone, gênero e idade.|Could|
+|4|O usuário pode fazer login pelo email.|Must|
+|5|O usuário pode fazer login pelo número do telefone.|Could|
 |6|O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.|Could|
 |7|O sistema pode pedir ao usuário escolher artistas de seu gosto.|Could|
 |8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|Must|
@@ -110,4 +110,9 @@ Reunião presencial.
 |79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
 |80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
 |81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.|
-
+|82|O sistema deve oferecer uma busca mais flexível ao input do usuário.|
+|83|O sistema deve oferecer planos acessíveis aos usuários.|
+|84|O sistema deve oferecer uma plataforma leve e otimizada.|
+|85|O sistema deve permitir a utilização de múltiplas formas de pagamento.|
+|86|O usuário deve poder ter uma página de usuário customizável.|
+|87|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|
