@@ -159,6 +159,8 @@ Clico em albums, e em álbums você terá o álbum que você favoritou e lá voc
 Data de realização: 13/09/2019 - 14/09/2019 <br>
 Reunião remota.
 
+### Samuel
+
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
 | 88 | O sistema deve fornecer informações a cerca de seu estado.|
