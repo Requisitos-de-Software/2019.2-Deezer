@@ -244,3 +244,97 @@ Entrevista remota.
 |85|O sistema deve permitir a utilização de múltiplas formas de pagamento.|
 |86|O usuário deve poder ter uma página de usuário customizável.|
 |87|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|
+
+### Eduardo
+ 
+**Perfil do Entrevistado 1**:
+<br>
+Estudante.
+<br>
+18 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Todo dia.|
+|2|Sim, Spotify.|
+|3|Não precisar de internet.|
+|4|Dar sugestões de músicas parecidas com a que você escuta e ter podcasts.|
+|5|Não.|
+ 
+Data de realização: 19/09/2019 - 17:00.
+<br>
+Entrevista presencial.
+<br>
+ 
+**Perfil do Entrevistado 2**:
+<br>
+Graduanda em Engenharia Elétrica.
+<br>
+20 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Todos os dias.|
+|2|Sim, Spotify.|
+|3|Ter músicas novas e diferentes, além de ser prático e ter uma boa qualidade de som.|
+|4|Não é ideal, mas é interessante ter podcasts.|
+|5|Queria ter acesso a algumas músicas que só encontro no YouTube, por exemplo.|
+ 
+Data de realização: 19/09/2019 - 22:00.
+<br>
+Entrevista à distância.
+<br>
+ 
+**Perfil do Entrevistado 3**:
+<br>
+Advogada.
+<br>
+40 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Diariamente.|
+|2|Sim, Spotify e Youtube.|
+|3|Não travar e ter preço baixo.|
+|4|Mostrar as músicas mais populares e disponibilizar as letras.|
+|5|Senti falta de uma interface intuitiva para o cadastro e configuração de contas.|
+ 
+Data de realização: 21/09/2019 - 10:00.
+<br>
+Entrevista presencial.
+<br>
+ 
+**Perfil do Entrevistado 4**:
+<br>
+Administrador de Banco de Dados.
+<br>
+48 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Dia sim, dia não.|
+|2|Sim, Amazon music.|
+|3|Poder baixar músicas.|
+|4|Mostrar capas dos álbuns.|
+|5|Não.|
+ 
+Data de realização: 20/09/2019 - 10:00.
+<br>
+Entrevista presencial.
+<br>
+
+### Resultado
+ 
+|Nº|Requisito|
+|--|---------|
+|68|O usuário premium pode baixar conteúdo.|
+|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.| 
+|88|O usuário deve poder escutar podcasts.|
+|78|O sistema deve assegurar a qualidade da plataforma.|
+|28|O usuário pode acompanhar a letras das músicas enquanto as ouve.|
+|58|Na Página do Artista, o usuário pode visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|
+|89|O usuário deve poder visualizar as capas de álbuns.|

@@ -116,3 +116,5 @@ Reunião presencial.
 |85|O sistema deve permitir a utilização de múltiplas formas de pagamento.|
 |86|O usuário deve poder ter uma página de usuário customizável.|
 |87|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|
+|88|O usuário deve poder escutar podcasts.|
+|89|O usuário deve poder visualizar as capas de álbuns.|
