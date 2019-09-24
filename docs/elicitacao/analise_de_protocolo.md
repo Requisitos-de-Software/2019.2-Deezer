@@ -18,7 +18,7 @@ A Análise de Protocolo é uma técnica de elicitação de requisitos, que consi
 - Sofia Patrocínio
 - Luís Taira
 
-## Relato
+## Relato 1
 
 <p align="justify">&emsp;
 
@@ -105,4 +105,86 @@ Reunião presencial.
 |26     |O usuário pode visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.|
 |42     |O usuário pode seguir artistas e outros usuários.|
 
+## Relato 2
 
+<p align="justify">
+&emsp;Anônimo 1: "Cliquei para abrir o aplicativo do Deezer. <br>
+Apareceu a tela com o logo e deslizou para a esquerda. <br>
+Ele já está na tela de busca. Tem a opção pra mim procurar artistas, faixas ou podcasts. Tem uma opção para eu procurar por voz e também tem uma outra opção que ele vai identificar músicas que estão tocando a partir do meu microfone. Tem uma opção de músicas recentes que lista os álbuns que eu dei like quando fiz o cadastro. Embaixo tem várias opções de gênero, com todos os tipos de gênero de música. Blues, clássica, comédia, dancing, espiritualidade, religião, esporte, festa e infinitos temas. <br>
+Eu vou clicar na parte de busca por texto. <br>
+Cliquei e agora vou escrever o nome do álbum que estou procurando que é Uma Tarde na Fruteira. <br>
+Enquanto estou digitando, já vai aparecendo várias sugestões de músicas, de álbuns e artistas baseado no que escrevi. <br>
+Escrevi Uma Tarde na Fruteira e cliquei em pesquisar. <br>
+Carregou e apareceu uma tela com os resultados da minha pesquisa. Apareceu o álbum, playlists feitas por algum usuário e as músicas do álbum embaixo. <br>
+Eu vou clicar no álbum e abriu a página do álbum que tem o nome do álbum, nome do artista, a capa do álbum, tem uma opção bem no meio para eu escutar uma música aleatória, tem um opção que eu posso ativar para fazer download, embaixo tem uma lista de todas as músicas do álbum. Tem uma opção para eu reproduzir, tem uma opção para algum tipo de configuração e para dar like, um coração. E eu vou clicar em escutar alguma música aleatória e abriu a música. Está reproduzindo a música."
+<br> <br>
+&emsp;Anônimo 1: "Vou clicar para abrir o aplicativo do Deezer. <br>
+Ai aparece uma tela com o logo. A tela desliza para a esquerda. <br>
+Ai estou na página inicial e apareceu uma propaganda na tela inteira. Eu vou clicar para fechar no xzinho lá em cima. <br>
+Ai voltei para a tela inicial. Ai tem um banner para experimentar o Deezer premium. Tem sugestões de artistas e alguns artistas que eu dei like anteriormente quando fiz o cadastro. <br>
+Eu vou clicar em buscar no canto inferior direto, clicar na lupinha. <br>
+Eu cliquei e agora eu vou realizar uma busca a partir de um som que ele vai identificar a partir do meu microfone, num botão azul no meio da tela. <br>
+Apareceu uma tela do celular pedindo permissão do Deezer para gravar áudio e eu vou clicar para permitir. <br>
+E ele está ouvindo e vou botar a música agora. <br>
+Ele não encontrou nenhum resultado e ficou numa tela azul. <br>
+Vou clicar em tentar novamente. <br>
+A tela mudou, ele identificou a música, Luv Sic instrumental e apareceu o artista Nujabes, e na maior parte da tela está em branco e está escrito nenhum elemento a ser mostrado."
+<br> <br>
+&emsp;Anônimo 2: "Abriu o aplicativo. <br>
+Tem dois botões, conectar e cadastrar. <br>
+Cliquei em cadastrar, vou colocar meu número para me cadastrar. <br>
+Ele pede o número, nome de usuário, idade e gênero. <br>
+Colocando meu número. <br>
+Nome de usuário. <br>
+Idade. <br>
+Gênero, tem duas opções: masculino e feminino. <br>
+Cadastrei. <br>
+Ai ele fala que vai mandar um código para meu celular, só que automaticamente quando ele mandou, ele colocou o código direto. <br>
+Logo em seguida, ele abre uma tela falando importante, política de cookies e rastreio. Ele dá um aviso e coloca dois botões, eu concordo ou reveja as configurações. E tem um botãozinho menor escrito veja nossos parceiros. <br>
+Cliquei em concordo e então ele abre uma tela dizendo vamos conhecer que mostra vários cantores que eu posso seguir, ele me dá várias opções de vários tipos de músicas diferenciadas, tanto nacional como internacional. <br>
+Ai eu sou obrigada a escolher algum. Eu escolho um só, ai eu finalizei. Ai ele carrega e já abre uma páginad ele que já tem todos os álbuns de vários cantores e o que eu escolhi anteriormente já aparece logo na parte de cima. Tem vários álbuns passando e em cima já tem um banner de assinatura de quinze dias de teste grátis. E embaixo tem os botões de ínicio, flow, minhas músicas e busca, e dá vários tipos de música."
+<br> <br>
+&emsp;Anônimo 2: "Estou na tela de início. <br>
+Eu vou favoritar um álbum. <br>
+Eu abro um álbum aqui. <br>
+Abrindo um álbum, você tem a opção de tocar, o nome do álbum, a imagem do álbum e você tem logo abaixo do botão tocar, você tem a opção de download e de pesquisa. <br>
+Essa opção de download é só para membros premium que são membros que pagam a assinatura do aplicativo. <br>
+Embaixo disso, tem todas as faixas das músicas que tem nesse álbum aqui, cantores diferentes e pessoas. O gênero é semelhante, mas as músicas são de cantores diferentes, e você pode favoritar as músicas separadamente do álbum, mas quando você seleciona o botão de favoritar o álbum, aparece uma caixinha de texto escrito que seu álbum foi favoritado e está em minhas músicas. <br>
+Volto para o início, clico em minhas músicas. <br>
+Ai tem as opções de downloads, mais queridas, playlists, álbuns, artistas, mixes e podcast. <br>
+Clico em albums, e em álbums você terá o álbum que você favoritou e lá você pode dar play sem abrir o álbum em si, como você pode clicar na imagem do álbum e clicar em tocar, ou você pode clicar em qualquer música do álbum que irá começar a tocar em seguida a tocar todas as músicas que está nesse álbum, você pode começar por qualquer música que está nesse álbum."
+</p>
+
+##  Resultados
+Data de realização: 13/09/2019 - 14/09/2019 <br>
+Reunião remota.
+
+### Samuel
+
+|Número | Requisito                                         |
+|-------|---------------------------------------------------|
+| 88 | O sistema deve fornecer informações a cerca de seu estado.|
+| 89 | O sistema deve fornecer informações a cerca das ações realizadas pelo usuário.|
+| 90 | O sistema deve memorizar o estado anterior do usuário.|
+| 91 | O sistema deve pesquisar em tempo real de acordo com o input do usuário.|
+| 92 | O usuário deve poder procurar por playlists, álbuns, usuários e faixas.|
+| 93 | O usuário free deve receber anúncios durante o uso do aplicativo.|
+| 94 |O sistema deve realizar confirmações de cadastro.|
+| 95 |O sistema deve automatizar etapas do processo de cadastro.|
+| 96 |O usuário deve poder visualizar políticas do sistema.|
+| 63 | O usuário free deve escutar o conteúdo de forma aleatória.|
+| 68 | O usuário premium pode baixar conteúdo.|
+| 24 | O usuário pode acessar a página do Álbum.|
+| 52 | O usuário pode filtrar sua busca por gêneros e moods.|
+| 73 | O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.|
+| 19 | O usuário pode adicionar o conteúdo às Mais Queridas.|
+| 51 | O usuário pode buscar a partir de um som um conteúdo específico.|
+| 60 | O usuário free pode experimentar o Deezer Premium por um tempo determinado.|
+| 3 | O usuário pode se cadastrar inserindo nome, telefone, gênero e idade.|
+| 7 | O sistema pode pedir ao usuário escolher artistas de seu gosto.|
+| 8 | O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
+| 35 | O usuário pode ver seus álbuns favoritos.|
+| 59 | O usuário pode curtir artistas.|
+| 71 | O usuário premium pode escolher o conteúdo a ser tocado.|
+| 76 | O usuário pode alterar a ordem da lista a ser tocada.|
+| 55 | O usuário pode, a partir de um artista, encontrar artistas similares.|
