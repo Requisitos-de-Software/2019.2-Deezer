@@ -5,13 +5,13 @@
 
 <p align="justify">&emsp;
 
-A observação participativa é uma técnica que possibilita a inserção dos desenvolvedores no contexto da aplicação. Essa técnica consiste na observação da aplicação a fim conhecer suas funcionalidades e observar tarefas que deve poderm ser executadas pelo usuário, bem como a experiência do usuário na aplicação.
+A observação participativa é uma técnica que possibilita a inserção dos desenvolvedores no contexto da aplicação. Essa técnica consiste na observação da aplicação a fim conhecer suas funcionalidades e observar tarefas que podem ser executadas pelo usuário, bem como a experiência do usuário na aplicação.
 
 </p>
 
 <p align="justify">&emsp;
 
-Nosso intuito, ao utilizar a técnica, é obter requisitos através da análise das tarefas que deve poderm ser realizadas no Deezer e foi a primeira a ser aplicada pela nossa equipe, com a finalidade de conhecer bem a aplicação.
+Nosso intuito, ao utilizar a técnica, é obter requisitos através da análise das tarefas que podem ser realizadas no Deezer e foi a primeira a ser aplicada pela nossa equipe, com a finalidade de conhecer bem a aplicação.
 
 </p>
 
