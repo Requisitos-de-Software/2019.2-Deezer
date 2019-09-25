@@ -97,14 +97,14 @@ Pedagoga.
 |Nº|Requisito|
 |--|---------|
 |8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
-|54|O usuário pode ver as Top Músicas, últimos 
-|20|O usuário pode criar playlists.|
+|54|O usuário deve poder ver as Top Músicas, últimos 
+|20|O usuário deve poder criar playlists.|
 |30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
 |7|O sistema pode pedir ao usuário escolher artistas de seu gosto.|
 |6|O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.|
-|49|O usuário pode buscar por texto um conteúdo específico.|
-|51|O usuário pode buscar a partir de um som um conteúdo específico.|
-|77|O usuário pode buscar a partir de um trecho de música específica.|
+|49|O usuário deve poder buscar por texto um conteúdo específico.|
+|51|O usuário deve poder buscar a partir de um som um conteúdo específico.|
+|77|O usuário deve poder buscar a partir de um trecho de música específica.|
 |78|O sistema deve assegurar a qualidade da plataforma.|
 |79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
 |80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
@@ -243,14 +243,14 @@ Entrevista presencial.
 
 |Nº|Requisito|
 |--|---------|
-|28|O usuário pode acompanhar a letras das músicas enquanto as ouve.|
-|50|O usuário pode visualizar na página de busca conteúdos relacionados a pesquisa. 
-|64|O usuário free pode iniciar, pausar e pular o conteúdo.|
-|70|O usuário premium pode escutar o conteúdo offline.|
+|28|O usuário deve poder acompanhar a letras das músicas enquanto as ouve.|
+|50|O usuário deve poder visualizar na página de busca conteúdos relacionados a pesquisa. 
+|64|O usuário free deve poder iniciar, pausar e pular o conteúdo.|
+|70|O usuário premium deve poder escutar o conteúdo offline.|
 |72|O usuário premium não recebe anúncios durante a troca de conteúdo.|
 |66|O usuário premium deve pagar uma mensalidade.|
-|61|O usuário free deve receber anúncios durante as trocas de conteúdo.|
-|11|O usuário pode controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
+|61|O usuário free deve poder receber anúncios durante as trocas de conteúdo.|
+|11|O usuário deve poder controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
 
 ### Samuel
 
@@ -392,10 +392,10 @@ Entrevista presencial.
  
 |Nº|Requisito|
 |--|---------|
-|68|O usuário premium pode baixar conteúdo.|
+|68|O usuário premium deve poder baixar conteúdo.|
 |8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.| 
-|88|O usuário deve poder escutar podcasts.|
+|88|O usuário deve poder poder escutar podcasts.|
 |78|O sistema deve assegurar a qualidade da plataforma.|
-|28|O usuário pode acompanhar a letras das músicas enquanto as ouve.|
+|28|O usuário deve poder acompanhar a letras das músicas enquanto as ouve.|
 |58|Na Página do Artista, o usuário pode visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|
 |89|O usuário deve poder visualizar as capas de álbuns.|

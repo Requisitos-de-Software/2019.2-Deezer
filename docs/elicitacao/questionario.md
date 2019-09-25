@@ -5,6 +5,10 @@ O **questionário** é uma técnica com intuito de compreender o público-alvo e
 
 Para a preparação do questionário, levamos em consideração usuários e não usuários da aplicação. Para usuários, nossos principais interesses foram a interface, se intuitiva ou não e opinões sobre as principais funcionalidades do Deezer.
 
+|Número|Versão|
+|--|---------|
+|Versão 1 |Questionário 1 (Versão abaixo) (12/09/2019)|
+|Versão 1.1 |  [Questionário 1.1](questionario1.md) (19/09/2019)|
 
 ## Resultado
 
@@ -65,9 +69,9 @@ O Deezer possui uma parceria com a Tim, em que usuários da Tim podem ser usuár
 
 |Nº|Requisito|
 |--|---------|
-|9|O usuário pode escutar um conteúdo.|
-|12|O usuário pode criar seu Flow.|
-|60|O usuário free pode experimentar o Deezer Premium por um tempo determinado.|
+|9|O usuário deve poder escutar um conteúdo.|
+|12|O usuário deve poder criar seu Flow.|
+|60|O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.|
 |66|O usuário premium deve pagar uma mensalidade.|
 |8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
 |30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|

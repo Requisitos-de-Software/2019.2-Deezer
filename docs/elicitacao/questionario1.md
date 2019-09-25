@@ -9,8 +9,8 @@ Após feedbacks sobre o questionário no primeiro ponto de controle, decidimos e
 
 |Número|Versão|
 |--|---------|
-|Versão 1 |[Questionário](questionario.md) (12/09/2019)|
-|Versão 1.1 | Atual (19/09/2019)|
+|Versão 1 |[Questionário 1](questionario.md) (12/09/2019)|
+|Versão 1.1 | Questionário 1.1 (Atual) (19/09/2019)|
 
 ## Resultado
 
