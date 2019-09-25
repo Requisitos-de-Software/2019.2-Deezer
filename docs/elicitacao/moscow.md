@@ -116,5 +116,14 @@ Reunião presencial.
 |85|O sistema deve permitir a utilização de múltiplas formas de pagamento.|
 |86|O usuário deve poder ter uma página de usuário customizável.|
 |87|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|
-|88|O usuário deve poder escutar podcasts.|
-|89|O usuário deve poder visualizar as capas de álbuns.|
+|88|O sistema deve fornecer informações a cerca de seu estado.|
+|89|O sistema deve fornecer informações a cerca das ações realizadas pelo usuário.|
+|90|O sistema deve memorizar o estado anterior do usuário.|
+|91|O sistema deve pesquisar em tempo real de acordo com o input do usuário.|
+|92|O usuário deve poder procurar por playlists, álbuns, usuários e faixas.|
+|93|O usuário free deve receber anúncios durante o uso do aplicativo.|
+|94|O sistema deve realizar confirmações de cadastro.|
+|95|O sistema deve automatizar etapas do processo de cadastro.|
+|96|O usuário deve poder visualizar políticas do sistema.|
+|97|O usuário deve poder escutar podcasts.|
+|98|O usuário deve poder visualizar as capas de álbuns.|
