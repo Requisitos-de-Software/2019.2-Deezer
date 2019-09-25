@@ -5,6 +5,10 @@ O **questionário** é uma técnica com intuito de compreender o público-alvo e
 
 Para a preparação do questionário, levamos em consideração usuários e não usuários da aplicação. Para usuários, nossos principais interesses foram a interface, se intuitiva ou não e opinões sobre as principais funcionalidades do Deezer.
 
+|Número|Versão|
+|--|---------|
+|Versão 1 |Questionário 1 (Versão abaixo) (12/09/2019)|
+|Versão 1.1 |  [Questionário 1.1](questionario1.md) (19/09/2019)|
 
 ## Resultado
 
