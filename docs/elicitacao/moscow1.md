@@ -17,7 +17,7 @@ Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a 
 |Número|Versão|
 |--|---------|
 |Versão 1 |[MoSCoW 1](moscow.md) (10/09/2019)|
-|Versão 1.1 | MoSCoW 1.1(Atual) (22/09/2019)|
+|Versão 1.1 | MoSCoW 1.1(Atual) (22/09/2019 a 25/09/2019)|
 
 ## Participantes
 - Eduardo Lima
@@ -116,8 +116,8 @@ Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a 
 |86|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|Could|F|
 |87|O sistema deve fornecer feedbacks do seu status.|Should|NF|
 |88|O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.|Should|NF
-|89|O sistema deve retomar o último conteúdo ouvido no mesmo progresso quando o usuário reinicia o aplicativo.|Should|NF|
-|90|O sistema deve pesquisar em tempo real de acordo com a busca do usuário.|-|F|
+|89|O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.|Should|NF|
+|90|O sistema deve pesquisar em tempo real de acordo com a busca do usuário.|Could|F|
 |91|O sistema deve realizar confirmações de cadastro.|Should|NF|
 |92|O sistema deve automatizar etapas do processo de cadastro.|Should|F|
 |93|O usuário deve poder visualizar políticas do sistema.|Must|NF|

@@ -15,7 +15,7 @@ de prioridade, sendo elas:
 |Número|Versão|
 |--|---------|
 |Versão 1 |MoSCoW 1(Versão abaixo) (10/09/2019)|
-|Versão 1.1 | [MoSCoW 1.1](moscow1.md) (22/09/2019)|
+|Versão 1.1 | [MoSCoW 1.1](moscow1.md) (22/09/2019 a 25/09/2019)|
 
 ### Execução
 

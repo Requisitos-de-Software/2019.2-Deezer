@@ -165,7 +165,7 @@ Reunião remota.
 |-------|---------------------------------------------------|
 | 87 | O sistema deve fornecer feedbacks do seu status.|
 | 88 | O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.|
-| 89 | O sistema deve retomar o último conteúdo ouvido no mesmo progresso quando o usuário reinicia o aplicativo.|
+| 89 | O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.|
 | 90 | O sistema deve pesquisar em tempo real de acordo com a busca do usuário.|
 | 49 | O usuário deve poder buscar por texto um conteúdo específico.|
 | 61 | O usuário free deve receber anúncios durante o uso da aplicação.|
