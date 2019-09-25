@@ -54,37 +54,37 @@ Reunião presencial.
 
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
-|33     |O usuário pode ver suas músicas Mais Queridas.    |
-|34     |O usuário pode ver suas playlists favoritas e criadas.|
-|35     |O usuário pode ver seus álbuns favoritos.|
-|36     |O usuário pode ver seus artistas favoritos.|
-|37     |O usuário pode ver seus mixes criados.|
-|38     |O usuário pode ver seus podcasts favoritos.|
-|46     |O usuário pode configurar o aplicativo.|
-|41     |O usuário pode acessar suas notificações.|
-|49     |O usuário pode buscar por texto um conteúdo específico.|
-|50     |O usuário pode visualizar na página de busca conteúdos relacionados a pesquisa.|
-|19     |O usuário pode adicionar o conteúdo às Mais Queridas.|
-|22     |O usuário pode compartilhar o conteúdo para outras plataformas.|
-|23     |O usuário pode acessar a Página do Artista.|
-|14     |O usuário pode adicionar conteúdo a fila de espera.|
-|9      |O usuário pode escutar um conteúdo.|
-|20     |O usuário pode criar playlists.|
-|21     |O usuário pode adicionar o conteúdo em alguma playlist.|
-|18     |O usuário pode bloquear o conteúdo.|
+|33     |O usuário deve poder ver suas músicas Mais Queridas.    |
+|34     |O usuário deve poder ver suas playlists favoritas e criadas.|
+|35     |O usuário deve poder ver seus álbuns favoritos.|
+|36     |O usuário deve poder ver seus artistas favoritos.|
+|37     |O usuário deve poder ver seus mixes criados.|
+|38     |O usuário deve poder ver seus podcasts favoritos.|
+|46     |O usuário deve poder configurar o aplicativo.|
+|41     |O usuário deve poder acessar suas notificações.|
+|49     |O usuário deve poder buscar por texto um conteúdo específico.|
+|50     |O usuário deve poder visualizar na página de busca conteúdos relacionados a pesquisa.|
+|19     |O usuário deve poder adicionar o conteúdo às Mais Queridas.|
+|22     |O usuário deve poder compartilhar o conteúdo para outras plataformas.|
+|23     |O usuário deve poder acessar a Página do Artista.|
+|14     |O usuário deve poder adicionar conteúdo a fila de espera.|
+|9      |O usuário deve poder escutar um conteúdo.|
+|20     |O usuário deve poder criar playlists.|
+|21     |O usuário deve poder adicionar o conteúdo em alguma playlist.|
+|18     |O usuário deve poder bloquear o conteúdo.|
 |39     |O sistema deve oferecer episódios do mesmo podcast que o usuário está ouvindo.|
-|53     |O usuário pode ampliar sua busca de forma específica.|
+|53     |O usuário deve poder ampliar sua busca de forma específica.|
 |63     |O usuário free deve escutar o conteúdo de forma aleatória.|
-|15     |O usuário pode configurar a qualidade de áudio.|
-|16     |O usuário pode configurar o equalizador.|
-|13     |O usuário pode visualizar a fila de espera.|
-|28     |O usuário pode acompanhar a letras das músicas enquanto as ouve.|
+|15     |O usuário deve poder configurar a qualidade de áudio.|
+|16     |O usuário deve poder configurar o equalizador.|
+|13     |O usuário deve poder visualizar a fila de espera.|
+|28     |O usuário deve poder acompanhar a letras das músicas enquanto as ouve.|
 |62     |O usuário free tem número limitado para pular o conteúdo.|
-|64     |O usuário free pode iniciar, pausar e pular o conteúdo.|
+|64     |O usuário free deve poder iniciar, pausar e pular o conteúdo.|
 |61     |O usuário free deve receber anúncios durante as trocas de conteúdo.|
-|56     |Na Página do Artista, o usuário pode visualizar playlists em que o artista está.|
-|57     |Na página do Artista, o usuário pode visualizar faixas em que o artista aparece.|
-|58     |Na Página do Artista, o usuário pode visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|
+|56     |Na Página do Artista, o usuário deve poder visualizar playlists em que o artista está.|
+|57     |Na página do Artista, o usuário deve poder visualizar faixas em que o artista aparece.|
+|58     |Na Página do Artista, o usuário deve poder visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|
 |8      |O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
 |30     |O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
 
@@ -94,16 +94,16 @@ Reunião presencial.
 |-------|---------------------------------------------------|
 |32     |O sistema deve gerar conteúdos tocados recentemente.|
 |2      |O usuário premium deve poder baixar musicas.|
-|68     |	O usuário premium pode baixar conteúdo.|
-|11     |O usuário pode controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
-|69     |O usuário premium pode iniciar, pausar, pular e voltar o conteúdo.|
-|22     |O usuário pode compartilhar o conteúdo para outras plataformas.|
-|49     |O usuário pode buscar por texto um conteúdo específico.|
-|50     |O usuário pode visualizar na página de busca conteúdos relacionados a pesquisa.|
-|25     |O usuário pode acessar a página de perfis de outros usuários.|
-|27     |O usuário pode começar um flow, mesclando seu gosto musical com o de outro usuário.|
-|26     |O usuário pode visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.|
-|42     |O usuário pode seguir artistas e outros usuários.|
+|68     |O usuário premium deve poder baixar conteúdo.|
+|11     |O usuário deve poder controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
+|69     |O usuário premium deve poder iniciar, pausar, pular e voltar o conteúdo.|
+|22     |O usuário deve poder compartilhar o conteúdo para outras plataformas.|
+|49     |O usuário deve poder buscar por texto um conteúdo específico.|
+|50     |O usuário deve poder visualizar na página de busca conteúdos relacionados a pesquisa.|
+|25     |O usuário deve poder acessar a página de perfis de outros usuários.|
+|27     |O usuário deve poder começar um flow, mesclando seu gosto musical com o de outro usuário.|
+|26     |O usuário deve poder visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.|
+|42     |O usuário deve poder seguir artistas e outros usuários.|
 
 ## Relato 2
 
@@ -174,17 +174,17 @@ Reunião remota.
 | 96 |O usuário deve poder visualizar políticas do sistema.|
 | 63 | O usuário free deve escutar o conteúdo de forma aleatória.|
 | 68 | O usuário premium pode baixar conteúdo.|
-| 24 | O usuário pode acessar a página do Álbum.|
-| 52 | O usuário pode filtrar sua busca por gêneros e moods.|
+| 24 | O usuário deve poder acessar a página do Álbum.|
+| 52 | O usuário deve poder filtrar sua busca por gêneros e moods.|
 | 73 | O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.|
-| 19 | O usuário pode adicionar o conteúdo às Mais Queridas.|
-| 51 | O usuário pode buscar a partir de um som um conteúdo específico.|
-| 60 | O usuário free pode experimentar o Deezer Premium por um tempo determinado.|
-| 3 | O usuário pode se cadastrar inserindo nome, telefone, gênero e idade.|
+| 19 | O usuário deve poder adicionar o conteúdo às Mais Queridas.|
+| 51 | O usuário deve poder buscar a partir de um som um conteúdo específico.|
+| 60 | O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.|
+| 3 | O usuário deve poder se cadastrar inserindo nome, telefone, gênero e idade.|
 | 7 | O sistema pode pedir ao usuário escolher artistas de seu gosto.|
 | 8 | O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
-| 35 | O usuário pode ver seus álbuns favoritos.|
-| 59 | O usuário pode curtir artistas.|
-| 71 | O usuário premium pode escolher o conteúdo a ser tocado.|
-| 76 | O usuário pode alterar a ordem da lista a ser tocada.|
-| 55 | O usuário pode, a partir de um artista, encontrar artistas similares.|
+| 35 | O usuário deve poder ver seus álbuns favoritos.|
+| 59 | O usuário deve poder curtir artistas.|
+| 71 | O usuário premium deve poder escolher o conteúdo a ser tocado.|
+| 76 | O usuário deve poder alterar a ordem da lista a ser tocada.|
+| 55 | O usuário deve poder, a partir de um artista, encontrar artistas similares.|
