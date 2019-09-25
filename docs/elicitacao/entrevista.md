@@ -173,8 +173,8 @@ Entrevista presencial.
 |8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
 |49|O usuário pode buscar por texto um conteúdo específico.|
 |26|O usuário pode visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.|
-|82|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.|
-|83|O sistema deve apresentar uma interface intuitiva.|
+|99|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.|
+|100|O sistema deve apresentar uma interface intuitiva.|
 
 
 ### Sofia

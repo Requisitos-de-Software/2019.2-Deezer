@@ -127,3 +127,5 @@ Reunião presencial.
 |96|O usuário deve poder visualizar políticas do sistema.|
 |97|O usuário deve poder escutar podcasts.|
 |98|O usuário deve poder visualizar as capas de álbuns.|
+|99|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.|
+|100|O sistema deve apresentar uma interface intuitiva.|
