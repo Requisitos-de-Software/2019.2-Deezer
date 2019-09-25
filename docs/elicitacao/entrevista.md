@@ -34,7 +34,7 @@ Reunião remota.
 <br>
 <br>
 
-### **Entrevistadora:** Micaella
+### Micaella
 
 **Perfil do Entrevistado 1**:
 <br>
@@ -92,9 +92,27 @@ Pedagoga.
 |4|Poderia ser de graça.|
 |5|Sim, algumas músicas que procuro e não acho. Pesquisa por voz ou pelo pedaço da letra.
 
-### **Entrevistador:** Luís
+### Resultado
 
-**Entrevistado**: Maria Fernanda Medeiros
+|Nº|Requisito|
+|--|---------|
+|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
+|54|O usuário pode ver as Top Músicas, últimos 
+|20|O usuário pode criar playlists.|
+|30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
+|7|O sistema pode pedir ao usuário escolher artistas de seu gosto.|
+|6|O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.|
+|49|O usuário pode buscar por texto um conteúdo específico.|
+|51|O usuário pode buscar a partir de um som um conteúdo específico.|
+|77|O usuário pode buscar a partir de um trecho de música específica.|
+|78|O sistema deve assegurar a qualidade da plataforma.|
+|79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
+|80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
+|81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.|
+
+### Luís
+
+**Perfil da Entrevistada 1**:
 <br>
 Estudante
 <br>
@@ -110,7 +128,7 @@ Estudante
 |5|Não, nunca faltou algo extremamente relevante nesses serviços.|
 <br>
 
-**Entrevistado**: Eduardo Felix
+**Perfil do Entrevistado 2**:
 <br>
 Estudante de Engenharia Automotiva
 <br>
@@ -126,7 +144,7 @@ Estudante de Engenharia Automotiva
 |5|Sim. Eu não sei se isso pode ser programado no app de música, mas eu gostaria que msm não tendo sido aberto ou não estando em segundo plano, que o app pudesse ser aberto e deixado no ponto de tocar uma música sempre que o bluetooth do carro conecta com meu celular. Não precisar pegar o celular pra abrir o app e dar play sempre que eu entrasse no carro seria de uma conveniência absurda na minha opinião.|
 <br>
 
-**Entrevistado**: Victor Virgini
+**Perfil da Entrevistado 3**:
 <br>
 Estudante de direito.
 <br>
@@ -149,24 +167,6 @@ Entrevista presencial.
 <br>
 
 ### Resultado
-
-|Nº|Requisito|
-|--|---------|
-|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
-|54|O usuário pode ver as Top Músicas, últimos 
-|20|O usuário pode criar playlists.|
-|30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
-|7|O sistema pode pedir ao usuário escolher artistas de seu gosto.|
-|6|O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.|
-|49|O usuário pode buscar por texto um conteúdo específico.|
-|51|O usuário pode buscar a partir de um som um conteúdo específico.|
-|77|O usuário pode buscar a partir de um trecho de música específica.|
-|78|O sistema deve assegurar a qualidade da plataforma.|
-|79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
-|80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
-|81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.|
-
-### Luís
 
 |Nº|Requisito|
 |--|---------|
@@ -252,3 +252,150 @@ Entrevista presencial.
 |61|O usuário free deve receber anúncios durante as trocas de conteúdo.|
 |11|O usuário pode controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
 
+### Samuel
+
+**Perfil do Entrevistado 1**:
+<br>
+Graduando em veterinária
+<br>
+23 anos
+<br>
+
+|Pergunta|Resposta|
+|--|---------|
+|1|Todos os dias.|
+|2|Só Spotify em questão de pago e Youtube.|
+|3|O ideal para mim seria tipo o Spotify, você ter vários estilos de músicas e cantores pequenos poderem colocar músicas. Eu só acho caro, acho que o perfil estudante poderia ser o ideal para todo mundo, sendo 8 reais para todos.|
+|4|Ter um karaokê à parte ia ser muito legal.|
+|5|A busca do Spotify é muito específica, se você escreve uma palavra errada do álbum ou alguma coisa, você já não consegue achar o que queria. Sei que isso é normal, mas a única coisa que senti falta é ele melhor relacionar as pesquisas, às vezes você só está lá procurando uma música por um trecho e você escreve que nem no Youtube e já poderia achar, não precisaria procurar pelo nome exato do cantor.|
+
+Data de realização: 14/09/2019 - 02:08.
+<br>
+Entrevista remota.
+<br>
+
+**Perfil do Entrevistado 2**:
+<br>
+Ensino médio completo
+<br>
+21 anos
+<br>
+
+|Pergunta|Resposta|
+|--|---------|
+|1|Praticamente todo dia.|
+|2|Sim, já usei. Spotify, Youtube, SoundCloud, Grooveshark, plug.dj e muito antigamente utilizava um site chamado Kboing.|
+|3|Ser uma plataforma leve, porque meu computador é ruim e gosto de ouvir enquanto estou jogando e se a plataforma for muito pesada não me apetece, inclusive, seria legal, se tratando de computador, se ela tivesse um programa que nem o Spotify que eu instalo e acaba sendo mais leve que meu próprio navegador, então se fosse só um site seria ruim. O ideal também seria ser gratuito, mas se tratando de algo mais realista, seria bom se tivesse mais formas de pagar pelo serviço sem ser somente pelo cartão de crédito, porque às vezes você só pode pagar com cartão de crédito e isso acaba te limitando, então se pudesse pagar com boleto e PicPay, por exemplo, seria o ideal por que facilita. E o básico, ter as músicas que eu gostaria de ouvir, de certa forma ser uma plataforma mais inclusiva que fosse fácil para artistas independentes, mais humildes, poderem upar e deixarem lá suas músicas e não só grandes gravadoras.|
+|4|Você ter um perfil, tipo um perfil mesmo de usuário onde você pode colocar seu avatar, sua capa, onde você pode compartilhar músicas que você está escutando com outras pessoas. Talvez ter integração com outros programas, tipo Discord, como o Spotify tem. Talvez ter uma personalização maior do player, sei lá, esses frufruzinhos.|
+|5|Acho que falta às vezes as músicas que eu gostaria de escutar. Em questão de função, acho que é mais de ser uma plataforma leve, talvez se tivesse um modo de configuração leve. Por exemplo, o Spotify no programa dele tem tudo ali, biblioteca, procurar artista e etc, talvez se tivesse uma função de configuração leve em que ele feche o programa mais pesado que tem todas as funções e abra um player bem simples, bem leve que só vai reproduzir a música, seria interessante.|
+
+Data de realização: 13/09/2019 - 18:45.
+<br>
+Entrevista remota.
+<br>
+
+### Resultado
+
+|Nº|Requisito|
+|--|---------|
+|82|O sistema deve oferecer uma busca mais flexível ao input do usuário.|
+|77|O usuário pode buscar a partir de um trecho de música específica.|
+|83|O sistema deve oferecer planos acessíveis aos usuários.|
+|84|O sistema deve oferecer uma plataforma leve e otimizada.|
+|85|O sistema deve permitir a utilização de múltiplas formas de pagamento.|
+|86|O usuário deve poder ter uma página de usuário customizável.|
+|87|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|
+
+### Eduardo
+ 
+**Perfil do Entrevistado 1**:
+<br>
+Estudante.
+<br>
+18 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Todo dia.|
+|2|Sim, Spotify.|
+|3|Não precisar de internet.|
+|4|Dar sugestões de músicas parecidas com a que você escuta e ter podcasts.|
+|5|Não.|
+ 
+Data de realização: 19/09/2019 - 17:00.
+<br>
+Entrevista presencial.
+<br>
+ 
+**Perfil do Entrevistado 2**:
+<br>
+Graduanda em Engenharia Elétrica.
+<br>
+20 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Todos os dias.|
+|2|Sim, Spotify.|
+|3|Ter músicas novas e diferentes, além de ser prático e ter uma boa qualidade de som.|
+|4|Não é ideal, mas é interessante ter podcasts.|
+|5|Queria ter acesso a algumas músicas que só encontro no YouTube, por exemplo.|
+ 
+Data de realização: 19/09/2019 - 22:00.
+<br>
+Entrevista à distância.
+<br>
+ 
+**Perfil do Entrevistado 3**:
+<br>
+Advogada.
+<br>
+40 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Diariamente.|
+|2|Sim, Spotify e Youtube.|
+|3|Não travar e ter preço baixo.|
+|4|Mostrar as músicas mais populares e disponibilizar as letras.|
+|5|Senti falta de uma interface intuitiva para o cadastro e configuração de contas.|
+ 
+Data de realização: 21/09/2019 - 10:00.
+<br>
+Entrevista presencial.
+<br>
+ 
+**Perfil do Entrevistado 4**:
+<br>
+Administrador de Banco de Dados.
+<br>
+48 anos.
+<br>
+ 
+|Pergunta|Resposta|
+|--|---------|
+|1|Dia sim, dia não.|
+|2|Sim, Amazon music.|
+|3|Poder baixar músicas.|
+|4|Mostrar capas dos álbuns.|
+|5|Não.|
+ 
+Data de realização: 20/09/2019 - 10:00.
+<br>
+Entrevista presencial.
+<br>
+
+### Resultado
+ 
+|Nº|Requisito|
+|--|---------|
+|68|O usuário premium pode baixar conteúdo.|
+|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.| 
+|88|O usuário deve poder escutar podcasts.|
+|78|O sistema deve assegurar a qualidade da plataforma.|
+|28|O usuário pode acompanhar a letras das músicas enquanto as ouve.|
+|58|Na Página do Artista, o usuário pode visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|
+|89|O usuário deve poder visualizar as capas de álbuns.|

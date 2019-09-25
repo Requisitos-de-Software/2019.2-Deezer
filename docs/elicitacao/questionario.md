@@ -9,7 +9,7 @@ Para a preparação do questionário, levamos em consideração usuários e não
 ## Resultado
 
 
-Data de realização: 05/09/2019 - hoje.
+Data de realização: 05/09/2019 - 12/09/2019.
 <br>
 Reunião remota.
 
