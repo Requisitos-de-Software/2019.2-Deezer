@@ -125,3 +125,5 @@ Reunião presencial.
 |94|O sistema deve realizar confirmações de cadastro.|
 |95|O sistema deve automatizar etapas do processo de cadastro.|
 |96|O usuário deve poder visualizar políticas do sistema.|
+|97|O usuário deve poder escutar podcasts.|
+|98|O usuário deve poder visualizar as capas de álbuns.|
