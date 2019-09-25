@@ -163,17 +163,17 @@ Reunião remota.
 
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
-| 88 | O sistema deve fornecer informações a cerca de seu estado.|
-| 89 | O sistema deve fornecer informações a cerca das ações realizadas pelo usuário.|
-| 90 | O sistema deve memorizar o estado anterior do usuário.|
-| 91 | O sistema deve pesquisar em tempo real de acordo com o input do usuário.|
-| 92 | O usuário deve poder procurar por playlists, álbuns, usuários e faixas.|
-| 93 | O usuário free deve receber anúncios durante o uso do aplicativo.|
-| 94 |O sistema deve realizar confirmações de cadastro.|
-| 95 |O sistema deve automatizar etapas do processo de cadastro.|
-| 96 |O usuário deve poder visualizar políticas do sistema.|
-| 63 | O usuário free deve escutar o conteúdo de forma aleatória.|
-| 68 | O usuário premium pode baixar conteúdo.|
+| 87 | O sistema deve fornecer feedbacks do seu status.|
+| 88 | O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.|
+| 89 | O sistema deve retomar o último conteúdo ouvido no mesmo progresso quando o usuário reinicia o aplicativo.|
+| 90 | O sistema deve pesquisar em tempo real de acordo com a busca do usuário.|
+| 49 | O usuário deve poder buscar por texto um conteúdo específico.|
+| 61 | O usuário free deve receber anúncios durante o uso da aplicação.|
+| 91 | O sistema deve realizar confirmações de cadastro.|
+| 92 | O sistema deve automatizar etapas do processo de cadastro.|
+| 93 | O usuário deve poder visualizar políticas do sistema.|
+| 63 | O usuário free deve poder escutar o conteúdo de forma aleatória.|
+| 68 | O usuário premium deve poder baixar conteúdo.|
 | 24 | O usuário deve poder acessar a página do Álbum.|
 | 52 | O usuário deve poder filtrar sua busca por gêneros e moods.|
 | 73 | O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.|
@@ -181,8 +181,8 @@ Reunião remota.
 | 51 | O usuário deve poder buscar a partir de um som um conteúdo específico.|
 | 60 | O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.|
 | 3 | O usuário deve poder se cadastrar inserindo nome, telefone, gênero e idade.|
-| 7 | O sistema pode pedir ao usuário escolher artistas de seu gosto.|
-| 8 | O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
+| 7 | O sistema deve pedir ao usuário escolher artistas de seu gosto.|
+| 8 | O sistema deve recomendar músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
 | 35 | O usuário deve poder ver seus álbuns favoritos.|
 | 59 | O usuário deve poder curtir artistas.|
 | 71 | O usuário premium deve poder escolher o conteúdo a ser tocado.|

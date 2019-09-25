@@ -34,10 +34,10 @@ Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a 
 |2|O usuário deve poder se cadastrar pela conta do Facebook.|Should|F|
 |3|O usuário deve poder se cadastrar inserindo nome, telefone, gênero e idade.|Could|F|
 |4|O usuário deve poder fazer login pelo email.|Must|F|
-|5|O usuário pode fazer login pelo número do telefone.|Could|F|
-|6|O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.|Could|F|
-|7|O sistema pode pedir ao usuário escolher artistas de seu gosto.|Could|F|
-|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|Must|NF|
+|5|O usuário deve poder fazer login pelo número do telefone.|Could|F|
+|6|O sistema deve pedir ao usuário escolher até 5 gêneros de seu gosto.|Could|F|
+|7|O sistema deve pedir ao usuário escolher artistas de seu gosto.|Could|F|
+|8|O sistema deve recomendar músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|Must|NF|
 |9|O usuário deve poder escutar um conteúdo.|Must|F|
 |10|O usuário deve poder controlar o conteúdo que está em reprodução enquanto usa o aplicativo.|Must|F|
 |11|O usuário deve poder controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|Must|F|
@@ -90,7 +90,7 @@ Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a 
 |58|Na Página do Artista, o usuário deve poder visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|Could|F|
 |59|O usuário deve poder curtir artistas.|Must|F|
 |60|O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.|Must|NF|
-|61|O usuário free deve poder receber anúncios durante as trocas de conteúdo.|Must|F|
+|61|O usuário free deve receber anúncios durante o uso da aplicação.|Must|F|
 |62|O usuário free deve ter um número limitado para pular o conteúdo.|Must|F|
 |63|O usuário free deve ter que escutar o conteúdo de forma aleatória.|Could|F|
 |64|O usuário free deve poder iniciar, pausar e pular o conteúdo.|Must|F|
@@ -101,7 +101,7 @@ Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a 
 |69|O usuário premium deve poder iniciar, pausar, pular e voltar o conteúdo.|Must|F|
 |70|O usuário premium deve poder escutar o conteúdo offline.|Must|F|
 |71|O usuário premium deve poder escolher o conteúdo a ser tocado.|Must|F|
-|72|O usuário premium não deve receber anúncios durante a troca de conteúdo.|Must|NF|
+|72|O usuário premium não deve receber anúncios durante o uso da aplicação.|Must|NF|
 |73|O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.|Should|F|
 |74|O usuário deve conseguir repetir um conteúdo, playlists, álbuns, podcasts.|Must|F|
 |75|O usuário deve poder avaliar recomendações do sistema.|Must|F|
@@ -114,14 +114,13 @@ Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a 
 |84|O sistema deve permitir a utilização de múltiplas formas de pagamento.|Must|F|
 |85|O usuário deve poder ter uma página de usuário customizável.|Could|F|
 |86|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|Could|F|
-|87|O sistema deve fornecer informações a cerca de seu estado.|
-|88|O sistema deve fornecer informações a cerca das ações realizadas pelo usuário.|
-|89|O sistema deve memorizar o estado anterior do usuário.|
-|90|O sistema deve pesquisar em tempo real de acordo com o input do usuário.|
-|91|O usuário deve poder procurar por playlists, álbuns, usuários e faixas.|
-|92|O usuário free deve receber anúncios durante o uso do aplicativo.|
-|93|O sistema deve realizar confirmações de cadastro.|
-|94|O sistema deve automatizar etapas do processo de cadastro.|
-|95|O usuário deve poder visualizar políticas do sistema.|
-|96|O usuário deve poder escutar podcasts.|
-|97|O usuário deve poder visualizar as capas de álbuns.|
+|87|O sistema deve fornecer feedbacks do seu status.|Should|NF|
+|88|O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.|Should|NF
+|89|O sistema deve retomar o último conteúdo ouvido no mesmo progresso quando o usuário reinicia o aplicativo.|Should|NF|
+|90|O sistema deve pesquisar em tempo real de acordo com a busca do usuário.|-|F|
+|91|O sistema deve realizar confirmações de cadastro.|Should|NF|
+|92|O sistema deve automatizar etapas do processo de cadastro.|Should|F|
+|93|O usuário deve poder visualizar políticas do sistema.|Must|NF|
+|94|O usuário deve poder visualizar as capas de álbuns.|Could|NF|
+|95|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.|Could|F|
+|96|O sistema deve apresentar uma interface intuitiva.|Must|NF|
