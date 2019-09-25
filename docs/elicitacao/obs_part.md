@@ -38,11 +38,11 @@ Reunião remota.
 
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
-|1      |usuário deve poder se cadastrar pela conta do Google.    |
-|2      |usuário deve poder se cadastrar pela conta do Facebook.  |
-|3      |usuário deve poder se cadastrar inserindo nome, telefone, gênero e idade.|
-|4      |usuário deve poder fazer login pelo email.|
-|5      |usuário deve poder fazer login pelo número do telefone.|
+|1      |O usuário deve poder se cadastrar pela conta do Google.    |
+|2      |O usuário deve poder se cadastrar pela conta do Facebook.  |
+|3      |O usuário deve poder se cadastrar inserindo nome, telefone, gênero e idade.|
+|4      |O usuário deve poder fazer login pelo email.|
+|5      |O usuário deve poder fazer login pelo número do telefone.|
 |6      |O sistema deve poder pedir ao usuário escolher até 5 gêneros de seu gosto.|
 |7      |O sistema deve poder pedir ao usuário escolher artistas de seu gosto.|
 |8      |O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
@@ -73,7 +73,7 @@ Reunião remota.
 |40      |O usuário deve poder ser notificado com as atualizações e novidades mais recentes.|
 |42      |O usuário deve poder seguir artistas e outros usuários|
 |43      |O usuário deve poder ser seguido.|
-|44      |Criações do usuário podem ser seguidas.|
+|44      |Criações do usuário devem poder ser seguidas.|
 |45      |O usuário deve poder gerenciar sua conta.|
 |46      |O usuário deve poder configurar o aplicativo.|
 |47      |O usuário deve poder gerenciar os dispositivos conectados.|
@@ -89,7 +89,7 @@ Reunião remota.
 |59      |O usuário deve poder curtir artistas.|
 |60      |O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.|
 |61      |O usuário free deve receber anúncios durante as trocas de conteúdo.|
-|62      |O usuário free tem número limitado para pular o conteúdo.|
+|62      |O usuário free deve ter número limitado para pular o conteúdo.|
 |63      |O usuário free deve ouvir o conteúdo de forma aleatória.|
 |65      |O usuário free deve possuir conexão com internet para acessar o conteúdo.|
 |66      |O usuário premium deve pagar uma mensalidade.|
@@ -97,4 +97,4 @@ Reunião remota.
 |68      |O usuário premium deve poder baixar conteúdo.|
 |70      |O usuário premium deve poder ouvir o conteúdo offline.|
 |71      |O usuário premium deve poder escolher o conteúdo a ser tocado.|
-|72      |O usuário premium não recebe anúncios durante a troca de conteúdo.|
+|72      |O usuário premium não deve receber anúncios durante a troca de conteúdo.|
