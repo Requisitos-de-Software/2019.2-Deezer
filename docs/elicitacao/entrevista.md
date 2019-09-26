@@ -8,7 +8,7 @@ Essa técnica foi usada durante o levantamento de requisitos, por cada membro de
 <br>
 
 ## Data de realização: 
-12/09/2019 - 19/09/2019.
+12/09/2019 - 25/09/2019.
 <br>
 Reunião remota.
 <br>
