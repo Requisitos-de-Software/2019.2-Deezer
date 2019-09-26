@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../../assets/favicon.ico">
         
-        <title>Moscow - Deezer</title>
+        <title>MoScoW - Deezer</title>
         <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
@@ -67,12 +67,12 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li >
-    <a href="../moscow1/">MoScoW</a>
+<li class="active">
+    <a href="./">MoScoW</a>
 </li>
                                     
 <li >
@@ -104,6 +104,16 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
+                            <li >
+                                <a rel="next" href="../../pontocontrole/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../introspeccao/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
                     </ul>
                 </div>
             </div>
@@ -113,14 +123,14 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#moscow">MoSCoW</a></li>
-            <li><a href="#execucao">Execução</a></li>
+            <li><a href="#participantes">Participantes</a></li>
             <li><a href="#resultado">Resultado</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h2 id="moscow"><strong>MoSCoW</strong></h2>
-<p><br></p>
+<h1 id="moscow">MoSCoW</h1>
+<p><div class="line"></div></p>
 <p><strong>MoSCoW</strong> é uma técnica de priorização de requisitos, onde os requisitos elicitados são dividos em quatro categorias
 de prioridade, sendo elas:</p>
 <ul>
@@ -137,6 +147,7 @@ de prioridade, sendo elas:</p>
 <p><strong><em>Would</em></strong> = Menos crítico ao projeto, requisitos que devem ter a concordância do cliente.</p>
 </li>
 </ul>
+<p>Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a mais, além disso, decidimos classificá-los quanto a funcionais (F) ou não funcionais (NF).</p>
 <table>
 <thead>
 <tr>
@@ -147,17 +158,15 @@ de prioridade, sendo elas:</p>
 <tbody>
 <tr>
 <td>Versão 1</td>
-<td>MoSCoW 1(Versão abaixo) (10/09/2019)</td>
+<td><a href="../moscow/">MoSCoW 1</a> (10/09/2019)</td>
 </tr>
 <tr>
 <td>Versão 1.1</td>
-<td><a href="../moscow1/">MoSCoW 1.1</a> (22/09/2019 a 25/09/2019)</td>
+<td>MoSCoW 1.1(Atual) (22/09/2019 a 25/09/2019)</td>
 </tr>
 </tbody>
 </table>
-<h3 id="execucao">Execução</h3>
-<p><br></p>
-<h4 id="participantes">Participantes:</h4>
+<h2 id="participantes">Participantes</h2>
 <ul>
 <li>Eduardo Lima</li>
 <li>Samuel Pereira</li>
@@ -165,375 +174,580 @@ de prioridade, sendo elas:</p>
 <li>Sofia Patrocínio</li>
 <li>Luís Taira</li>
 </ul>
-<h3 id="resultado"><strong>Resultado</strong></h3>
+<h2 id="resultado">Resultado</h2>
 <table>
 <thead>
 <tr>
 <th>Nº</th>
 <th>Requisito</th>
 <th>MoSCoW</th>
+<th>Classificação</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
-<td>usuário pode se cadastrar pela conta do Google.</td>
+<td>O usuário deve poder se cadastrar pela conta do Google.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>2</td>
-<td>usuário pode se cadastrar pela conta do Facebook.</td>
+<td>O usuário deve poder se cadastrar pela conta do Facebook.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>3</td>
-<td>usuário pode se cadastrar inserindo nome, telefone, gênero e idade.</td>
+<td>O usuário deve poder se cadastrar inserindo nome, telefone, gênero e idade.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>4</td>
-<td>usuário pode fazer login pelo email.</td>
+<td>O usuário deve poder fazer login pelo email.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>5</td>
-<td>usuário pode fazer login pelo número do telefone.</td>
+<td>O usuário deve poder fazer login pelo número do telefone.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>6</td>
-<td>O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.</td>
+<td>O sistema deve pedir ao usuário escolher até 5 gêneros de seu gosto.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>7</td>
-<td>O sistema pode pedir ao usuário escolher artistas de seu gosto.</td>
+<td>O sistema deve pedir ao usuário escolher artistas de seu gosto.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>8</td>
-<td>O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.</td>
+<td>O sistema deve recomendar músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.</td>
 <td>Must</td>
+<td>NF</td>
 </tr>
 <tr>
 <td>9</td>
-<td>O usuário pode escutar um conteúdo.</td>
+<td>O usuário deve poder escutar um conteúdo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>10</td>
-<td>O usuário pode controlar o conteúdo que está em reprodução enquanto usa o aplicativo.</td>
+<td>O usuário deve poder controlar o conteúdo que está em reprodução enquanto usa o aplicativo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>11</td>
-<td>O usuário pode controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.</td>
+<td>O usuário deve poder controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>12</td>
-<td>O usuário pode criar seu Flow.</td>
+<td>O usuário deve poder criar seu Flow.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>13</td>
-<td>O usuário pode visualizar a fila de espera.</td>
+<td>O usuário deve poder visualizar a fila de espera.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>14</td>
-<td>O usuário pode adicionar conteúdo a fila de espera.</td>
+<td>O usuário deve poder adicionar conteúdo a fila de espera.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>15</td>
-<td>O usuário pode configurar a qualidade de áudio.</td>
+<td>O usuário deve poder configurar a qualidade de áudio.</td>
 <td>Would</td>
+<td>F</td>
 </tr>
 <tr>
 <td>16</td>
-<td>O usuário pode configurar o equalizador.</td>
+<td>O usuário deve poder configurar o equalizador.</td>
 <td>Would</td>
+<td>F</td>
 </tr>
 <tr>
 <td>17</td>
-<td>O usuário pode configurar o download.</td>
+<td>O usuário deve poder configurar o download apenas Wi-Fi ou com Redes Móveis.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>18</td>
-<td>O usuário pode bloquear o conteúdo.</td>
+<td>O usuário deve poder bloquear o conteúdo.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>19</td>
-<td>O usuário pode adicionar o conteúdo às Mais Queridas.</td>
+<td>O usuário deve poder adicionar o conteúdo às Mais Queridas.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>20</td>
-<td>O usuário pode criar playlists.</td>
+<td>O usuário deve poder criar playlists.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>21</td>
-<td>O usuário pode adicionar o conteúdo em alguma playlist.</td>
+<td>O usuário deve poder adicionar o conteúdo em alguma playlist.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>22</td>
-<td>O usuário pode compartilhar o conteúdo para outras plataformas.</td>
+<td>O usuário deve poder compartilhar o conteúdo para outras plataformas.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>23</td>
-<td>O usuário pode acessar a página do Artista.</td>
+<td>O usuário deve poder acessar a página do Artista.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>24</td>
-<td>O usuário pode acessar a página do Álbum.</td>
+<td>O usuário deve poder acessar a página do Álbum.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>25</td>
-<td>O usuário pode acessar a página de perfis de outros usuários.</td>
+<td>O usuário deve poder acessar a página de perfis de outros usuários.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>26</td>
-<td>O usuário pode visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.</td>
+<td>O usuário deve poder visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>27</td>
-<td>O usuário pode começar um flow, mesclando seu gosto musical com o de outro usuário.</td>
+<td>O usuário deve poder começar um flow, mesclando seu gosto musical com o de outro usuário.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>28</td>
-<td>O usuário pode acompanhar a letras das músicas enquanto as ouve.</td>
+<td>O usuário deve poder acompanhar a letras das músicas enquanto as ouve.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>29</td>
-<td>O usuário pode compartilhar a letra da música no Instagram Stories.</td>
+<td>O usuário deve poder compartilhar a letra da música no Instagram Stories.</td>
 <td>Would</td>
+<td>F</td>
 </tr>
 <tr>
 <td>30</td>
-<td>O sistema deve recomendar conteúdo de acordo com a atividade do usuário.</td>
+<td>O sistema deve poder recomendar conteúdo de acordo com a atividade do usuário.</td>
 <td>Must</td>
+<td>NF</td>
 </tr>
 <tr>
 <td>31</td>
-<td>O sistema deve criar playlists de acordo com o conteúdo mais ouvido pelos usuários.</td>
+<td>O sistema deve poder criar playlists de acordo com o conteúdo mais ouvido pelos usuários.</td>
 <td>Would</td>
+<td>NF</td>
 </tr>
 <tr>
 <td>32</td>
-<td>O sistema deve gerar conteúdos tocados recentemente.</td>
+<td>O sistema deve poder gerar conteúdos tocados recentemente.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>33</td>
-<td>O usuário pode ver suas músicas Mais Queridas.</td>
+<td>O usuário deve poder ver suas músicas Mais Queridas.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>34</td>
-<td>O usuário pode ver suas playlists favoritas e criadas.</td>
+<td>O usuário deve poder ver suas playlists favoritas e criadas.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>35</td>
-<td>O usuário pode ver seus álbuns favoritos.</td>
+<td>O usuário deve poder ver seus álbuns favoritos.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>36</td>
-<td>O usuário pode ver seus artistas favoritos.</td>
+<td>O usuário deve poder ver seus artistas favoritos.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>37</td>
-<td>O usuário pode ver seus mixes criados.</td>
+<td>O usuário deve poder ver seus mixes criados.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>38</td>
-<td>O usuário pode ver seus podcasts favoritos.</td>
+<td>O usuário deve poder ver seus podcasts favoritos.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>39</td>
-<td>O sistema deve oferecer episódios do mesmo podcast que o usuário está ouvindo.</td>
+<td>O sistema deve poder oferecer episódios do mesmo podcast que o usuário está ouvindo.</td>
 <td>Should</td>
+<td>NF</td>
 </tr>
 <tr>
 <td>40</td>
-<td>O usuário pode ser notificado com as atualizações e novidades mais recentes.</td>
+<td>O usuário deve poder ser notificado com as atualizações e novidades mais recentes.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>41</td>
-<td>O usuário pode acessar suas notificações.</td>
+<td>O usuário deve poder acessar suas notificações.</td>
 <td>Would</td>
+<td>F</td>
 </tr>
 <tr>
 <td>42</td>
-<td>O usuário pode seguir artistas e outros usuários.</td>
+<td>O usuário deve poder seguir artistas e outros usuários.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>43</td>
-<td>O usuário pode ser seguido.</td>
+<td>O usuário deve poder ser seguido.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>44</td>
-<td>Criações do usuário podem ser seguidas.</td>
+<td>Criações do usuário devem poder ser seguidas.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>45</td>
-<td>O usuário pode gerenciar sua conta.</td>
+<td>O usuário devem poder gerenciar sua conta.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>46</td>
-<td>O usuário pode configurar o aplicativo.</td>
+<td>O usuário devem poder configurar o aplicativo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>47</td>
-<td>O usuário pode gerenciar os dispositivos conectados.</td>
+<td>O usuário devem poder gerenciar os dispositivos conectados.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>48</td>
-<td>O usuário pode testar recursos experimentais.</td>
+<td>O usuário devem poder testar recursos experimentais.</td>
 <td>Would</td>
+<td>F</td>
 </tr>
 <tr>
 <td>49</td>
-<td>O usuário pode buscar por texto um conteúdo específico.</td>
+<td>O usuário deve poder buscar por texto um conteúdo específico.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>50</td>
-<td>O usuário pode visualizar na página de busca conteúdos relacionados a pesquisa.</td>
+<td>O usuário deve poder visualizar na página de busca conteúdos relacionados a pesquisa.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>51</td>
-<td>O usuário pode buscar a partir de um som um conteúdo específico.</td>
+<td>O usuário deve poder buscar a partir de um som um conteúdo específico.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>52</td>
-<td>O usuário pode filtrar sua busca por gêneros e moods.</td>
+<td>O usuário deve poder filtrar sua busca por gêneros e moods.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>53</td>
-<td>O usuário pode ampliar sua busca de forma específica.</td>
+<td>O usuário deve poder ampliar sua busca de forma específica.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>54</td>
-<td>O usuário pode ver as Top Músicas, últimos lançamentos, discografia de um artista.</td>
+<td>O usuário deve poder ver as Top Músicas, últimos lançamentos, discografia de um artista.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>55</td>
-<td>O usuário pode, a partir de um artista, encontrar artistas similares.</td>
+<td>O usuário deve poder, a partir de um artista, encontrar artistas similares.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>56</td>
-<td>Na Página do Artista, o usuário pode visualizar playlists em que o artista está.</td>
+<td>Na Página do Artista, o usuário deve poder visualizar playlists em que o artista está.</td>
 <td>Should</td>
+<td>F</td>
 </tr>
 <tr>
 <td>57</td>
-<td>Na página do Artista, o usuário pode visualizar faixas em que o artista aparece.</td>
+<td>Na página do Artista, o usuário deve poder visualizar faixas em que o artista aparece.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>58</td>
-<td>Na Página do Artista, o usuário pode visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.</td>
+<td>Na Página do Artista, o usuário deve poder visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>59</td>
-<td>O usuário pode curtir artistas.</td>
+<td>O usuário deve poder curtir artistas.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>60</td>
-<td>O usuário free pode experimentar o Deezer Premium por um tempo determinado.</td>
+<td>O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.</td>
 <td>Must</td>
+<td>NF</td>
 </tr>
 <tr>
 <td>61</td>
-<td>O usuário free deve receber anúncios durante as trocas de conteúdo.</td>
+<td>O usuário free deve receber anúncios durante o uso da aplicação.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>62</td>
-<td>O usuário free tem número limitado para pular o conteúdo.</td>
+<td>O usuário free deve ter um número limitado para pular o conteúdo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>63</td>
-<td>O usuário free deve escutar o conteúdo de forma aleatória.</td>
+<td>O usuário free deve ter que escutar o conteúdo de forma aleatória.</td>
 <td>Could</td>
+<td>F</td>
 </tr>
 <tr>
 <td>64</td>
-<td>O usuário free pode iniciar, pausar e pular o conteúdo.</td>
+<td>O usuário free deve poder iniciar, pausar e pular o conteúdo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>65</td>
 <td>O usuário free deve possuir conexão com internet para acessar o conteúdo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>66</td>
 <td>O usuário premium deve pagar uma mensalidade.</td>
 <td>Must</td>
+<td>NF</td>
 </tr>
 <tr>
 <td>67</td>
-<td>O usuário premium pode pular o conteúdo de forma ilimitada.</td>
+<td>O usuário premium deve poder pular o conteúdo de forma ilimitada.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>68</td>
-<td>O usuário premium pode baixar conteúdo.</td>
+<td>O usuário premium deve poder baixar conteúdo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>69</td>
-<td>O usuário premium pode iniciar, pausar, pular e voltar o conteúdo.</td>
+<td>O usuário premium deve poder iniciar, pausar, pular e voltar o conteúdo.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>70</td>
-<td>O usuário premium pode escutar o conteúdo offline.</td>
+<td>O usuário premium deve poder escutar o conteúdo offline.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>71</td>
-<td>O usuário premium pode escolher o conteúdo a ser tocado.</td>
+<td>O usuário premium deve poder escolher o conteúdo a ser tocado.</td>
 <td>Must</td>
+<td>F</td>
 </tr>
 <tr>
 <td>72</td>
-<td>O usuário premium não recebe anúncios durante a troca de conteúdo.</td>
+<td>O usuário premium não deve receber anúncios durante o uso da aplicação.</td>
 <td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>73</td>
+<td>O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>74</td>
+<td>O usuário deve conseguir repetir um conteúdo, playlists, álbuns, podcasts.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>75</td>
+<td>O usuário deve poder avaliar recomendações do sistema.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>76</td>
+<td>O usuário premium deve poder alterar a ordem da lista a ser tocada.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>77</td>
+<td>O usuário deve poder buscar a partir de um trecho de música específica.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>79</td>
+<td>O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>80</td>
+<td>O sistema deve poder criar meios de pontuação para promoções, assim como ter um sistema de cupons.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>82</td>
+<td>O sistema deve oferecer uma busca mais flexível em relação a busca do usuário.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>83</td>
+<td>O sistema deve oferecer planos acessíveis aos usuários.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>84</td>
+<td>O sistema deve permitir a utilização de múltiplas formas de pagamento.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>85</td>
+<td>O usuário deve poder ter uma página de usuário customizável.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>86</td>
+<td>O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>87</td>
+<td>O sistema deve fornecer feedbacks do seu status.</td>
+<td>Should</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>88</td>
+<td>O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.</td>
+<td>Should</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>89</td>
+<td>O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.</td>
+<td>Should</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>90</td>
+<td>O sistema deve pesquisar em tempo real de acordo com a busca do usuário.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>91</td>
+<td>O sistema deve realizar confirmações de cadastro.</td>
+<td>Should</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>92</td>
+<td>O sistema deve automatizar etapas do processo de cadastro.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>93</td>
+<td>O usuário deve poder visualizar políticas do sistema.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>94</td>
+<td>O usuário deve poder visualizar as capas de álbuns.</td>
+<td>Could</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>95</td>
+<td>O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>96</td>
+<td>O sistema deve apresentar uma interface intuitiva.</td>
+<td>Must</td>
+<td>NF</td>
 </tr>
 </tbody>
 </table></div>
