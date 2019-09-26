@@ -12,4 +12,6 @@ O **caso de uso** é uma especificação do comportamento de uma funcionalidade 
 
 ## UC01: Cadastro do Usuário
 ## UC02: Login do Usuário
+## UC03: Perfil do Usuário
+## UC04: Flow do Usuário
 
