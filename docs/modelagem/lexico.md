@@ -91,3 +91,17 @@
 |-|-|-|-|
 |Estado|Alta qualidade de áudio.|Conteúdo HiFi possui alto bit rate e qualidade sonora equiparável a de CDs (maior do que o normal)|Alta qualidade, Alta resolução.|
 |<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Busca
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Verbo|Procurar por conteúdo usando a aba "Busca" do aplicativio.|O usuário pode procurar o conteúdo que quer ouvir por palavras chaves como artista ou nome, ou a partir de um som.|Procurar.|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Recomendção
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Verbo|Conteúdo que o sistema sugere ao usuário.|O sistema recomenda conteúdo ao usuário por meio de mixes, flow ou conteúdo disponível na tela início.|Recomendado.|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
