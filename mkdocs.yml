@@ -8,13 +8,15 @@ nav:
     - Pre-rastreabilidade:
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
         - Ponto de Controle: pontocontrole.md
-    - Elicitação: 
+    - Elicitação:
         - MoScoW: elicitacao/moscow1.md
         - Introspecção: elicitacao/introspeccao.md
         - Observação Participativa: elicitacao/obs_part.md
         - Análise de Protocolo: elicitacao/analise_de_protocolo.md
         - Questionário: elicitacao/questionario1.md
         - Entrevista: elicitacao/entrevista.md
+    - Modelagem:
+        - Diagrama de Caso de Uso: modelagem/diagrama_caso_uso.md
 theme: journal
 
 extra_css:
