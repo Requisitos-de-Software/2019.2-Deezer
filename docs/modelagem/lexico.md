@@ -22,7 +22,7 @@
 |Objeto|Aba do aplicativo onde aparecem as músicas e popdcasts salvos pelo usuário.|O usuário usa a aba para escutar as músicas ou podcasts que salvou para ouvir depois.|Biblioteca.|
 |<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 
-### Inìcio
+### Início
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
@@ -47,7 +47,7 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Conteúdo que o usuário escolheu para aparecer na página "Minha música" para mais fácil acesso.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas.|
+|Objeto|Conteúdo que o usuário escolheu para aparecer na página "Minha música" para mais fácil acesso.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas, Curtidas.|
 |<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 
 ### Artista
@@ -104,4 +104,46 @@
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
 |Verbo|Conteúdo que o sistema sugere ao usuário.|O sistema recomenda conteúdo ao usuário por meio de mixes, flow ou conteúdo disponível na tela início.|Recomendado.|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Cadastrar
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Verbo|Criar uma conta no aplicativo colocando informações pessoais.|O cadastro do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.|Sign up.|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Login
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Verbo|Colocar informacoes de identificacção para ter acesso a uma conta já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de login com Facebook ou Google.|Entrar.|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Logout
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Verbo|Se desconectar da conta.|O usuário faz logout para que seu dispositivo não esteja conectado com a sua conta.|Sair.|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Compartilhar
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Verbo|Compartilhar um conteúdo com outros usuários.|O usuário pode compartilhar um link que dá acesso a um conteúdo por meio de redes sociais ou fazer com que um conteúdo apareca no seu instagram stories.|Share.|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Instagram Stories
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Imagens ou pequenos vídeos acessíveis por 24 horas na conta de Instagram de um usuário.|O usuário pode fazer um conteúdo aparecer em seus stories.|-|
+|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
+
+### Fila de espera
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Verbo|Conteúdo que será tocado em seguida.|O usuário pode ver e modificar a ordem dos contéudos que serão tocados em seguida, podendo adicionar novos conteúdos nessa fila.|Lista.|
 |<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
