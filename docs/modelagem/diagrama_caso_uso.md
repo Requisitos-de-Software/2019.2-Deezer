@@ -15,8 +15,13 @@
 	</tr>
 	
 	<tr>
-		<td>2.0</td>
+		<td>1.1</td>
 		<td>Adição de pesquisa de conteúdo e correção nos atores</td>
+	</tr>
+	
+	<tr>
+		<td>1.2</td>
+		<td>Adição de curtir conteúdo</td>
 	</tr>
 </table>
 
@@ -34,5 +39,8 @@
 
 ## Pesquisa de conteúdo
 
-
 <img src="../../assets/images/uso_pesquisa.png">
+
+## Curtir conteúdo
+
+<img src="../../assets/images/uso_curtir.png">
