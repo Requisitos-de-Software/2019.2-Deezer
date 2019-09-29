@@ -16,7 +16,9 @@ nav:
         - Questionário: elicitacao/questionario1.md
         - Entrevista: elicitacao/entrevista.md
     - Modelagem:
+        - Casos de Uso: modelagem/caso_de_uso.md
         - Diagramas de Caso de Uso: modelagem/diagrama_caso_uso.md
+
 theme: journal
 
 extra_css:
