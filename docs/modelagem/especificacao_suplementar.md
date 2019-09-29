@@ -1,12 +1,11 @@
 # Especificação Suplementar
 <div class="line"></div>
 
-## Resultado
+## Data de realização: 
+27/09/2019 - 29/09/2019.
 
-
-Data de realização: 27/09/2019 a 29/09/2019.
-<br>
-Autora: Sofia Patrocínio
+## Partipantes
+- Sofia Patrocínio
 
 ## Finalidade
 
@@ -59,7 +58,7 @@ O sistema deverá utilizar padrões visuais de cores e imagens que ajude na iden
 
 ## Confiabilidade
 
-### Disponibilidadeitens
+### Disponibilidade
 
 O sistema precisará estar disponível 24 horas por dia e 7 dias por semana e quando existir acesso à internet, no caso de conteúdos não baixados.
 
@@ -69,7 +68,7 @@ O sistema deverá assegurar a segurança e privacidade dos dados gerados, armaze
 
 ### Transparência
 
-O sistema deverá fornecer informações a respeito das informações serão coletadas do usuário.
+O sistema deverá fornecer informações a respeito das informações que serão coletadas do usuário.
 
 ### Direitos Autorais
 
@@ -87,7 +86,7 @@ A aplicação deverá ser capaz de atender milhares de acessos simultâneos, sen
 
 ## Compatibilidade
 
-### Desktop e notebook
+### Desktop e Notebook
 
 Aplicativo para Windows 7 ou superior e MacOS 10.10 ou superior.
 Acesso pelo navegador pelo Google Chrome, Mozilla Firefox, Internet Explorer e Safari.
@@ -98,7 +97,7 @@ Aplicativo para Android 1.6 ou superior, IOS 10 ou superior e Windows 10.
 
 ### Acessórios Pessoais
 
-Acesso pelo Smartwatch Fitbit(Ionic e Versa), relógio Garmin, Apple Watch (IOS 10 ou superior) e Wear OS(a partir do Android 4.3).
+Acesso pelo Smartwatch Fitbit (Ionic e Versa), relógio Garmin, Apple Watch (IOS 10 ou superior) e Wear OS (a partir do Android 4.3).
 
 ### TV e Outros
 
@@ -108,7 +107,7 @@ Acesso para Android TV, Samsung TV, Chromecast, LG TV, Panasonic TV, Philips TV,
 
 ### Restrição de Design Um
 
-O  design  do  sistema  do  software  deverá  estar  em  conformidade  com  os  padrões  de  tecnologia web em uso atualmente, tais como o padrão HTML e Java Script.
+O  design  do  sistema  do  software  deverá  estar  em  conformidade  com  os  padrões  de  tecnologia web em uso atualmente, tais como o padrão HTML e JavaScript.
 
 ### Restrição de Design Dois
 
