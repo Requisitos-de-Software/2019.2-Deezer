@@ -3,7 +3,7 @@
 
 Data de realização: 26/09/2019.
 <br>
-Autora: Luis Taira
+Autor: Luis Taira
 
 ### Conteúdo
 
