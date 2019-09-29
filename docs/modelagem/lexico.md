@@ -100,7 +100,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Procurar por conteúdo usando a aba "Busca" do aplicativio.|O usuário pode procurar o conteúdo que quer ouvir por palavras chaves como artista ou nome, ou a partir de um som.|Procurar.|
+|Verbo|Procurar por conteúdo usando a aba "Busca" do aplicativo.|O usuário pode procurar o conteúdo que quer ouvir por palavras-chave como artista ou nome, ou a partir de um som.|Procurar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Recomendação
