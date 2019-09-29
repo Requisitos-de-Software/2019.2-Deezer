@@ -13,6 +13,11 @@
 		<td>1.0</td>
 		<td>Versão Inicial</td>
 	</tr>
+	
+	<tr>
+		<td>2.0</td>
+		<td>Adição de pesquisa de conteúdo e correção nos atores</td>
+	</tr>
 </table>
 
 ## Cadastro de Usuário
@@ -26,3 +31,8 @@
 ## Flow
 
 <img src="../../assets/images/uso_flow.png">
+
+## Pesquisa de conteúdo
+
+
+<img src="../../assets/images/uso_pesquisa.png">
