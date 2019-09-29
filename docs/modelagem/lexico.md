@@ -103,7 +103,7 @@ Autor: Luis Taira
 |Verbo|Procurar por conteúdo usando a aba "Busca" do aplicativio.|O usuário pode procurar o conteúdo que quer ouvir por palavras chaves como artista ou nome, ou a partir de um som.|Procurar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
-### Recomendção
+### Recomendação
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
@@ -114,14 +114,14 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Criar uma conta no aplicativo colocando informações pessoais.|O cadastro do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.|Sign up.|
+|Verbo|Criar uma conta no aplicativo colocando informações pessoais.|O cadastro do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.|Sign up, registrar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Login
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Colocar informacoes de identificacção para ter acesso a uma conta já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de login com Facebook ou Google.|Entrar.|
+|Verbo|Colocar informações de identificação para ter acesso a uma conta já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de login com Facebook ou Google.|Entrar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Logout
@@ -135,7 +135,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Compartilhar um conteúdo com outros usuários.|O usuário pode compartilhar um link que dá acesso a um conteúdo por meio de redes sociais ou fazer com que um conteúdo apareca no seu instagram stories.|Share.|
+|Verbo|Compartilhar um conteúdo com outros usuários.|O usuário pode compartilhar um link que dá acesso a um conteúdo por meio de redes sociais ou fazer com que um conteúdo apareça no seu Instagram stories.|Share.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Instagram Stories
