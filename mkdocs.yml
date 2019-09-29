@@ -15,6 +15,9 @@ nav:
         - Análise de Protocolo: elicitacao/analise_de_protocolo.md
         - Questionário: elicitacao/questionario1.md
         - Entrevista: elicitacao/entrevista.md
+    - Modelagem:
+        - Casos de Uso: modelagem/caso_de_uso.md
+
 theme: journal
 
 extra_css:
