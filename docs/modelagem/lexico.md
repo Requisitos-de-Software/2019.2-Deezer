@@ -1,6 +1,10 @@
 # Léxico
 <div class="line"></div>
 
+Data de realização: 26/09/2019.
+<br>
+Autora: Luis Taira
+
 ### Conteúdo
 
 |Tipo|Noção|Impacto|Sinônimos|
@@ -19,21 +23,21 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Aba do aplicativo onde aparecem as músicas e popdcasts salvos pelo usuário.|O usuário usa a aba para escutar as músicas ou podcasts que salvou para ouvir depois.|Biblioteca.|
+|Objeto|Aba do aplicativo onde aparecem as músicas e podcasts salvos pelo usuário.|O usuário usa a aba para escutar as músicas ou podcasts que salvou para ouvir depois.|Biblioteca.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Início
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Aba do aplicativo onde onde o aplicativo é iniciado e aparece o conteúdo recomendado.|O usuário usa a aba para descobrir e selecionar conteúdos recomendados.|Começo, Início.|
+|Objeto|Aba do aplicativo onde o aplicativo é iniciado e aparece o conteúdo recomendado.|O usuário usa a aba para descobrir e selecionar conteúdos recomendados.|Começo, Início.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Playlist
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Lista de músicas que pode ser criada com as músicas arbritrariamente.|O usuário Escuta as músicas de uma playlist específica em ordem ou aleatoriamente.|Lista.|
+|Objeto|Lista de músicas que pode ser criada com as músicas arbitrariamente.|O usuário escuta as músicas de uma playlist específica em ordem ou aleatoriamente.|Lista.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Play
@@ -61,21 +65,21 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Lista de músicas recomendas com base em um álbum, artista, playlist ou gênero específico.|O sistema pode oferecer uma lista de músicas similares comforme uma base.|Rádio.|
+|Objeto|Lista de músicas recomendadas com base em um álbum, artista, playlist ou gênero específico.|O sistema pode oferecer uma lista de músicas similares conforme uma base.|Rádio.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Usuário premium
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Usuário que paga mensalmente pelo uso do aplicativo ou está no periodo de teste.|O usuário que premium pode escutar conteúdos que desejar sem exceção e baixar conteúdo.|Usuário pagante, Usuário HiFi|
+|Objeto|Usuário que paga mensalmente pelo uso do aplicativo ou está no periodo de teste.|O usuário que é premium pode escutar conteúdos que desejar sem exceção e baixar conteúdo.|Usuário pagante, Usuário HiFi.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Usuário free
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Usuário que não paga pelo uso do aplicativo e não está no periodo de teste.|O usuário free tem limite de quantas vezes pode pular a música, não pode esctar uma música específica de um álbum ou lista, vê e escuta anúncios e não pode baixar conteúdo.|Usuário não pagante.|
+|Objeto|Usuário que não paga pelo uso do aplicativo e não está no periodo de teste.|O usuário free tem limite de quantas vezes pode pular a música, não pode escutar uma música específica de um álbum ou lista, vê e escuta anúncios e não pode baixar conteúdo.|Usuário não pagante.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Usuário HiFi
@@ -146,4 +150,53 @@
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
 |Verbo|Conteúdo que será tocado em seguida.|O usuário pode ver e modificar a ordem dos contéudos que serão tocados em seguida, podendo adicionar novos conteúdos nessa fila.|Lista.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Bit rate
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Estado|Densidade de informação de um arquivo digital.|Arquivos, como músicas ou podcasts, com bit rate alto possuem maior qualidade sonora.|Qualidade.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Estações de rádio
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Estações de rádio iguais as que podem ser ouvidas no rádio.|No Deezer os usuários podem escutar estações de rádio de sua cidade como se estivesse usando um rádio.|-|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Equalizador
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Ferramenta oferecida pelo Deezer para modificar aspectos do som.|O usuário pode modificar o nível dos sinais graves, médios e agúdos ao ouvir conteúdo.|-|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Perfil
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Página pessoal do usuário.|O usuário pode personalizar sua página mudando seu nome e seu avatar. O perfil dos usuários são acessíveis por meio de pesquisa por nome.|Conta, página.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Podcast
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.|No Deezer os usuários podem acessar, salvar e seguir podcasts da mesma maneira que músicas.|-|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Moods
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Humor dos usuários em relação aos conteúdos que quer escutar.|O usuário pode selecionar um mood que se relaciona ao estilo de conteúdo que quer escutar.|Emoção, gosto, vibe.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Offline
+
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Estado|Não estar conectado à internet.|Usuários premium no Deezer podem fazer download de conteúdo para que esses fiquem disponíveis mesmo que não hája acesso à internet, já usuários free podem somente acessar conteúdo enquanto conectados à internet.|Desconectado, sem internet.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
