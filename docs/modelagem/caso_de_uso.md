@@ -6,8 +6,16 @@
 O caso de uso é uma especificação do comportamento de uma funcionalidade do sistema.
 <br>
 Ele tem como finalidade descrever como será o uso de uma funcionalidade do sistema.
-
 </p>
+
+## Data de realização: 
+26/09/2019 - 29/09/2019.
+<br>
+
+## Participantes
+Micaella
+
+
 <br>
 
 ### [UC01: Cadastro do Usuário](casos_de_uso/uc01.md)
