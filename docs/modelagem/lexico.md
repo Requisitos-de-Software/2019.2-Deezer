@@ -51,7 +51,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Conteúdo que o usuário escolheu para aparecer na página "Minha música" para mais fácil acesso.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas, Curtidas.|
+|Objeto|Conteúdo que o usuário escolheu para aparecer na página "Minha música" para mais fácil acessoao conteúdo.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas, Curtidas.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Artista
