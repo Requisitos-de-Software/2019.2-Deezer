@@ -39,12 +39,12 @@ Houve melhorias realizadas até 25/09.
 <br>
 
 ## Modelagem - 1/10 
-Em progresso
+26/09 - 30/09
 
 |Tarefa|Participante(s)|Entrega|
 |--|---------|------|
-|Léxicos|Luís Henrique e Samuel| |
-|Cenários|Eduardo e Luís Henrique||
-|Diagramas|Samuel||
-|Casos de Uso|Micaella e Eduardo||
-|Especificação Suplementar|Sofia| - | |
+|Léxicos|Luís Henrique|29/09 |
+|Cenários|Eduardo|30/09|
+|Diagramas|Samuel|29/09|
+|Casos de Uso|Micaella|29/09|
+|Especificação Suplementar|Sofia|29/09|
