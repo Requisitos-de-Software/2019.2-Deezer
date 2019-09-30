@@ -41,11 +41,7 @@ Ele tem como finalidade descrever como será o uso de uma funcionalidade do sist
 		<td>29/09/2019</td>
 	</tr>
 	
-</table>
-
-## Data de realização: 
-26/09/2019 - 29/09/2019.
-<br>
+</table> 
 
 ## Participantes
 Micaella
