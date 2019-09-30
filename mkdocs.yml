@@ -17,6 +17,7 @@ nav:
         - Entrevista: elicitacao/entrevista.md
     - Modelagem:
         - Cenários: modelagem/cenarios/cenarios.md
+        - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Casos de Uso: modelagem/caso_de_uso.md
         - Diagramas de Caso de Uso: modelagem/diagrama_caso_uso.md
 

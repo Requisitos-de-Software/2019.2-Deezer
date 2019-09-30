@@ -1,6 +1,40 @@
 #  Análise de Protocolo
 <div class="line"></div>
 
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+
+	<tr>
+		<td>1.0</td>
+		<td>Versão Inicial</td>
+		<td>11/09/2019</td>
+	</tr>
+	
+	<tr>
+		<td><a href="../analise_de_protocolo1">1.1</a></td>
+		<td>Adição do registro de fala de Luís</td>
+		<td>12/09/2019</td>
+	</tr>
+	
+	<tr>
+		<td>2.0</td>
+		<td>Adição de quatro novas análises</td>
+		<td>20/09/2019</td>
+	</tr>
+	
+	<tr>
+		<td>2.1</td>
+		<td>Adição de tabela de versionamento</td>
+		<td>29/09/2019</td>
+	</tr>
+</table>
+
 ##  Metodologia
 
 <p align="justify">&emsp;
