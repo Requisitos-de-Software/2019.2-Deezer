@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../assets/favicon.ico">
+        
+        <title>Léxico - Deezer</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atelier-forest-light.min.css">
+        <link href="../../stylesheets/common.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">Deezer</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">Inicial</a>
+                            </li>
+                            <li >
+                                <a href="../../planejamento/">Planejamento</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pre-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+</li>
+                                    
+<li >
+    <a href="../../pontocontrole/">Ponto de Controle</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../elicitacao/moscow1/">MoScoW</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/introspeccao/">Introspecção</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/obs_part/">Observação Participativa</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/analise_de_protocolo/">Análise de Protocolo</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/questionario1/">Questionário</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/entrevista/">Entrevista</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li class="active">
+    <a href="./">Léxico</a>
+</li>
+                                    
+<li >
+    <a href="../especificacao_suplementar/">Especificação Suplementar</a>
+</li>
+                                    
+<li >
+    <a href="../caso_de_uso/">Casos de Uso</a>
+</li>
+                                    
+<li >
+    <a href="../diagrama_caso_uso/">Diagramas de Caso de Uso</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li >
+                                <a rel="next" href="../../elicitacao/entrevista/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../especificacao_suplementar/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#lexico">Léxico</a></li>
+            <li><a href="#conteudo">Conteúdo</a></li>
+            <li><a href="#flow">Flow</a></li>
+            <li><a href="#minha-musica">Minha música</a></li>
+            <li><a href="#inicio">Início</a></li>
+            <li><a href="#playlist">Playlist</a></li>
+            <li><a href="#play">Play</a></li>
+            <li><a href="#mais-queridas">Mais queridas</a></li>
+            <li><a href="#artista">Artista</a></li>
+            <li><a href="#mix">Mix</a></li>
+            <li><a href="#usuario-premium">Usuário premium</a></li>
+            <li><a href="#usuario-free">Usuário free</a></li>
+            <li><a href="#usuario-hifi">Usuário HiFi</a></li>
+            <li><a href="#hifi">HiFi</a></li>
+            <li><a href="#busca">Busca</a></li>
+            <li><a href="#recomendacao">Recomendação</a></li>
+            <li><a href="#cadastrar">Cadastrar</a></li>
+            <li><a href="#login">Login</a></li>
+            <li><a href="#logout">Logout</a></li>
+            <li><a href="#compartilhar">Compartilhar</a></li>
+            <li><a href="#instagram-stories">Instagram Stories</a></li>
+            <li><a href="#fila-de-espera">Fila de espera</a></li>
+            <li><a href="#bit-rate">Bit rate</a></li>
+            <li><a href="#estacoes-de-radio">Estações de rádio</a></li>
+            <li><a href="#equalizador">Equalizador</a></li>
+            <li><a href="#perfil">Perfil</a></li>
+            <li><a href="#podcast">Podcast</a></li>
+            <li><a href="#moods">Moods</a></li>
+            <li><a href="#offline">Offline</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="lexico">Léxico</h1>
+<p><div class="line"></div></p>
+<p>Data de realização: 26/09/2019.
+<br>
+Autor: Luis Taira</p>
+<h3 id="conteudo">Conteúdo</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Músicas ou podcasts que podem ser consumidos no aplicativo.</td>
+<td>O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.</td>
+<td>Música, Podcast, Áudio.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="flow">Flow</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Sequências de músicas recomendadas a um usuário específico.</td>
+<td>O usuário inicia seu flow e escuta as musicas que o sistema recomendar.</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="minha-musica">Minha música</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Aba do aplicativo onde aparecem as músicas e podcasts salvos pelo usuário.</td>
+<td>O usuário usa a aba para escutar as músicas ou podcasts que salvou para ouvir depois.</td>
+<td>Biblioteca.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="inicio">Início</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Aba do aplicativo onde o aplicativo é iniciado e aparece o conteúdo recomendado.</td>
+<td>O usuário usa a aba para descobrir e selecionar conteúdos recomendados.</td>
+<td>Começo, Início.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="playlist">Playlist</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Lista de músicas que pode ser criada com as músicas arbitrariamente.</td>
+<td>O usuário escuta as músicas de uma playlist específica em ordem ou aleatoriamente.</td>
+<td>Lista.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="play">Play</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Iniciar ou retomar a reprodução de um conteúdo.</td>
+<td>O usuário inicia ou retoma a reprodução de um conteúdo.</td>
+<td>Começar, Iniciar, Retomar.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="mais-queridas">Mais queridas</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Conteúdo que o usuário escolheu para aparecer na página "Minha música" para mais fácil acessoao conteúdo.</td>
+<td>O usuário pode acessar e salvar conteúdos mais queridos.</td>
+<td>Favoritas, Salvas, Baixadas, Curtidas.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="artista">Artista</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Produtor de um certo conteúdo.</td>
+<td>Coteúdos são separados por artistas e o usuário pode acessar o conteúdo de um artista específico.</td>
+<td>Cantor, Banda, Podcaster.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="mix">Mix</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Lista de músicas recomendadas com base em um álbum, artista, playlist ou gênero específico.</td>
+<td>O sistema pode oferecer uma lista de músicas similares conforme uma base.</td>
+<td>Rádio.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="usuario-premium">Usuário premium</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Usuário que paga mensalmente pelo uso do aplicativo ou está no periodo de teste.</td>
+<td>O usuário que é premium pode escutar conteúdos que desejar sem exceção e baixar conteúdo.</td>
+<td>Usuário pagante, Usuário HiFi.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="usuario-free">Usuário free</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Usuário que não paga pelo uso do aplicativo e não está no periodo de teste.</td>
+<td>O usuário free tem limite de quantas vezes pode pular a música, não pode escutar uma música específica de um álbum ou lista, vê e escuta anúncios e não pode baixar conteúdo.</td>
+<td>Usuário não pagante.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="usuario-hifi">Usuário HiFi</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Usuário com acesso a conteúdo com maior qualidade.</td>
+<td>O usuário HiFi paga uma mensalidade maior para ter acesso à conteúdo com bit rate de 1,411Kb/s.</td>
+<td>Usuário premium.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="hifi">HiFi</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Estado</td>
+<td>Alta qualidade de áudio.</td>
+<td>Conteúdo HiFi possui alto bit rate e qualidade sonora equiparável a de CDs (maior do que o normal)</td>
+<td>Alta qualidade, Alta resolução.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="busca">Busca</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Procurar por conteúdo usando a aba "Busca" do aplicativo.</td>
+<td>O usuário pode procurar o conteúdo que quer ouvir por palavras-chave como artista ou nome, ou a partir de um som.</td>
+<td>Procurar.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="recomendacao">Recomendação</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Conteúdo que o sistema sugere ao usuário.</td>
+<td>O sistema recomenda conteúdo ao usuário por meio de mixes, flow ou conteúdo disponível na tela início.</td>
+<td>Recomendado.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="cadastrar">Cadastrar</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Criar uma conta no aplicativo colocando informações pessoais.</td>
+<td>O cadastro do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.</td>
+<td>Sign up, registrar.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="login">Login</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Colocar informações de identificação para ter acesso a uma conta já criada.</td>
+<td>O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de login com Facebook ou Google.</td>
+<td>Entrar.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="logout">Logout</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Se desconectar da conta.</td>
+<td>O usuário faz logout para que seu dispositivo não esteja conectado com a sua conta.</td>
+<td>Sair.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="compartilhar">Compartilhar</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Compartilhar um conteúdo com outros usuários.</td>
+<td>O usuário pode compartilhar um link que dá acesso a um conteúdo por meio de redes sociais ou fazer com que um conteúdo apareça no seu Instagram stories.</td>
+<td>Share.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="instagram-stories">Instagram Stories</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Imagens ou pequenos vídeos acessíveis por 24 horas na conta de Instagram de um usuário.</td>
+<td>O usuário pode fazer um conteúdo aparecer em seus stories.</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="fila-de-espera">Fila de espera</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Conteúdo que será tocado em seguida.</td>
+<td>O usuário pode ver e modificar a ordem dos contéudos que serão tocados em seguida, podendo adicionar novos conteúdos nessa fila.</td>
+<td>Lista.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="bit-rate">Bit rate</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Estado</td>
+<td>Densidade de informação de um arquivo digital.</td>
+<td>Arquivos, como músicas ou podcasts, com bit rate alto possuem maior qualidade sonora.</td>
+<td>Qualidade.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="estacoes-de-radio">Estações de rádio</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Estações de rádio iguais as que podem ser ouvidas no rádio.</td>
+<td>No Deezer os usuários podem escutar estações de rádio de sua cidade como se estivesse usando um rádio.</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="equalizador">Equalizador</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Ferramenta oferecida pelo Deezer para modificar aspectos do som.</td>
+<td>O usuário pode modificar o nível dos sinais graves, médios e agúdos ao ouvir conteúdo.</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="perfil">Perfil</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Página pessoal do usuário.</td>
+<td>O usuário pode personalizar sua página mudando seu nome e seu avatar. O perfil dos usuários são acessíveis por meio de pesquisa por nome.</td>
+<td>Conta, página.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="podcast">Podcast</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.</td>
+<td>No Deezer os usuários podem acessar, salvar e seguir podcasts da mesma maneira que músicas.</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="moods">Moods</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Humor dos usuários em relação aos conteúdos que quer escutar.</td>
+<td>O usuário pode selecionar um mood que se relaciona ao estilo de conteúdo que quer escutar.</td>
+<td>Emoção, gosto, vibe.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="offline">Offline</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Estado</td>
+<td>Não estar conectado à internet.</td>
+<td>Usuários premium no Deezer podem fazer download de conteúdo para que esses fiquem disponíveis mesmo que não hája acesso à internet, já usuários free podem somente acessar conteúdo enquanto conectados à internet.</td>
+<td>Desconectado, sem internet.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
