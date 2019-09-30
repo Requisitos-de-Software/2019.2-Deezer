@@ -6,7 +6,7 @@
 |----------|------------- |
 |**Objetivo**|Criar um perfil para um Usuário no Deezer usando sua conta no Google.|
 |**Contexto**|**Pré-condições:** Possuir uma conta no Google.<br />**Pós-condição:** É criado um perfil para o novo Usuário na aplicação.|
-|**Atores**|1. Usuário não cadastrado <br /> 2. Sistema.|
+|**Atores**|1. Usuário não cadastrado. <br /> 2. Sistema.|
 |**Recursos**|Acesso à internet.|
 |**Episódios**|1. O Usuário não cadastrado acessa o Deezer.<br />2. O Usuário não cadastrado seleciona o botão "Google".<br />3. O Usuário não cadastrado seleciona sua preferências musicais.|
 |**Restrições**|Sistema possuir conexão com o Google.|
