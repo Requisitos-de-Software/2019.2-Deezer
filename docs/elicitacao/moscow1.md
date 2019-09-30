@@ -115,7 +115,7 @@ Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a 
 |85|O usuário deve poder ter uma página de usuário customizável.|Could|F|
 |86|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|Could|F|
 |87|O sistema deve fornecer feedbacks do seu status.|Should|NF|
-|88|O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.|Should|NF
+|88|O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.|Should|NF|
 |89|O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.|Should|NF|
 |90|O sistema deve pesquisar em tempo real de acordo com a busca do usuário.|Could|F|
 |91|O sistema deve realizar confirmações de cadastro.|Should|NF|
