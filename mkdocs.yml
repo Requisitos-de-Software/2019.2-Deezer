@@ -16,6 +16,7 @@ nav:
         - Questionário: elicitacao/questionario1.md
         - Entrevista: elicitacao/entrevista.md
     - Modelagem:
+        - Cenários: modelagem/cenarios/cenarios.md
         - Léxico: modelagem/lexico.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Casos de Uso: modelagem/caso_de_uso.md
