@@ -1,9 +1,49 @@
 # Léxico
 <div class="line"></div>
 
-Data de realização: 26/09/2019.
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+
+	<tr>
+		<td>1.0</td>
+		<td>Adição dos termos Conteúdo, Flow, Minha música, Início, Playlist, Play, Mais queridas, Artista, Mix, Usuário premium, Usuário free, Usuário HiFi e HiFi.</td>
+		<td>26/09/2019</td>
+	</tr>
+	
+	<tr>
+		<td>1.1</td>
+		<td>Adição dos termos Busca e Recomendção.</td>
+		<td>27/09/2019</td>
+	</tr>
+	
+	<tr>
+		<td>1.2</td>
+		<td>Adição dos termos Cadastrar, Login, Logout, Compartilhar, Instagram stories e Fila de espera.</td>
+		<td>28/09/2019</td>
+	</tr>
+
+    <tr>
+		<td>1.3</td>
+		<td>Adição dos termos Bit rate, Estações de rádio, Equalizador, Perfil, Podcast, Moods e Offline.</td>
+		<td>28/09/2019</td>
+	</tr>
+  
+  <tr>
+		<td>1.4</td>
+		<td>Adição da tabela de versionamento.</td>
+		<td>28/09/2019</td>
+	</tr>
+	
+</table> 
 <br>
-Autor: Luis Taira
+###Participantes:
+- Luis Taira
 
 ### Conteúdo
 
