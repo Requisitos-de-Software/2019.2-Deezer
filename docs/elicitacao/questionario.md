@@ -55,7 +55,7 @@ Usuários do Deezer, em sua maioria, acham a interface intuitiva, porém, há aq
 
 <img src="../../assets/images/funDeezer.png">
 
-Usuários do Deezer consideram suas funcionalidades, como o Flow, busca por áudio, entre outros, de medianas para boas.
+Usuários do Deezer consideram suas funcionalidades, como o [Flow](/modelagem/lexico#flow), [Busca](/modelagem/lexico#busca) por áudio, entre outros, de medianas para boas.
 
 #### Usuários Tim
 
@@ -70,9 +70,9 @@ O Deezer possui uma parceria com a Tim, em que usuários da Tim podem ser usuár
 |Nº|Requisito|
 |--|---------|
 |9|O usuário deve poder escutar um conteúdo.|
-|12|O usuário deve poder criar seu Flow.|
-|60|O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.|
-|66|O usuário premium deve pagar uma mensalidade.|
-|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
+|12|O usuário deve poder criar seu [Flow](/modelagem/lexico#flow).|
+|60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o Deezer Premium por um tempo determinado.|
+|66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.|
+|8|O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
 |30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
 

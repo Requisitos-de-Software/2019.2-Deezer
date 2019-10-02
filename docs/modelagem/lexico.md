@@ -9,35 +9,35 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Músicas ou podcasts que podem ser consumidos no aplicativo.|O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.|Música, Podcast, Áudio.|
+|Objeto|Músicas ou [Podcast](/modelagem/lexico#podcast)s que podem ser consumidos no aplicativo.|O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.|Música, [Podcast](/modelagem/lexico#podcast), Áudio.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Flow
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Sequências de músicas recomendadas a um usuário específico.|O usuário inicia seu flow e escuta as musicas que o sistema recomendar.|-|
+|Objeto|Sequências de músicas recomendadas a um usuário específico.|O usuário inicia seu [Flow](/modelagem/lexico#flow) e escuta as musicas que o sistema recomendar.|-|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Minha música
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Aba do aplicativo onde aparecem as músicas e podcasts salvos pelo usuário.|O usuário usa a aba para escutar as músicas ou podcasts que salvou para ouvir depois.|Biblioteca.|
+|Objeto|Aba do aplicativo onde aparecem as músicas e [Podcast](/modelagem/lexico#podcast)s salvos pelo usuário.|O usuário usa a aba para escutar as músicas ou [Podcast](/modelagem/lexico#podcast)s que salvou para ouvir depois.|Biblioteca.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
-### Início
+### início
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Aba do aplicativo onde o aplicativo é iniciado e aparece o conteúdo recomendado.|O usuário usa a aba para descobrir e selecionar conteúdos recomendados.|Começo, Início.|
+|Objeto|Aba do aplicativo onde o aplicativo é iniciado e aparece o conteúdo recomendado.|O usuário usa a aba para descobrir e selecionar conteúdos recomendados.|Começo, [início](/modelagem/lexico#inicio).|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Playlist
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Lista de músicas que pode ser criada com as músicas arbitrariamente.|O usuário escuta as músicas de uma playlist específica em ordem ou aleatoriamente.|Lista.|
+|Objeto|Lista de músicas que pode ser criada com as músicas arbitrariamente.|O usuário escuta as músicas de uma [Playlist](/modelagem/lexico#playlist) específica em ordem ou aleatoriamente.|Lista.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Play
@@ -51,21 +51,21 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Conteúdo que o usuário escolheu para aparecer na página "Minha música" para mais fácil acessoao conteúdo.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas, Curtidas.|
+|Objeto|Conteúdo que o usuário escolheu para aparecer na página "[Minha música](/modelagem/lexico#minha-musica)" para mais fácil acessoao conteúdo.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas, Curtidas.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Artista
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Produtor de um certo conteúdo.|Coteúdos são separados por artistas e o usuário pode acessar o conteúdo de um artista específico.|Cantor, Banda, Podcaster.|
+|Objeto|Produtor de um certo conteúdo.|Coteúdos são separados por [Artista](/modelagem/lexico#artista)s e o usuário pode acessar o conteúdo de um [Artista](/modelagem/lexico#artista) específico.|Cantor, Banda, [Podcast](/modelagem/lexico#podcast)er.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Mix
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Lista de músicas recomendadas com base em um álbum, artista, playlist ou gênero específico.|O sistema pode oferecer uma lista de músicas similares conforme uma base.|Rádio.|
+|Objeto|Lista de músicas recomendadas com base em um álbum, [Artista](/modelagem/lexico#artista), [Playlist](/modelagem/lexico#playlist) ou gênero específico.|O sistema pode oferecer uma lista de músicas similares conforme uma base.|Rádio.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Usuário premium
@@ -79,14 +79,14 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Usuário que não paga pelo uso do aplicativo e não está no periodo de teste.|O usuário free tem limite de quantas vezes pode pular a música, não pode escutar uma música específica de um álbum ou lista, vê e escuta anúncios e não pode baixar conteúdo.|Usuário não pagante.|
+|Objeto|Usuário que não paga pelo uso do aplicativo e não está no periodo de teste.|O [Usuário free](/modelagem/lexico#usuario-free) tem limite de quantas vezes pode pular a música, não pode escutar uma música específica de um álbum ou lista, vê e escuta anúncios e não pode baixar conteúdo.|Usuário não pagante.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Usuário HiFi
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Usuário com acesso a conteúdo com maior qualidade.|O usuário HiFi paga uma mensalidade maior para ter acesso à conteúdo com bit rate de 1,411Kb/s.|Usuário premium.|
+|Objeto|Usuário com acesso a conteúdo com maior qualidade.|O usuário HiFi paga uma mensalidade maior para ter acesso à conteúdo com bit rate de 1,411Kb/s.|[Usuário premium](/modelagem/lexico#usuario-premium).|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### HiFi
@@ -100,14 +100,14 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Procurar por conteúdo usando a aba "Busca" do aplicativo.|O usuário pode procurar o conteúdo que quer ouvir por palavras-chave como artista ou nome, ou a partir de um som.|Procurar.|
+|Verbo|Procurar por conteúdo usando a aba "[Busca](/modelagem/lexico#busca)" do aplicativo.|O usuário pode procurar o conteúdo que quer ouvir por palavras-chave como [Artista](/modelagem/lexico#artista) ou nome, ou a partir de um som.|Procurar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Recomendação
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Conteúdo que o sistema sugere ao usuário.|O sistema recomenda conteúdo ao usuário por meio de mixes, flow ou conteúdo disponível na tela início.|Recomendado.|
+|Verbo|Conteúdo que o sistema sugere ao usuário.|O sistema recomenda conteúdo ao usuário por meio de [Mix](/modelagem/lexico#mix)es, [Flow](/modelagem/lexico#flow) ou conteúdo disponível na tela [início](/modelagem/lexico#inicio).|Recomendado.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Cadastrar
@@ -121,7 +121,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Colocar informações de identificação para ter acesso a uma conta já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de login com Facebook ou Google.|Entrar.|
+|Verbo|Colocar informações de identificação para ter acesso a uma conta já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de [Login](/modelagem/lexico#login) com Facebook ou Google.|Entrar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Logout
@@ -135,7 +135,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Compartilhar um conteúdo com outros usuários.|O usuário pode compartilhar um link que dá acesso a um conteúdo por meio de redes sociais ou fazer com que um conteúdo apareça no seu Instagram stories.|Share.|
+|Verbo|[Compartilhar](/modelagem/lexico#compartilhar) um conteúdo com outros usuários.|O usuário pode [Compartilhar](/modelagem/lexico#compartilhar) um link que dá acesso a um conteúdo por meio de redes sociais ou fazer com que um conteúdo apareça no seu [Instagram Stories](/modelagem/lexico#instagram-stories).|Share.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Instagram Stories
@@ -156,14 +156,14 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Estado|Densidade de informação de um arquivo digital.|Arquivos, como músicas ou podcasts, com bit rate alto possuem maior qualidade sonora.|Qualidade.|
+|Estado|Densidade de informação de um arquivo digital.|Arquivos, como músicas ou [Podcast](/modelagem/lexico#podcast)s, com bit rate alto possuem maior qualidade sonora.|Qualidade.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Estações de rádio
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Estações de rádio iguais as que podem ser ouvidas no rádio.|No Deezer os usuários podem escutar estações de rádio de sua cidade como se estivesse usando um rádio.|-|
+|Objeto|[Estações de rádio](/modelagem/lexico#estacoes-de-radio) iguais as que podem ser ouvidas no rádio.|No Deezer os usuários podem escutar [Estações de rádio](/modelagem/lexico#estacoes-de-radio) de sua cidade como se estivesse usando um rádio.|-|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Equalizador
@@ -177,14 +177,14 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Página pessoal do usuário.|O usuário pode personalizar sua página mudando seu nome e seu avatar. O perfil dos usuários são acessíveis por meio de pesquisa por nome.|Conta, página.|
+|Objeto|Página pessoal do usuário.|O usuário pode personalizar sua página mudando seu nome e seu avatar. O [Perfil](/modelagem/lexico#perfil) dos usuários são acessíveis por meio de pesquisa por nome.|Conta, página.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Podcast
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.|No Deezer os usuários podem acessar, salvar e seguir podcasts da mesma maneira que músicas.|-|
+|Objeto|Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.|No Deezer os usuários podem acessar, salvar e seguir [Podcast](/modelagem/lexico#podcast)s da mesma maneira que músicas.|-|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Moods

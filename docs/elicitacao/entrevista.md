@@ -36,7 +36,7 @@ Reunião remota.
 
 ### Micaella
 
-**Perfil do Entrevistado 1**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 1**:
 <br>
 Mestrando em Agronegócio.
 <br>
@@ -47,9 +47,9 @@ Mestrando em Agronegócio.
 |--|---------|
 |1|Semanalmente.|
 |2|Sim, Spotify e Deezer.|
-|3|Ter variedade de músicas, personalização do aplicativo de acordo com meu perfil, ter podcasts.|
+|3|Ter variedade de músicas, personalização do aplicativo de acordo com meu [Perfil](/modelagem/lexico#perfil), ter [Podcast](/modelagem/lexico#podcast)s.|
 |4|Acumular pontos que te dão promoções. Ter cupons, entre outros.|
-|5|Sim, como não escuto muitas músicas, não recebo muitas sugestões relevantes. Acho que a ferramenta de sugestão do Youtube é mais apurada, conexão ruim com outros dispositivos, muitas vezes o aplicativo trava na hora da busca.|
+|5|Sim, como não escuto muitas músicas, não recebo muitas sugestões relevantes. Acho que a ferramenta de sugestão do Youtube é mais apurada, conexão ruim com outros dispositivos, muitas vezes o aplicativo trava na hora da [Busca](/modelagem/lexico#busca).|
 
 Data de realização: 15/09/2019 - 15:00.
 <br>
@@ -57,7 +57,7 @@ Entrevista presencial.
 <br>
 
 
-**Perfil da Entrevistada 2**:
+**[Perfil](/modelagem/lexico#perfil) da Entrevistada 2**:
 <br>
 Mestranda em História.
 <br>
@@ -68,7 +68,7 @@ Mestranda em História.
 |--|---------|
 |1|Todos os dias.|
 |2|Sim, Spotify.|
-|3|Ter a discografia das bandas, pode montar sua playlists, pode salvar os álbuns.|
+|3|Ter a discografia das bandas, pode montar sua [Playlist](/modelagem/lexico#playlist)s, pode salvar os álbuns.|
 |4|Ser mais personalizado,tem o rastro das ouvidas recentemente, mas aparece muitas sugestões que eu nunca me interessaria.|
 |5|Às vezes trava, não ser personalizado.
 
@@ -77,7 +77,7 @@ Data de realização: 15/09/2019 - 15:10.
 Entrevista presencial.
 <br>
 
-**Perfil da Entrevistada 3**:
+**[Perfil](/modelagem/lexico#perfil) da Entrevistada 3**:
 <br>
 Pedagoga.
 <br>
@@ -96,15 +96,15 @@ Pedagoga.
 
 |Nº|Requisito|
 |--|---------|
-|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
+|8|O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
 |54|O usuário deve poder ver as Top Músicas, últimos 
-|20|O usuário deve poder criar playlists.|
+|20|O usuário deve poder criar [Playlist](/modelagem/lexico#playlist)s.|
 |30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
-|7|O sistema pode pedir ao usuário escolher artistas de seu gosto.|
+|7|O sistema pode pedir ao usuário escolher [Artista](/modelagem/lexico#artista)s de seu gosto.|
 |6|O sistema pode pedir ao usuário escolher até 5 gêneros de seu gosto.|
-|49|O usuário deve poder buscar por texto um conteúdo específico.|
-|51|O usuário deve poder buscar a partir de um som um conteúdo específico.|
-|77|O usuário deve poder buscar a partir de um trecho de música específica.|
+|49|O usuário deve poder [Busca](/modelagem/lexico#busca)r por texto um conteúdo específico.|
+|51|O usuário deve poder [Busca](/modelagem/lexico#busca)r a partir de um som um conteúdo específico.|
+|77|O usuário deve poder [Busca](/modelagem/lexico#busca)r a partir de um trecho de música específica.|
 |78|O sistema deve assegurar a qualidade da plataforma.|
 |79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.|
 |80|O sistema deve pode criar meios de pontuação para promoções, assim como ter um sistema de cupons.|
@@ -112,7 +112,7 @@ Pedagoga.
 
 ### Luís
 
-**Perfil da Entrevistada 1**:
+**[Perfil](/modelagem/lexico#perfil) da Entrevistada 1**:
 <br>
 Estudante
 <br>
@@ -128,7 +128,7 @@ Estudante
 |5|Não, nunca faltou algo extremamente relevante nesses serviços.|
 <br>
 
-**Perfil do Entrevistado 2**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 2**:
 <br>
 Estudante de Engenharia Automotiva
 <br>
@@ -139,12 +139,12 @@ Estudante de Engenharia Automotiva
 |--|---------|
 |1|Frequentemente (todo dia).|
 |2|Sim. Spotify e Deezer|
-|3|Poder encontrar todos os artistas e músicas que gosto de ouvir (porque acontece de ter um artista no Spotify mas algumas músicas/álbuns específicos não estarem disponíveis, poder baixar as músicas e playlists pra ouvir offline e ter um algoritmo de recomendações bom (na minha opinião, idealmente seria igual ao algorítmo do YouTube pra música).|
+|3|Poder encontrar todos os [Artista](/modelagem/lexico#artista)s e músicas que gosto de ouvir (porque acontece de ter um [Artista](/modelagem/lexico#artista) no Spotify mas algumas músicas/álbuns específicos não estarem disponíveis, poder baixar as músicas e [Playlist](/modelagem/lexico#playlist)s pra ouvir [Offline](/modelagem/lexico#offline) e ter um algoritmo de recomendações bom (na minha opinião, idealmente seria igual ao algorítmo do YouTube pra música).|
 |4|Não acho necessário, mas é interessante poder acompanhar o que os meus amigos estão ouvindo e ouvir essas músicas tbm.|
 |5|Sim. Eu não sei se isso pode ser programado no app de música, mas eu gostaria que msm não tendo sido aberto ou não estando em segundo plano, que o app pudesse ser aberto e deixado no ponto de tocar uma música sempre que o bluetooth do carro conecta com meu celular. Não precisar pegar o celular pra abrir o app e dar play sempre que eu entrasse no carro seria de uma conveniência absurda na minha opinião.|
 <br>
 
-**Perfil da Entrevistado 3**:
+**[Perfil](/modelagem/lexico#perfil) da Entrevistado 3**:
 <br>
 Estudante de direito.
 <br>
@@ -156,8 +156,8 @@ Estudante de direito.
 |1|Não escuto muito. No máximo 10 músicas por dia.|
 |2|sim, Spotify e Apple music.|
 |3|Comodidade e interface simples e funcional.|
-|4|Playlists geradas de acordo com as músicas já escutadas.|
-|5|Facilidade para encontrar podcast huehe|
+|4|[Playlist](/modelagem/lexico#playlist)s geradas de acordo com as músicas já escutadas.|
+|5|Facilidade para encontrar [Podcast](/modelagem/lexico#podcast) huehe|
 
 ## Resultado
 Data de realização: 12/09/2019 - 19/09/2019.
@@ -170,16 +170,16 @@ Entrevista presencial.
 
 |Nº|Requisito|
 |--|---------|
-|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
-|49|O usuário pode buscar por texto um conteúdo específico.|
-|26|O usuário pode visualizar playlists, álbuns, podcasts, mixers e músicas públicas de outros usuários.|
+|8|O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
+|49|O usuário pode [Busca](/modelagem/lexico#busca)r por texto um conteúdo específico.|
+|26|O usuário pode visualizar [Playlist](/modelagem/lexico#playlist)s, álbuns, [Podcast](/modelagem/lexico#podcast)s, [Mix](/modelagem/lexico#mix)ers e músicas públicas de outros usuários.|
 |99|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.|
 |100|O sistema deve apresentar uma interface intuitiva.|
 
 
 ### Sofia
 
-**Perfil do Entrevistado 1**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 1**:
 <br>
 Trabalha no comércio
 <br>
@@ -192,14 +192,14 @@ Trabalha no comércio
 |2|Sim, Spotify, Prime Music e Deezer.|
 |3|Ser rápido e prático.|
 |4|Letras das músicas.|
-|5|Sim, problemas com mecanismo de busca do Spotify.|
+|5|Sim, problemas com mecanismo de [Busca](/modelagem/lexico#busca) do Spotify.|
 
 Data de realização: 15/09/2019 - 12:00.
 <br>
 Entrevista presencial.
 <br>
 
-**Perfil do Entrevistado 2**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 2**:
 <br>
 Graduando em Engenharia de Software.
 <br>
@@ -211,10 +211,10 @@ Graduando em Engenharia de Software.
 |1|Todos os dias, cerca de 2 horas por dia.|
 |2|Sim, Spotify, Youtube e Deezer.|
 |3|Gratuidade.|
-|4|Conseguir ouvir músicas offline.|
+|4|Conseguir ouvir músicas [Offline](/modelagem/lexico#offline).|
 |5|Não.
 
-**Perfil do Entrevistado 3**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 3**:
 <br>
 Funcionário público.
 <br>
@@ -244,17 +244,17 @@ Entrevista presencial.
 |Nº|Requisito|
 |--|---------|
 |28|O usuário deve poder acompanhar a letras das músicas enquanto as ouve.|
-|50|O usuário deve poder visualizar na página de busca conteúdos relacionados a pesquisa. 
-|64|O usuário free deve poder iniciar, pausar e pular o conteúdo.|
-|70|O usuário premium deve poder escutar o conteúdo offline.|
-|72|O usuário premium não recebe anúncios durante a troca de conteúdo.|
-|66|O usuário premium deve pagar uma mensalidade.|
-|61|O usuário free deve poder receber anúncios durante as trocas de conteúdo.|
+|50|O usuário deve poder visualizar na página de [Busca](/modelagem/lexico#busca) conteúdos relacionados a pesquisa. 
+|64|O [Usuário free](/modelagem/lexico#usuario-free) deve poder iniciar, pausar e pular o conteúdo.|
+|70|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escutar o conteúdo [Offline](/modelagem/lexico#offline).|
+|72|O [Usuário premium](/modelagem/lexico#usuario-premium) não recebe anúncios durante a troca de conteúdo.|
+|66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.|
+|61|O [Usuário free](/modelagem/lexico#usuario-free) deve poder receber anúncios durante as trocas de conteúdo.|
 |11|O usuário deve poder controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
 
 ### Samuel
 
-**Perfil do Entrevistado 1**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 1**:
 <br>
 Graduando em veterinária
 <br>
@@ -265,16 +265,16 @@ Graduando em veterinária
 |--|---------|
 |1|Todos os dias.|
 |2|Só Spotify em questão de pago e Youtube.|
-|3|O ideal para mim seria tipo o Spotify, você ter vários estilos de músicas e cantores pequenos poderem colocar músicas. Eu só acho caro, acho que o perfil estudante poderia ser o ideal para todo mundo, sendo 8 reais para todos.|
+|3|O ideal para mim seria tipo o Spotify, você ter vários estilos de músicas e cantores pequenos poderem colocar músicas. Eu só acho caro, acho que o [Perfil](/modelagem/lexico#perfil) estudante poderia ser o ideal para todo mundo, sendo 8 reais para todos.|
 |4|Ter um karaokê à parte ia ser muito legal.|
-|5|A busca do Spotify é muito específica, se você escreve uma palavra errada do álbum ou alguma coisa, você já não consegue achar o que queria. Sei que isso é normal, mas a única coisa que senti falta é ele melhor relacionar as pesquisas, às vezes você só está lá procurando uma música por um trecho e você escreve que nem no Youtube e já poderia achar, não precisaria procurar pelo nome exato do cantor.|
+|5|A [Busca](/modelagem/lexico#busca) do Spotify é muito específica, se você escreve uma palavra errada do álbum ou alguma coisa, você já não consegue achar o que queria. Sei que isso é normal, mas a única coisa que senti falta é ele melhor relacionar as pesquisas, às vezes você só está lá procurando uma música por um trecho e você escreve que nem no Youtube e já poderia achar, não precisaria procurar pelo nome exato do cantor.|
 
 Data de realização: 14/09/2019 - 02:08.
 <br>
 Entrevista remota.
 <br>
 
-**Perfil do Entrevistado 2**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 2**:
 <br>
 Ensino médio completo
 <br>
@@ -285,9 +285,9 @@ Ensino médio completo
 |--|---------|
 |1|Praticamente todo dia.|
 |2|Sim, já usei. Spotify, Youtube, SoundCloud, Grooveshark, plug.dj e muito antigamente utilizava um site chamado Kboing.|
-|3|Ser uma plataforma leve, porque meu computador é ruim e gosto de ouvir enquanto estou jogando e se a plataforma for muito pesada não me apetece, inclusive, seria legal, se tratando de computador, se ela tivesse um programa que nem o Spotify que eu instalo e acaba sendo mais leve que meu próprio navegador, então se fosse só um site seria ruim. O ideal também seria ser gratuito, mas se tratando de algo mais realista, seria bom se tivesse mais formas de pagar pelo serviço sem ser somente pelo cartão de crédito, porque às vezes você só pode pagar com cartão de crédito e isso acaba te limitando, então se pudesse pagar com boleto e PicPay, por exemplo, seria o ideal por que facilita. E o básico, ter as músicas que eu gostaria de ouvir, de certa forma ser uma plataforma mais inclusiva que fosse fácil para artistas independentes, mais humildes, poderem upar e deixarem lá suas músicas e não só grandes gravadoras.|
-|4|Você ter um perfil, tipo um perfil mesmo de usuário onde você pode colocar seu avatar, sua capa, onde você pode compartilhar músicas que você está escutando com outras pessoas. Talvez ter integração com outros programas, tipo Discord, como o Spotify tem. Talvez ter uma personalização maior do player, sei lá, esses frufruzinhos.|
-|5|Acho que falta às vezes as músicas que eu gostaria de escutar. Em questão de função, acho que é mais de ser uma plataforma leve, talvez se tivesse um modo de configuração leve. Por exemplo, o Spotify no programa dele tem tudo ali, biblioteca, procurar artista e etc, talvez se tivesse uma função de configuração leve em que ele feche o programa mais pesado que tem todas as funções e abra um player bem simples, bem leve que só vai reproduzir a música, seria interessante.|
+|3|Ser uma plataforma leve, porque meu computador é ruim e gosto de ouvir enquanto estou jogando e se a plataforma for muito pesada não me apetece, inclusive, seria legal, se tratando de computador, se ela tivesse um programa que nem o Spotify que eu instalo e acaba sendo mais leve que meu próprio navegador, então se fosse só um site seria ruim. O ideal também seria ser gratuito, mas se tratando de algo mais realista, seria bom se tivesse mais formas de pagar pelo serviço sem ser somente pelo cartão de crédito, porque às vezes você só pode pagar com cartão de crédito e isso acaba te limitando, então se pudesse pagar com boleto e PicPay, por exemplo, seria o ideal por que facilita. E o básico, ter as músicas que eu gostaria de ouvir, de certa forma ser uma plataforma mais inclusiva que fosse fácil para [Artista](/modelagem/lexico#artista)s independentes, mais humildes, poderem upar e deixarem lá suas músicas e não só grandes gravadoras.|
+|4|Você ter um [Perfil](/modelagem/lexico#perfil), tipo um [Perfil](/modelagem/lexico#perfil) mesmo de usuário onde você pode colocar seu avatar, sua capa, onde você pode [Compartilhar](/modelagem/lexico#compartilhar) músicas que você está escutando com outras pessoas. Talvez ter integração com outros programas, tipo Discord, como o Spotify tem. Talvez ter uma personalização maior do player, sei lá, esses frufruzinhos.|
+|5|Acho que falta às vezes as músicas que eu gostaria de escutar. Em questão de função, acho que é mais de ser uma plataforma leve, talvez se tivesse um modo de configuração leve. Por exemplo, o Spotify no programa dele tem tudo ali, biblioteca, procurar [Artista](/modelagem/lexico#artista) e etc, talvez se tivesse uma função de configuração leve em que ele feche o programa mais pesado que tem todas as funções e abra um player bem simples, bem leve que só vai reproduzir a música, seria interessante.|
 
 Data de realização: 13/09/2019 - 18:45.
 <br>
@@ -298,8 +298,8 @@ Entrevista remota.
 
 |Nº|Requisito|
 |--|---------|
-|82|O sistema deve oferecer uma busca mais flexível ao input do usuário.|
-|77|O usuário pode buscar a partir de um trecho de música específica.|
+|82|O sistema deve oferecer uma [Busca](/modelagem/lexico#busca) mais flexível ao input do usuário.|
+|77|O usuário pode [Busca](/modelagem/lexico#busca)r a partir de um trecho de música específica.|
 |83|O sistema deve oferecer planos acessíveis aos usuários.|
 |84|O sistema deve oferecer uma plataforma leve e otimizada.|
 |85|O sistema deve permitir a utilização de múltiplas formas de pagamento.|
@@ -308,7 +308,7 @@ Entrevista remota.
 
 ### Eduardo
  
-**Perfil do Entrevistado 1**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 1**:
 <br>
 Estudante.
 <br>
@@ -320,7 +320,7 @@ Estudante.
 |1|Todo dia.|
 |2|Sim, Spotify.|
 |3|Não precisar de internet.|
-|4|Dar sugestões de músicas parecidas com a que você escuta e ter podcasts.|
+|4|Dar sugestões de músicas parecidas com a que você escuta e ter [Podcast](/modelagem/lexico#podcast)s.|
 |5|Não.|
  
 Data de realização: 19/09/2019 - 17:00.
@@ -328,7 +328,7 @@ Data de realização: 19/09/2019 - 17:00.
 Entrevista presencial.
 <br>
  
-**Perfil do Entrevistado 2**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 2**:
 <br>
 Graduanda em Engenharia Elétrica.
 <br>
@@ -340,7 +340,7 @@ Graduanda em Engenharia Elétrica.
 |1|Todos os dias.|
 |2|Sim, Spotify.|
 |3|Ter músicas novas e diferentes, além de ser prático e ter uma boa qualidade de som.|
-|4|Não é ideal, mas é interessante ter podcasts.|
+|4|Não é ideal, mas é interessante ter [Podcast](/modelagem/lexico#podcast)s.|
 |5|Queria ter acesso a algumas músicas que só encontro no YouTube, por exemplo.|
  
 Data de realização: 19/09/2019 - 22:00.
@@ -348,7 +348,7 @@ Data de realização: 19/09/2019 - 22:00.
 Entrevista à distância.
 <br>
  
-**Perfil do Entrevistado 3**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 3**:
 <br>
 Advogada.
 <br>
@@ -368,7 +368,7 @@ Data de realização: 21/09/2019 - 10:00.
 Entrevista presencial.
 <br>
  
-**Perfil do Entrevistado 4**:
+**[Perfil](/modelagem/lexico#perfil) do Entrevistado 4**:
 <br>
 Administrador de Banco de Dados.
 <br>
@@ -392,10 +392,10 @@ Entrevista presencial.
  
 |Nº|Requisito|
 |--|---------|
-|68|O usuário premium deve poder baixar conteúdo.|
-|8|O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.| 
-|88|O usuário deve poder poder escutar podcasts.|
+|68|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder baixar conteúdo.|
+|8|O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.| 
+|88|O usuário deve poder poder escutar [Podcast](/modelagem/lexico#podcast)s.|
 |78|O sistema deve assegurar a qualidade da plataforma.|
 |28|O usuário deve poder acompanhar a letras das músicas enquanto as ouve.|
-|58|Na Página do Artista, o usuário pode visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|
+|58|Na Página do [Artista](/modelagem/lexico#artista), o usuário pode visualizar a quantidade de usuários que curtiram o [Artista](/modelagem/lexico#artista) e seu lançamento mais popular.|
 |89|O usuário deve poder visualizar as capas de álbuns.|
