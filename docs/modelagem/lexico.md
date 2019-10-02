@@ -9,7 +9,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Músicas ou [Podcast](/modelagem/lexico#podcast)s que podem ser consumidos no aplicativo.|O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.|Música, [Podcast](/modelagem/lexico#podcast), Áudio.|
+|Objeto|Músicas ou [Podcasts](/modelagem/lexico#podcast) que podem ser consumidos no aplicativo.|O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.|Música, [Podcast](/modelagem/lexico#podcast), Áudio.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Flow
@@ -23,7 +23,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Aba do aplicativo onde aparecem as músicas e [Podcast](/modelagem/lexico#podcast)s salvos pelo usuário.|O usuário usa a aba para escutar as músicas ou [Podcast](/modelagem/lexico#podcast)s que salvou para ouvir depois.|Biblioteca.|
+|Objeto|Aba do aplicativo onde aparecem as músicas e [Podcasts](/modelagem/lexico#podcast) salvos pelo usuário.|O usuário usa a aba para escutar as músicas ou [Podcasts](/modelagem/lexico#podcast) que salvou para ouvir depois.|Biblioteca.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### início
@@ -58,7 +58,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Produtor de um certo conteúdo.|Coteúdos são separados por [Artista](/modelagem/lexico#artista)s e o usuário pode acessar o conteúdo de um [Artista](/modelagem/lexico#artista) específico.|Cantor, Banda, [Podcast](/modelagem/lexico#podcast)er.|
+|Objeto|Produtor de um certo conteúdo.|Coteúdos são separados por [Artistas](/modelagem/lexico#artista) e o usuário pode acessar o conteúdo de um [Artista](/modelagem/lexico#artista) específico.|Cantor, Banda, [Podcast](/modelagem/lexico#podcast)er.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Mix
@@ -107,7 +107,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Conteúdo que o sistema sugere ao usuário.|O sistema recomenda conteúdo ao usuário por meio de [Mix](/modelagem/lexico#mix)es, [Flow](/modelagem/lexico#flow) ou conteúdo disponível na tela [início](/modelagem/lexico#inicio).|Recomendado.|
+|Verbo|Conteúdo que o sistema sugere ao usuário.|O sistema recomenda conteúdo ao usuário por meio de [Mixes](/modelagem/lexico#mix), [Flow](/modelagem/lexico#flow) ou conteúdo disponível na tela [início](/modelagem/lexico#inicio).|Recomendado.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Cadastrar
@@ -156,7 +156,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Estado|Densidade de informação de um arquivo digital.|Arquivos, como músicas ou [Podcast](/modelagem/lexico#podcast)s, com bit rate alto possuem maior qualidade sonora.|Qualidade.|
+|Estado|Densidade de informação de um arquivo digital.|Arquivos, como músicas ou [Podcasts](/modelagem/lexico#podcast), com bit rate alto possuem maior qualidade sonora.|Qualidade.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Estações de rádio
@@ -184,7 +184,7 @@ Autor: Luis Taira
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.|No Deezer os usuários podem acessar, salvar e seguir [Podcast](/modelagem/lexico#podcast)s da mesma maneira que músicas.|-|
+|Objeto|Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.|No Deezer os usuários podem acessar, salvar e seguir [Podcasts](/modelagem/lexico#podcast) da mesma maneira que músicas.|-|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Moods

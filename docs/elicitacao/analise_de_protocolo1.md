@@ -22,7 +22,7 @@ A Análise de Protocolo é uma técnica de elicitação de requisitos, que consi
 
 <p align="justify">&emsp;
 
-Micaella: “Como já me registrei, a primeira página que aparece é [Minha música](/modelagem/lexico#minha-musica), nela vejo as músicas tocadas recentementes, músicas que baixei, músicas preferidas, [Playlists](/modelagem/lexico#playlist), [Artistas](/modelagem/lexico#artista), músicas e [Podcasts](/modelagem/lexico#podcast). Nessa página posso acessar configurações e notificações. Para encontrar uma nova música vou em [Busca](/modelagem/lexico#busca)r e escrevo o nome do [Artista](/modelagem/lexico#artista) que desejo “Maria Rita”, aparece a opção de [Artista](/modelagem/lexico#artista) e [Playlist](/modelagem/lexico#playlist), ainda aparece alguns álbuns, [Podcasts](/modelagem/lexico#podcast), perfis de usuários e músicas dela. <br>
+Micaella: “Como já me registrei, a primeira página que aparece é [Minha música](/modelagem/lexico#minha-musica), nela vejo as músicas tocadas recentementes, músicas que baixei, músicas preferidas, [Playlists](/modelagem/lexico#playlist), [Artistas](/modelagem/lexico#artista), músicas e [Podcasts](/modelagem/lexico#podcast). Nessa página posso acessar configurações e notificações. Para encontrar uma nova música vou em [Buscar](/modelagem/lexico#busca) e escrevo o nome do [Artista](/modelagem/lexico#artista) que desejo “Maria Rita”, aparece a opção de [Artista](/modelagem/lexico#artista) e [Playlist](/modelagem/lexico#playlist), ainda aparece alguns álbuns, [Podcasts](/modelagem/lexico#podcast), perfis de usuários e músicas dela. <br>
  Por essa página, já posso curtir qualquer um desses. conteúdos e serão acrescentados a página “[Minha música](/modelagem/lexico#minha-musica)”.
 <br>
 Ainda nessa página, caso a opção seja [Artista](/modelagem/lexico#artista) posso [Compartilhar](/modelagem/lexico#compartilhar) o [Artista](/modelagem/lexico#artista) e acessar sua página. Outros tipos de conteúdo, posso adicionar a [Fila de espera](/modelagem/lexico#fila-de-espera), tocar o conteúdo, adicionar [Playlist](/modelagem/lexico#playlist), adicionar aos favoritos, [Compartilhar](/modelagem/lexico#compartilhar) e não recomendar música. Se for [Perfil](/modelagem/lexico#perfil) de usuário, posso adicionar ao meu favorito, adicionar as minhas músicas e [Compartilhar](/modelagem/lexico#compartilhar), acessar sua página e ainda não recomendar o(a) [Artista](/modelagem/lexico#artista). Se for [Podcast](/modelagem/lexico#podcast), ainda tenho opção de selecionar mais episódios.
@@ -38,7 +38,7 @@ Voltando pra inicio, várias opções: [Artistas](/modelagem/lexico#artista) rel
 <p align="justify">&emsp;
 Luís: “Ao abrir o Deezer, eu estou na tela de [Minha música](/modelagem/lexico#minha-musica), eu deslizo pela aba de tocadas recentemente e decido que quero ouvir outra coisa. Desço a tela até o botão de álbuns e clico no botão de álbuns e logo vejo o álbum brave new world do iron maiden. Decido BAixar o álbum e ligo o botão de download, desço a tela até a música dream of mirrors e clico em cima para ouvi-la. clico em cima da aba da música que está tocando e pauso a música. Clico nos botões de opções para [Compartilhar](/modelagem/lexico#compartilhar) a música em alguma rede social e escolho o whatsapp e um compartilho um link com o meu amigo. Ao voltar para o aplicativo deezer, clico play para voltar a ouvir a música.”
 <br>
-“Ao abrir o deezer, estou na pagina de [Minha música](/modelagem/lexico#minha-musica). VOu para a página de pesquisa e digito o nome de meu amigo e vejo sugestões de amigos e [Playlist](/modelagem/lexico#playlist)s, clico para ver todos os perfis e após descer um pouco a tela, encontro a pessoa que queria. Clico em cima do [Perfil](/modelagem/lexico#perfil) e tenho opções para seguir, de começar [Flow](/modelagem/lexico#flow), ver as [Playlist](/modelagem/lexico#playlist)s, albums, [Artista](/modelagem/lexico#artista)s, os [Mix](/modelagem/lexico#mix)ers e [Podcast](/modelagem/lexico#podcast)s dessa pessoa. CLico em cima do botão de seguir e clico no botão de começar o [Flow](/modelagem/lexico#flow) para escutarmos música juntos.”
+“Ao abrir o deezer, estou na pagina de [Minha música](/modelagem/lexico#minha-musica). VOu para a página de pesquisa e digito o nome de meu amigo e vejo sugestões de amigos e [Playlists](/modelagem/lexico#playlist), clico para ver todos os perfis e após descer um pouco a tela, encontro a pessoa que queria. Clico em cima do [Perfil](/modelagem/lexico#perfil) e tenho opções para seguir, de começar [Flow](/modelagem/lexico#flow), ver as [Playlists](/modelagem/lexico#playlist), albums, [Artistas](/modelagem/lexico#artista), os [Mixers](/modelagem/lexico#mix) e [Podcasts](/modelagem/lexico#podcast) dessa pessoa. CLico em cima do botão de seguir e clico no botão de começar o [Flow](/modelagem/lexico#flow) para escutarmos música juntos.”
 
 </p>
 <br>
@@ -55,21 +55,21 @@ Reunião presencial.
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
 |33     |O usuário pode ver suas músicas [Mais queridas](/modelagem/lexico#mais-queridas).    |
-|34     |O usuário pode ver suas [Playlist](/modelagem/lexico#playlist)s favoritas e criadas.|
+|34     |O usuário pode ver suas [Playlists](/modelagem/lexico#playlist) favoritas e criadas.|
 |35     |O usuário pode ver seus álbuns favoritos.|
-|36     |O usuário pode ver seus [Artista](/modelagem/lexico#artista)s favoritos.|
-|37     |O usuário pode ver seus [Mix](/modelagem/lexico#mix)es criados.|
-|38     |O usuário pode ver seus [Podcast](/modelagem/lexico#podcast)s favoritos.|
+|36     |O usuário pode ver seus [Artistas](/modelagem/lexico#artista) favoritos.|
+|37     |O usuário pode ver seus [Mixes](/modelagem/lexico#mix) criados.|
+|38     |O usuário pode ver seus [Podcasts](/modelagem/lexico#podcast) favoritos.|
 |46     |O usuário pode configurar o aplicativo.|
 |41     |O usuário pode acessar suas notificações.|
-|49     |O usuário pode [Busca](/modelagem/lexico#busca)r por texto um conteúdo específico.|
+|49     |O usuário pode [Buscar](/modelagem/lexico#busca) por texto um conteúdo específico.|
 |50     |O usuário pode visualizar na página de [Busca](/modelagem/lexico#busca) conteúdos relacionados a pesquisa.|
 |19     |O usuário pode adicionar o conteúdo às [Mais queridas](/modelagem/lexico#mais-queridas).|
 |22     |O usuário pode [Compartilhar](/modelagem/lexico#compartilhar) o conteúdo para outras plataformas.|
 |23     |O usuário pode acessar a Página do [Artista](/modelagem/lexico#artista).|
 |14     |O usuário pode adicionar conteúdo a [Fila de espera](/modelagem/lexico#fila-de-espera).|
 |9      |O usuário pode escutar um conteúdo.|
-|20     |O usuário pode criar [Playlist](/modelagem/lexico#playlist)s.|
+|20     |O usuário pode criar [Playlists](/modelagem/lexico#playlist).|
 |21     |O usuário pode adicionar o conteúdo em alguma [Playlist](/modelagem/lexico#playlist).|
 |18     |O usuário pode bloquear o conteúdo.|
 |39     |O sistema deve oferecer episódios do mesmo [Podcast](/modelagem/lexico#podcast) que o usuário está ouvindo.|
@@ -82,10 +82,10 @@ Reunião presencial.
 |62     |O [Usuário free](/modelagem/lexico#usuario-free) tem número limitado para pular o conteúdo.|
 |64     |O [Usuário free](/modelagem/lexico#usuario-free) pode iniciar, pausar e pular o conteúdo.|
 |61     |O [Usuário free](/modelagem/lexico#usuario-free) deve receber anúncios durante as trocas de conteúdo.|
-|56     |Na Página do [Artista](/modelagem/lexico#artista), o usuário pode visualizar [Playlist](/modelagem/lexico#playlist)s em que o [Artista](/modelagem/lexico#artista) está.|
+|56     |Na Página do [Artista](/modelagem/lexico#artista), o usuário pode visualizar [Playlists](/modelagem/lexico#playlist) em que o [Artista](/modelagem/lexico#artista) está.|
 |57     |Na página do [Artista](/modelagem/lexico#artista), o usuário pode visualizar faixas em que o [Artista](/modelagem/lexico#artista) aparece.|
 |58     |Na Página do [Artista](/modelagem/lexico#artista), o usuário pode visualizar a quantidade de usuários que curtiram o [Artista](/modelagem/lexico#artista) e seu lançamento mais popular.|
-|8      |O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
+|8      |O sistema recomenda músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
 |30     |O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
 
 ### Eduardo, Luís e Samuel
@@ -98,10 +98,10 @@ Reunião presencial.
 |11     |O usuário pode controlar o conteúdo que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
 |69     |O [Usuário premium](/modelagem/lexico#usuario-premium) pode iniciar, pausar, pular e voltar o conteúdo.|
 |22     |O usuário pode [Compartilhar](/modelagem/lexico#compartilhar) o conteúdo para outras plataformas.|
-|49     |O usuário pode [Busca](/modelagem/lexico#busca)r por texto um conteúdo específico.|
+|49     |O usuário pode [Buscar](/modelagem/lexico#busca) por texto um conteúdo específico.|
 |50     |O usuário pode visualizar na página de [Busca](/modelagem/lexico#busca) conteúdos relacionados a pesquisa.|
 |25     |O usuário pode acessar a página de perfis de outros usuários.|
 |27     |O usuário pode começar um [Flow](/modelagem/lexico#flow), mesclando seu gosto musical com o de outro usuário.|
-|26     |O usuário pode visualizar [Playlist](/modelagem/lexico#playlist)s, álbuns, [Podcast](/modelagem/lexico#podcast)s, [Mix](/modelagem/lexico#mix)ers e músicas públicas de outros usuários.|
-|42     |O usuário pode seguir [Artista](/modelagem/lexico#artista)s e outros usuários.|
+|26     |O usuário pode visualizar [Playlists](/modelagem/lexico#playlist), álbuns, [Podcasts](/modelagem/lexico#podcast), [Mixers](/modelagem/lexico#mix) e músicas públicas de outros usuários.|
+|42     |O usuário pode seguir [Artistas](/modelagem/lexico#artista) e outros usuários.|
 

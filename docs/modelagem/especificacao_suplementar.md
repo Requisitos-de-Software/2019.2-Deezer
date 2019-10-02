@@ -47,9 +47,9 @@ A **especificação suplementar** é um documento com intuito de explicitar os r
 
 |Nº|Requisito
 |--|---------
-|8|O sistema deve recomendar músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.
+|8|O sistema deve recomendar músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.
 |30|O sistema deve poder recomendar conteúdo de acordo com a atividade do usuário.
-|31|O sistema deve poder criar [Playlist](/modelagem/lexico#playlist)s de acordo com o conteúdo mais ouvido pelos usuários.
+|31|O sistema deve poder criar [Playlists](/modelagem/lexico#playlist) de acordo com o conteúdo mais ouvido pelos usuários.
 |39|O sistema deve poder oferecer episódios do mesmo [Podcast](/modelagem/lexico#podcast) que o usuário está ouvindo.
 |60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o Deezer Premium por um tempo determinado.
 |66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.
@@ -70,7 +70,7 @@ A **especificação suplementar** é um documento com intuito de explicitar os r
 
 ### Facilidade de Uso
 
-O sistema deverá possuir uma interface clara e intuitiva ao usuário para que todos consigam utilizá-lo de forma eficiente no menor tempo possível. Além disso, deverá apresentar, ao usuário novo, escolhas de gêneros musicais e [Artista](/modelagem/lexico#artista)s, a fim de facilitar sua [Busca](/modelagem/lexico#busca) pelas músicas de acordo com seu gosto. Deverá possuir ainda, em sua página inicial, músicas e [Artista](/modelagem/lexico#artista)s sugeridos de acordo com as definições de sua preferência.
+O sistema deverá possuir uma interface clara e intuitiva ao usuário para que todos consigam utilizá-lo de forma eficiente no menor tempo possível. Além disso, deverá apresentar, ao usuário novo, escolhas de gêneros musicais e [Artistas](/modelagem/lexico#artista), a fim de facilitar sua [Busca](/modelagem/lexico#busca) pelas músicas de acordo com seu gosto. Deverá possuir ainda, em sua página inicial, músicas e [Artistas](/modelagem/lexico#artista) sugeridos de acordo com as definições de sua preferência.
 
 O usuário não necessitará de qualquer tipo de treinamento prévio para uso do sistema.
 
@@ -165,5 +165,5 @@ As comunicações entre os serviços deverão ser feitas por meio de conexão co
 
 ## Observações Legais, de Copyright e Outras
 
-A estrutura  geral  do  Site,  do  Aplicativo,  do  Software  gratuito  de  streaming  da  Deezer  e  todos  os elementos  que  o  compõem  (tal  como,  mas não  limitado  a,  logotipos,  nomes  de  domínio,  faixas  ou vídeos, e os seus elementos associados, como as fotos, imagens, textos e biografia dos autores, [Artista](/modelagem/lexico#artista)s e/ou  qualquer  beneficiário  legal  das  faixas  ou  vídeos,  e  mas  também  os  elementos  visuais  na embalagem)  serão  de propriedade  exclusiva  da  Deezer  e/ou  seus  licenciantes  (principalmente  os produtores de gravações e vídeos, as empresas gravadoras e sociedade de autores)
+A estrutura  geral  do  Site,  do  Aplicativo,  do  Software  gratuito  de  streaming  da  Deezer  e  todos  os elementos  que  o  compõem  (tal  como,  mas não  limitado  a,  logotipos,  nomes  de  domínio,  faixas  ou vídeos, e os seus elementos associados, como as fotos, imagens, textos e biografia dos autores, [Artistas](/modelagem/lexico#artista) e/ou  qualquer  beneficiário  legal  das  faixas  ou  vídeos,  e  mas  também  os  elementos  visuais  na embalagem)  serão  de propriedade  exclusiva  da  Deezer  e/ou  seus  licenciantes  (principalmente  os produtores de gravações e vídeos, as empresas gravadoras e sociedade de autores)
 

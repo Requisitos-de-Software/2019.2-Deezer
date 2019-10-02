@@ -40,11 +40,11 @@ Trata-se de uma estratégia reconhecida para compreender as interações entre a
 <br />
 <br />
 
-###1. [[Cadastrar](/modelagem/lexico#cadastrar) Usuário com o Facebook](./cenario1.md)
+###1. [Cadastrar Usuário com o Facebook](./cenario1.md)
 <br />
-###2. [[Cadastrar](/modelagem/lexico#cadastrar) Usuário com o Número de celular](./cenario2.md)
+###2. [Cadastrar Usuário com o Número de celular](./cenario2.md)
 <br />
-###3. [[Cadastrar](/modelagem/lexico#cadastrar) Usuário com o Google](./cenario3.md)
+###3. [Cadastrar Usuário com o Google](./cenario3.md)
 <br />
 ###4. [Escutar um conteúdo](./cenario4.md)
 <br />
@@ -52,6 +52,6 @@ Trata-se de uma estratégia reconhecida para compreender as interações entre a
 <br />
 ###6. [Baixar um conteúdo](./cenario6.md)
 <br />
-###7. [Criar uma [Playlist](/modelagem/lexico#playlist)](./cenario7.md)
+###7. [Criar uma Playlist](./cenario7.md)
 <br />
 

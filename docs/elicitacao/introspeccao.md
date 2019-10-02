@@ -32,31 +32,31 @@ Reunião remota.
 |58|Na Página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar a quantidade de usuários que curtiram o [Artista](/modelagem/lexico#artista) e seu lançamento mais popular.|
 |30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
 |10|Deve gerar recomendações a partir da região do usuário.|
-|20|O usuário deve poder criar [Playlist](/modelagem/lexico#playlist)s.|
+|20|O usuário deve poder criar [Playlists](/modelagem/lexico#playlist).|
 |64|O [Usuário free](/modelagem/lexico#usuario-free) deve poder iniciar, pausar e pular o conteúdo.|
-|74|O usuário deve conseguir repetir um conteúdo, [Playlist](/modelagem/lexico#playlist)s, álbuns, [Podcast](/modelagem/lexico#podcast)s.|
+|74|O usuário deve conseguir repetir um conteúdo, [Playlists](/modelagem/lexico#playlist), álbuns, [Podcasts](/modelagem/lexico#podcast).|
 |75|O usuário deve avaliar recomendações do sistema.|
 |61|O [Usuário free](/modelagem/lexico#usuario-free) deve receber anúncios durante as trocas de conteúdo.|
 |71|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escolher o conteúdo a ser tocado.|
-|49|e	O usuário deve poder [Busca](/modelagem/lexico#busca)r por texto um conteúdo específico.ve permitir o usuário procurar músicas.|
-|51|O usuário deve poder [Busca](/modelagem/lexico#busca)r a partir de um som um conteúdo específico.|
+|49|e	O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um conteúdo específico.ve permitir o usuário procurar músicas.|
+|51|O usuário deve poder [Buscar](/modelagem/lexico#busca) a partir de um som um conteúdo específico.|
 |45|O usuário deve poder gerenciar sua conta.|
 |68|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder baixar conteúdo.|
 |25|O usuário deve poder acessar a página de perfis de outros usuários.|
 |15|O usuário deve poder configurar a qualidade de áudio.|
 |76|O usuário deve poder alterar a ordem da lista a ser tocada.|
 |1|usuário deve poder se [Cadastrar](/modelagem/lexico#cadastrar) pela conta do Google.|
-|8|O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
-|36|O usuário deve poder seguir [Artista](/modelagem/lexico#artista)s e outros usuários.|
+|8|O sistema recomenda músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
+|36|O usuário deve poder seguir [Artistas](/modelagem/lexico#artista) e outros usuários.|
 |19|O usuário deve poder adicionar o conteúdo às [Mais queridas](/modelagem/lexico#mais-queridas).|
-|20|O usuário deve poder criar [Playlist](/modelagem/lexico#playlist)s.|
+|20|O usuário deve poder criar [Playlists](/modelagem/lexico#playlist).|
 |21|O usuário deve poder adicionar o conteúdo em alguma [Playlist](/modelagem/lexico#playlist).|
 |68|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder baixar conteúdo.	|
 |71|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escolher o conteúdo a ser tocado.|
 |2|O usuário deve poder se [Cadastrar](/modelagem/lexico#cadastrar) pela conta do Facebook.|
-|7|O sistema pode pedir ao usuário escolher [Artista](/modelagem/lexico#artista)s de seu gosto.|
-|8|O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
-|49|O usuário deve poder [Busca](/modelagem/lexico#busca)r por texto um conteúdo específico.|
+|7|O sistema pode pedir ao usuário escolher [Artistas](/modelagem/lexico#artista) de seu gosto.|
+|8|O sistema recomenda músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
+|49|O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um conteúdo específico.|
 |63|O [Usuário free](/modelagem/lexico#usuario-free) deve escutar o conteúdo de forma aleatória.|
 |62|O [Usuário free](/modelagem/lexico#usuario-free) tem número limitado para pular o conteúdo.|
 |61|O [Usuário free](/modelagem/lexico#usuario-free) deve receber anúncios durante as trocas de conteúdo.|

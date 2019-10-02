@@ -73,6 +73,6 @@ O Deezer possui uma parceria com a Tim, em que usuários da Tim podem ser usuár
 |12|O usuário deve poder criar seu [Flow](/modelagem/lexico#flow).|
 |60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o Deezer Premium por um tempo determinado.|
 |66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.|
-|8|O sistema recomenda músicas, [Playlist](/modelagem/lexico#playlist)s, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
+|8|O sistema recomenda músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
 |30|O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
 

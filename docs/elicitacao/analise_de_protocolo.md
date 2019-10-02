@@ -56,7 +56,7 @@ A Análise de Protocolo é uma técnica de elicitação de requisitos, que consi
 
 
 
-Micaella: “Como já me registrei, a primeira página que aparece é [Minha música](/modelagem/lexico#minha-musica), nela vejo as músicas tocadas recentementes, músicas que baixei, músicas preferidas, [Playlists](/modelagem/lexico#playlist), [Artistas](/modelagem/lexico#artista), músicas e [Podcasts](/modelagem/lexico#podcast). Nessa página posso acessar configurações e notificações. Para encontrar uma nova música vou em [Busca](/modelagem/lexico#busca)r e escrevo o nome do [Artista](/modelagem/lexico#artista) que desejo “Maria Rita”, aparece a opção de [Artista](/modelagem/lexico#artista) e [Playlist](/modelagem/lexico#playlist), ainda aparece alguns álbuns, [Podcasts](/modelagem/lexico#podcast), perfis de usuários e músicas dela. <br>
+Micaella: “Como já me registrei, a primeira página que aparece é [Minha música](/modelagem/lexico#minha-musica), nela vejo as músicas tocadas recentementes, músicas que baixei, músicas preferidas, [Playlists](/modelagem/lexico#playlist), [Artistas](/modelagem/lexico#artista), músicas e [Podcasts](/modelagem/lexico#podcast). Nessa página posso acessar configurações e notificações. Para encontrar uma nova música vou em [Buscar](/modelagem/lexico#busca) e escrevo o nome do [Artista](/modelagem/lexico#artista) que desejo “Maria Rita”, aparece a opção de [Artista](/modelagem/lexico#artista) e [Playlist](/modelagem/lexico#playlist), ainda aparece alguns álbuns, [Podcasts](/modelagem/lexico#podcast), perfis de usuários e músicas dela. <br>
  Por essa página, já posso curtir qualquer um desses. [conteúdos](/modelagem/lexico#conteudo) e serão acrescentados a página “[Minha música](/modelagem/lexico#minha-musica)”.
 <br>
 Ainda nessa página, caso a opção seja [Artista](/modelagem/lexico#artista) posso [Compartilhar](/modelagem/lexico#compartilhar) o [Artista](/modelagem/lexico#artista) e acessar sua página. Outros tipos de [conteúdo](/modelagem/lexico#conteudo), posso adicionar a [Fila de espera](/modelagem/lexico#fila-de-espera), tocar o [conteúdo](/modelagem/lexico#conteudo), adicionar [Playlist](/modelagem/lexico#playlist), adicionar aos favoritos, [Compartilhar](/modelagem/lexico#compartilhar) e não recomendar música. Se for [Perfil](/modelagem/lexico#perfil) de usuário, posso adicionar ao meu favorito, adicionar as minhas músicas e [Compartilhar](/modelagem/lexico#compartilhar), acessar sua página e ainda não recomendar o(a) [Artista](/modelagem/lexico#artista). Se for [Podcast](/modelagem/lexico#podcast), ainda tenho opção de selecionar mais episódios.
@@ -92,11 +92,11 @@ Reunião presencial.
 |34     |O usuário deve poder ver suas [Playlists](/modelagem/lexico#playlist) favoritas e criadas.|
 |35     |O usuário deve poder ver seus álbuns favoritos.|
 |36     |O usuário deve poder ver seus [Artistas](/modelagem/lexico#artista) favoritos.|
-|37     |O usuário deve poder ver seus [Mix](/modelagem/lexico#mix)es criados.|
+|37     |O usuário deve poder ver seus [Mixes](/modelagem/lexico#mix) criados.|
 |38     |O usuário deve poder ver seus [Podcasts](/modelagem/lexico#podcast) favoritos.|
 |46     |O usuário deve poder configurar o aplicativo.|
 |41     |O usuário deve poder acessar suas notificações.|
-|49     |O usuário deve poder [Busca](/modelagem/lexico#busca)r por texto um [conteúdo](/modelagem/lexico#conteudo) específico.|
+|49     |O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um [conteúdo](/modelagem/lexico#conteudo) específico.|
 |50     |O usuário deve poder visualizar na página de [Busca](/modelagem/lexico#busca) [conteúdos](/modelagem/lexico#conteudo) relacionados a pesquisa.|
 |19     |O usuário deve poder adicionar o [conteúdo](/modelagem/lexico#conteudo) às [Mais queridas](/modelagem/lexico#mais-queridas).|
 |22     |O usuário deve poder [Compartilhar](/modelagem/lexico#compartilhar) o [conteúdo](/modelagem/lexico#conteudo) para outras plataformas.|
@@ -132,7 +132,7 @@ Reunião presencial.
 |11     |O usuário deve poder controlar o [conteúdo](/modelagem/lexico#conteudo) que está em reprodução fora do aplicativo, pela barra de tarefas do celular.|
 |69     |O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder iniciar, pausar, pular e voltar o [conteúdo](/modelagem/lexico#conteudo).|
 |22     |O usuário deve poder [Compartilhar](/modelagem/lexico#compartilhar) o [conteúdo](/modelagem/lexico#conteudo) para outras plataformas.|
-|49     |O usuário deve poder [Busca](/modelagem/lexico#busca)r por texto um [conteúdo](/modelagem/lexico#conteudo) específico.|
+|49     |O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um [conteúdo](/modelagem/lexico#conteudo) específico.|
 |50     |O usuário deve poder visualizar na página de [Busca](/modelagem/lexico#busca) [conteúdos](/modelagem/lexico#conteudo) relacionados a pesquisa.|
 |25     |O usuário deve poder acessar a página de perfis de outros usuários.|
 |27     |O usuário deve poder começar um [Flow](/modelagem/lexico#flow), mesclando seu gosto musical com o de outro usuário.|
@@ -156,7 +156,7 @@ Eu vou clicar no álbum e abriu a página do álbum que tem o nome do álbum, no
 Ai aparece uma tela com o logo. A tela desliza para a esquerda. <br>
 Ai estou na página inicial e apareceu uma propaganda na tela inteira. Eu vou clicar para fechar no xzinho lá em cima. <br>
 Ai voltei para a tela inicial. Ai tem um banner para experimentar o Deezer premium. Tem sugestões de [Artistas](/modelagem/lexico#artista) e alguns [Artistas](/modelagem/lexico#artista) que eu dei like anteriormente quando fiz o cadastro. <br>
-Eu vou clicar em [Busca](/modelagem/lexico#busca)r no canto inferior direto, clicar na lupinha. <br>
+Eu vou clicar em [Buscar](/modelagem/lexico#busca) no canto inferior direto, clicar na lupinha. <br>
 Eu cliquei e agora eu vou realizar uma [Busca](/modelagem/lexico#busca) a partir de um som que ele vai identificar a partir do meu microfone, num botão azul no meio da tela. <br>
 Apareceu uma tela do celular pedindo permissão do Deezer para gravar áudio e eu vou clicar para permitir. <br>
 E ele está ouvindo e vou botar a música agora. <br>
@@ -185,7 +185,7 @@ Abrindo um álbum, você tem a opção de tocar, o nome do álbum, a imagem do �
 Essa opção de download é só para membros premium que são membros que pagam a assinatura do aplicativo. <br>
 Embaixo disso, tem todas as faixas das músicas que tem nesse álbum aqui, cantores diferentes e pessoas. O gênero é semelhante, mas as músicas são de cantores diferentes, e você pode favoritar as músicas separadamente do álbum, mas quando você seleciona o botão de favoritar o álbum, aparece uma caixinha de texto escrito que seu álbum foi favoritado e está em minhas músicas. <br>
 Volto para o [início](/modelagem/lexico#inicio), clico em minhas músicas. <br>
-Ai tem as opções de downloads, [Mais queridas](/modelagem/lexico#mais-queridas), [Playlists](/modelagem/lexico#playlist), álbuns, [Artistas](/modelagem/lexico#artista), [Mix](/modelagem/lexico#mix)es e [Podcast](/modelagem/lexico#podcast). <br>
+Ai tem as opções de downloads, [Mais queridas](/modelagem/lexico#mais-queridas), [Playlists](/modelagem/lexico#playlist), álbuns, [Artistas](/modelagem/lexico#artista), [Mixes](/modelagem/lexico#mix) e [Podcast](/modelagem/lexico#podcast). <br>
 Clico em albums, e em álbums você terá o álbum que você favoritou e lá você pode dar play sem abrir o álbum em si, como você pode clicar na imagem do álbum e clicar em tocar, ou você pode clicar em qualquer música do álbum que irá começar a tocar em seguida a tocar todas as músicas que está nesse álbum, você pode começar por qualquer música que está nesse álbum."
 </p>
 
@@ -201,7 +201,7 @@ Reunião remota.
 | 88 | O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.|
 | 89 | O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.|
 | 90 | O sistema deve pesquisar em tempo real de acordo com a [Busca](/modelagem/lexico#busca) do usuário.|
-| 49 | O usuário deve poder [Busca](/modelagem/lexico#busca)r por texto um [conteúdo](/modelagem/lexico#conteudo) específico.|
+| 49 | O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um [conteúdo](/modelagem/lexico#conteudo) específico.|
 | 61 | O [Usuário free](/modelagem/lexico#usuario-free) deve receber anúncios durante o uso da aplicação.|
 | 91 | O sistema deve realizar confirmações de cadastro.|
 | 92 | O sistema deve automatizar etapas do processo de cadastro.|
@@ -212,7 +212,7 @@ Reunião remota.
 | 52 | O usuário deve poder filtrar sua [Busca](/modelagem/lexico#busca) por gêneros e [Moods](/modelagem/lexico#moods).|
 | 73 | O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.|
 | 19 | O usuário deve poder adicionar o [conteúdo](/modelagem/lexico#conteudo) às [Mais queridas](/modelagem/lexico#mais-queridas).|
-| 51 | O usuário deve poder [Busca](/modelagem/lexico#busca)r a partir de um som um [conteúdo](/modelagem/lexico#conteudo) específico.|
+| 51 | O usuário deve poder [Buscar](/modelagem/lexico#busca) a partir de um som um [conteúdo](/modelagem/lexico#conteudo) específico.|
 | 60 | O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o Deezer Premium por um tempo determinado.|
 | 3 | O usuário deve poder se [Cadastrar](/modelagem/lexico#cadastrar) inserindo nome, telefone, gênero e idade.|
 | 7 | O sistema deve pedir ao usuário escolher [Artistas](/modelagem/lexico#artista) de seu gosto.|
