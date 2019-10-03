@@ -16,7 +16,7 @@
 	</tr>
 	<tr>
 		<td>1.1</td>
-		<td>Adição dos termos Busca e Recomendção.</td>
+		<td>Adição dos termos Busca e Recomendação.</td>
 		<td>27/09/2019</td>
 	</tr>
 	<tr>
