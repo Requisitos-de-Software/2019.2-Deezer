@@ -17,7 +17,7 @@ Nosso intuito, ao utilizar a técnica, é obter requisitos através da análise 
 
 <p align="justify">&emsp;
 
-Todos nossos membros se cadastraram e passaram a ser usuários, e após 1 dia de análise, elencamos as principais de acordo com a listagem de cada um.
+Todos nossos membros se [Cadastrar](/modelagem/lexico#cadastrar)am e passaram a ser usuários, e após 1 dia de análise, elencamos as principais de acordo com a listagem de cada um.
 
 </p>
 
@@ -38,63 +38,63 @@ Reunião remota.
 
 |Número | Requisito                                         |
 |-------|---------------------------------------------------|
-|1      |O usuário deve poder se cadastrar pela conta do Google.    |
-|2      |O usuário deve poder se cadastrar pela conta do Facebook.  |
-|3      |O usuário deve poder se cadastrar inserindo nome, telefone, gênero e idade.|
-|4      |O usuário deve poder fazer login pelo email.|
-|5      |O usuário deve poder fazer login pelo número do telefone.|
+|1      |O usuário deve poder se [Cadastrar](/modelagem/lexico#cadastrar) pela conta do Google.    |
+|2      |O usuário deve poder se [Cadastrar](/modelagem/lexico#cadastrar) pela conta do Facebook.  |
+|3      |O usuário deve poder se [Cadastrar](/modelagem/lexico#cadastrar) inserindo nome, telefone, gênero e idade.|
+|4      |O usuário deve poder fazer [Login](/modelagem/lexico#login) pelo email.|
+|5      |O usuário deve poder fazer [Login](/modelagem/lexico#login) pelo número do telefone.|
 |6      |O sistema deve poder pedir ao usuário escolher até 5 gêneros de seu gosto.|
-|7      |O sistema deve poder pedir ao usuário escolher artistas de seu gosto.|
-|8      |O sistema recomenda músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.|
-|12     |O usuário deve poder criar seu Flow.|
-|13      |O usuário deve poder visualizar a fila de espera.|
+|7      |O sistema deve poder pedir ao usuário escolher [Artistas](/modelagem/lexico#artista) de seu gosto.|
+|8      |O sistema recomenda músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
+|12     |O usuário deve poder criar seu [Flow](/modelagem/lexico#flow).|
+|13      |O usuário deve poder visualizar a [Fila de espera](/modelagem/lexico#fila-de-espera).|
 |15     |O usuário deve poder configurar a qualidade do áudio.|
-|16      |O usuário deve poder configurar o equalizador.|
+|16      |O usuário deve poder configurar o [Equalizador](/modelagem/lexico#equalizador).|
 |17      |O usuário deve poder configurar o download.|
 |18      |O usuário deve poder bloquear o conteúdo.|
-|19      |O usuário deve poder adicionar o conteúdo às Mais Queridas.|
-|20      |O usuário deve poder criar playlists.|
-|21      |O usuário deve poder adicionar o conteúdo em alguma playlist.|
-|22      |O usuário deve poder compartilhar o conteúdo para outras plataformas.|
-|23      |O usuário deve poder acessar a Página do Artista.|
+|19      |O usuário deve poder adicionar o conteúdo às [Mais queridas](/modelagem/lexico#mais-queridas).|
+|20      |O usuário deve poder criar [Playlists](/modelagem/lexico#playlist).|
+|21      |O usuário deve poder adicionar o conteúdo em alguma [Playlist](/modelagem/lexico#playlist).|
+|22      |O usuário deve poder [Compartilhar](/modelagem/lexico#compartilhar) o conteúdo para outras plataformas.|
+|23      |O usuário deve poder acessar a Página do [Artista](/modelagem/lexico#artista).|
 |24      |O usuário deve poder acessar a Página do Álbum.|
-|64      |O usuário free deve poder iniciar, pausar e pular o conteúdo.|
+|64      |O [Usuário free](/modelagem/lexico#usuario-free) deve poder iniciar, pausar e pular o conteúdo.|
 |28      |O usuário deve poder acompanhar a letras das músicas enquanto as ouve.|
-|29      |O usuário deve poder compartilhar a letra da música no Instagram Stories.|
+|29      |O usuário deve poder [Compartilhar](/modelagem/lexico#compartilhar) a letra da música no [Instagram Stories](/modelagem/lexico#instagram-stories).|
 |30      |O sistema deve recomendar conteúdo de acordo com a atividade do usuário.|
-|31      |O sistema deve criar playlists de acordo com o conteúdo mais ouvido pelos usuários.|
+|31      |O sistema deve criar [Playlists](/modelagem/lexico#playlist) de acordo com o conteúdo mais ouvido pelos usuários.|
 |32      |O usuário deve poder ver o que foi tocado recentemente.|
-|33      |O usuário deve poder ver suas Mais Queridas.|
-|34      |O usuário deve poder ver suas playlists favoritas e criadas.|
+|33      |O usuário deve poder ver suas [Mais queridas](/modelagem/lexico#mais-queridas).|
+|34      |O usuário deve poder ver suas [Playlists](/modelagem/lexico#playlist) favoritas e criadas.|
 |35      |O usuário deve poder ver seus álbuns favoritos.|
-|36      |O usuário deve poder ver seus artistas favoritos.|
-|37      |O usuário deve poder ver seus mixes criados.|
-|38      |O usuário deve poder ver seus podcasts favoritos.|
+|36      |O usuário deve poder ver seus [Artistas](/modelagem/lexico#artista) favoritos.|
+|37      |O usuário deve poder ver seus [Mixes](/modelagem/lexico#mix) criados.|
+|38      |O usuário deve poder ver seus [Podcasts](/modelagem/lexico#podcast) favoritos.|
 |40      |O usuário deve poder ser notificado com as atualizações e novidades mais recentes.|
-|42      |O usuário deve poder seguir artistas e outros usuários|
+|42      |O usuário deve poder seguir [Artistas](/modelagem/lexico#artista) e outros usuários|
 |43      |O usuário deve poder ser seguido.|
 |44      |Criações do usuário devem poder ser seguidas.|
 |45      |O usuário deve poder gerenciar sua conta.|
 |46      |O usuário deve poder configurar o aplicativo.|
 |47      |O usuário deve poder gerenciar os dispositivos conectados.|
 |48      |O usuário deve poder testar recursos experimentais.|
-|49      |O usuário deve poder buscar por texto um conteúdo específico.|
-|51      |O usuário deve poder buscar a partir de um som um conteúdo específico.|
-|52      |O usuário deve poder filtrar sua busca por gêneros e moods.|
-|54      |O usuário deve poder ver as Top Músicas, últimos lançamentos, discografia de um artista.|
-|55      |O usuário deve poder, a partir de um artista, encontrar artistas similares.|
-|56      |Na Página do Artista, o usuário deve poder visualizar playlists em que o artista está.|
-|57      |Na página do Artista, o usuário deve poder visualizar faixas em que o artista aparece.|
-|58      |Na Página do Artista, o usuário deve poder visualizar a quantidade de usuários que curtiram o artista e seu lançamento mais popular.|
-|59      |O usuário deve poder curtir artistas.|
-|60      |O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.|
-|61      |O usuário free deve receber anúncios durante as trocas de conteúdo.|
-|62      |O usuário free deve ter número limitado para pular o conteúdo.|
-|63      |O usuário free deve ouvir o conteúdo de forma aleatória.|
-|65      |O usuário free deve possuir conexão com internet para acessar o conteúdo.|
-|66      |O usuário premium deve pagar uma mensalidade.|
-|67      |O usuário premium deve poder pular o conteúdo de forma ilimitada.|
-|68      |O usuário premium deve poder baixar conteúdo.|
-|70      |O usuário premium deve poder ouvir o conteúdo offline.|
-|71      |O usuário premium deve poder escolher o conteúdo a ser tocado.|
-|72      |O usuário premium não deve receber anúncios durante a troca de conteúdo.|
+|49      |O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um conteúdo específico.|
+|51      |O usuário deve poder [Buscar](/modelagem/lexico#busca) a partir de um som um conteúdo específico.|
+|52      |O usuário deve poder filtrar sua [Busca](/modelagem/lexico#busca) por gêneros e [Moods](/modelagem/lexico#moods).|
+|54      |O usuário deve poder ver as Top Músicas, últimos lançamentos, discografia de um [Artista](/modelagem/lexico#artista).|
+|55      |O usuário deve poder, a partir de um [Artista](/modelagem/lexico#artista), encontrar [Artistas](/modelagem/lexico#artista) similares.|
+|56      |Na Página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar [Playlists](/modelagem/lexico#playlist) em que o [Artista](/modelagem/lexico#artista) está.|
+|57      |Na página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar faixas em que o [Artista](/modelagem/lexico#artista) aparece.|
+|58      |Na Página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar a quantidade de usuários que curtiram o [Artista](/modelagem/lexico#artista) e seu lançamento mais popular.|
+|59      |O usuário deve poder curtir [Artistas](/modelagem/lexico#artista).|
+|60      |O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o Deezer Premium por um tempo determinado.|
+|61      |O [Usuário free](/modelagem/lexico#usuario-free) deve receber anúncios durante as trocas de conteúdo.|
+|62      |O [Usuário free](/modelagem/lexico#usuario-free) deve ter número limitado para pular o conteúdo.|
+|63      |O [Usuário free](/modelagem/lexico#usuario-free) deve ouvir o conteúdo de forma aleatória.|
+|65      |O [Usuário free](/modelagem/lexico#usuario-free) deve possuir conexão com internet para acessar o conteúdo.|
+|66      |O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.|
+|67      |O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder pular o conteúdo de forma ilimitada.|
+|68      |O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder baixar conteúdo.|
+|70      |O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder ouvir o conteúdo [Offline](/modelagem/lexico#offline).|
+|71      |O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escolher o conteúdo a ser tocado.|
+|72      |O [Usuário premium](/modelagem/lexico#usuario-premium) não deve receber anúncios durante a troca de conteúdo.|

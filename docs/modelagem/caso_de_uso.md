@@ -27,4 +27,4 @@ Micaella
 ### [UC07: Adicionar Conteúdo em Playlists](casos_de_uso/uc07.md)
 ### [UC08: Pesquisar Conteúdo](casos_de_uso/uc08.md)
 ### [UC09: Seguir outros Usuários](casos_de_uso/uc09.md)
-### [UC010: Escutar Estações de Rádio](casos_de_uso/uc10.md)
+### [UC010: Escutar Estações de rádio](casos_de_uso/uc10.md)

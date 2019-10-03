@@ -7,7 +7,7 @@
 ## Visão Geral
 <p text-align="justify">&emsp;&emsp;Esta wiki busca trazer toda a documentação requisitada pela disciplina de Requisitos de Software da Universidade de Brasília no período de 2019/2 no curso de Engenharia de Software, tendo como objeto de estudo a aplicação Deezer.
 
-&emsp;&emsp;Deezer é um serviço de streaming, disponível em múltiplas plataformas, tendo disponível para seus usuários cerca de 56 milhões de faixas de áudio, incluindo músicas e podcasts.</p>
+&emsp;&emsp;Deezer é um serviço de streaming, disponível em múltiplas plataformas, tendo disponível para seus usuários cerca de 56 milhões de faixas de áudio, incluindo músicas e [Podcasts](/modelagem/lexico#podcast).</p>
 
 ## Equipe
 &emsp;&emsp;A equipe é composta por cinco alunos de Engenharia de Software da Universidade de Brasília, sendo eles:
