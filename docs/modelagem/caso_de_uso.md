@@ -40,7 +40,6 @@ Ele tem como finalidade descrever como será o uso de uma funcionalidade do sist
 		<td>Adição dos casos UC09 e UC10</td>
 		<td>29/09/2019</td>
 	</tr>
-	
 </table> 
 
 ## Participantes
