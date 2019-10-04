@@ -52,5 +52,6 @@ Trata-se de uma estratégia reconhecida para compreender as interações entre a
 <br />
 ###6. [Baixar um conteúdo](./cenario6.md)
 <br />
-###7. [Criar uma playlist](./cenario7.md)
+###7. [Criar uma Playlist](./cenario7.md)
 <br />
+

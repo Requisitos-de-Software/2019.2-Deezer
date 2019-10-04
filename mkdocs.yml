@@ -26,3 +26,4 @@ theme: journal
 
 extra_css:
     - 'stylesheets/common.css'
+

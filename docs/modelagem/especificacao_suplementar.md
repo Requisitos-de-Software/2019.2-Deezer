@@ -47,20 +47,20 @@ A **especificação suplementar** é um documento com intuito de explicitar os r
 
 |Nº|Requisito
 |--|---------
-|8|O sistema deve recomendar músicas, playlists, estações de rádio para o usuário, dependendo do seu gosto.
+|8|O sistema deve recomendar músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.
 |30|O sistema deve poder recomendar conteúdo de acordo com a atividade do usuário.
-|31|O sistema deve poder criar playlists de acordo com o conteúdo mais ouvido pelos usuários.
-|39|O sistema deve poder oferecer episódios do mesmo podcast que o usuário está ouvindo.
-|60|O usuário free deve poder experimentar o Deezer Premium por um tempo determinado.
-|66|O usuário premium deve pagar uma mensalidade.
-|72|O usuário premium não deve receber anúncios durante o uso da aplicação.
+|31|O sistema deve poder criar [Playlists](/modelagem/lexico#playlist) de acordo com o conteúdo mais ouvido pelos usuários.
+|39|O sistema deve poder oferecer episódios do mesmo [Podcast](/modelagem/lexico#podcast) que o usuário está ouvindo.
+|60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o Deezer Premium por um tempo determinado.
+|66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.
+|72|O [Usuário premium](/modelagem/lexico#usuario-premium) não deve receber anúncios durante o uso da aplicação.
 |79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.
-|82|O sistema deve oferecer uma busca mais flexível em relação a busca do usuário.
+|82|O sistema deve oferecer uma [Busca](/modelagem/lexico#busca) mais flexível em relação a [Busca](/modelagem/lexico#busca) do usuário.
 |83|O sistema deve oferecer planos acessíveis aos usuários.
 |87|O sistema deve fornecer feedbacks do seu status.
 |88|O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.
 |89|O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.
-|90|O sistema deve pesquisar em tempo real de acordo com a busca do usuário.
+|90|O sistema deve pesquisar em tempo real de acordo com a [Busca](/modelagem/lexico#busca) do usuário.
 |91|O sistema deve realizar confirmações de cadastro.
 |93|O usuário deve poder visualizar políticas do sistema.
 |94|O usuário deve poder visualizar as capas de álbuns.
@@ -70,7 +70,7 @@ A **especificação suplementar** é um documento com intuito de explicitar os r
 
 ### Facilidade de Uso
 
-O sistema deverá possuir uma interface clara e intuitiva ao usuário para que todos consigam utilizá-lo de forma eficiente no menor tempo possível. Além disso, deverá apresentar, ao usuário novo, escolhas de gêneros musicais e artistas, a fim de facilitar sua busca pelas músicas de acordo com seu gosto. Deverá possuir ainda, em sua página inicial, músicas e artistas sugeridos de acordo com as definições de sua preferência.
+O sistema deverá possuir uma interface clara e intuitiva ao usuário para que todos consigam utilizá-lo de forma eficiente no menor tempo possível. Além disso, deverá apresentar, ao usuário novo, escolhas de gêneros musicais e [Artistas](/modelagem/lexico#artista), a fim de facilitar sua [Busca](/modelagem/lexico#busca) pelas músicas de acordo com seu gosto. Deverá possuir ainda, em sua página inicial, músicas e [Artistas](/modelagem/lexico#artista) sugeridos de acordo com as definições de sua preferência.
 
 O usuário não necessitará de qualquer tipo de treinamento prévio para uso do sistema.
 
@@ -153,7 +153,7 @@ Será disponibilizado um forúm da comunidade Deezer Comunity, onde será possí
 
 ### Interfaces do Usuário
 
-O sistema terá uma interface gráfica para ser usada diretamente pelo usuário como tela de login, registro e tela inicial com sugestões de conteúdos.
+O sistema terá uma interface gráfica para ser usada diretamente pelo usuário como tela de [Login](/modelagem/lexico#login), registro e tela inicial com sugestões de conteúdos.
 
 ### Interfaces de Hardware
 
@@ -165,5 +165,5 @@ As comunicações entre os serviços deverão ser feitas por meio de conexão co
 
 ## Observações Legais, de Copyright e Outras
 
-A estrutura  geral  do  Site,  do  Aplicativo,  do  Software  gratuito  de  streaming  da  Deezer  e  todos  os elementos  que  o  compõem  (tal  como,  mas não  limitado  a,  logotipos,  nomes  de  domínio,  faixas  ou vídeos, e os seus elementos associados, como as fotos, imagens, textos e biografia dos autores, artistas e/ou  qualquer  beneficiário  legal  das  faixas  ou  vídeos,  e  mas  também  os  elementos  visuais  na embalagem)  serão  de propriedade  exclusiva  da  Deezer  e/ou  seus  licenciantes  (principalmente  os produtores de gravações e vídeos, as empresas gravadoras e sociedade de autores)
+A estrutura  geral  do  Site,  do  Aplicativo,  do  Software  gratuito  de  streaming  da  Deezer  e  todos  os elementos  que  o  compõem  (tal  como,  mas não  limitado  a,  logotipos,  nomes  de  domínio,  faixas  ou vídeos, e os seus elementos associados, como as fotos, imagens, textos e biografia dos autores, [Artistas](/modelagem/lexico#artista) e/ou  qualquer  beneficiário  legal  das  faixas  ou  vídeos,  e  mas  também  os  elementos  visuais  na embalagem)  serão  de propriedade  exclusiva  da  Deezer  e/ou  seus  licenciantes  (principalmente  os produtores de gravações e vídeos, as empresas gravadoras e sociedade de autores)
 
