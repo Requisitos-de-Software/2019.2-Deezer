@@ -150,7 +150,7 @@
 <h1 id="pesquisar-conteudo">Pesquisar Conteúdo</h1>
 <p><div class="line"></div></p>
 <h2 id="descricao">Descrição</h2>
-<p>O usuário deve poder pesquisar por um conteúdo específo (músicas, artistas, playlists, podcasts, entre outros).</p>
+<p>O usuário deve poder pesquisar por um conteúdo específo (músicas, <a href="/modelagem/lexico#artista">Artistas</a>, <a href="/modelagem/lexico#playlist">Playlists</a>, <a href="/modelagem/lexico#podcast">Podcasts</a>, entre outros).</p>
 <h2 id="atores">Atores</h2>
 <p>Usuário
 <br>
@@ -161,50 +161,50 @@ Sistema</p>
 <h3 id="fluxo-principal">Fluxo Principal</h3>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de Busca.</li>
-<li>O usuário recebe a opção de fazer a busca por texto e por áudio, além de pode ver suas buscas recentes.</li>
-<li>O usuário faz a busca de um conteúdo.</li>
+<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
+<li>O usuário recebe a opção de fazer a <a href="/modelagem/lexico#busca">Busca</a> por texto e por áudio, além de pode ver suas <a href="/modelagem/lexico#busca">Buscas</a> recentes.</li>
+<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de um conteúdo.</li>
 <li>O sistema gera resultados em tempo real.</li>
-<li>O usuário conclui sua busca.
+<li>O usuário conclui sua <a href="/modelagem/lexico#busca">Busca</a>.
 <br></li>
 </ol>
 <h3 id="fluxos-alternativos">Fluxos Alternativos</h3>
 <h4 id="1">1 )</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de Busca.</li>
-<li>O usuário recebe a opção de fazer a busca por texto e por áudio, além de pode ver suas buscas recentes.</li>
-<li>O usuário faz a busca de um conteúdo por áudio.</li>
+<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
+<li>O usuário recebe a opção de fazer a <a href="/modelagem/lexico#busca">Busca</a> por texto e por áudio, além de pode ver suas <a href="/modelagem/lexico#busca">Buscas</a> recentes.</li>
+<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de um conteúdo por áudio.</li>
 <li>O usuário deve permitir o aplicativo o acesso ao microfone do aparelho.</li>
 <li>O sistema identifica o conteúdo tocado por perto.</li>
-<li>O sistema retorna a resposta da busca por áudio.</li>
+<li>O sistema retorna a resposta da <a href="/modelagem/lexico#busca">Busca</a> por áudio.</li>
 </ol>
 <h4 id="2">2 )</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de Busca.</li>
-<li>O usuário recebe a opção de fazer a busca por texto e por áudio, além de pode ver suas buscas recentes.</li>
-<li>O usuário faz a busca de um conteúdo por texto.</li>
+<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
+<li>O usuário recebe a opção de fazer a <a href="/modelagem/lexico#busca">Busca</a> por texto e por áudio, além de pode ver suas <a href="/modelagem/lexico#busca">Buscas</a> recentes.</li>
+<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de um conteúdo por texto.</li>
 <li>O usuário digita o conteúdo a ser procurado.</li>
 <li>O sistema gera resultados em tempo real.</li>
-<li>O usuário conclui sua busca.</li>
+<li>O usuário conclui sua <a href="/modelagem/lexico#busca">Busca</a>.</li>
 </ol>
 <h4 id="21">2.1 )</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de Busca.</li>
-<li>O usuário recebe a opção de fazer a busca por texto e por áudio, além de pode ver suas buscas recentes.</li>
-<li>O usuário faz a busca de um conteúdo por texto.</li>
-<li>O usuário utiliza o assistente de voz da Google para realizar sua busca.</li>
-<li>O usuário conclui sua busca.</li>
+<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
+<li>O usuário recebe a opção de fazer a <a href="/modelagem/lexico#busca">Busca</a> por texto e por áudio, além de pode ver suas <a href="/modelagem/lexico#busca">Buscas</a> recentes.</li>
+<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de um conteúdo por texto.</li>
+<li>O usuário utiliza o assistente de voz da Google para realizar sua <a href="/modelagem/lexico#busca">Busca</a>.</li>
+<li>O usuário conclui sua <a href="/modelagem/lexico#busca">Busca</a>.</li>
 </ol>
 <h3 id="fluxos-de-excecao">Fluxos de Exceção</h3>
-<h4 id="1-falha-na-busca-por-audio">1) Falha na busca por áudio</h4>
+<h4 id="1-falha-na-busca-por-audio">1) Falha na <a href="/modelagem/lexico#busca">Busca</a> por áudio</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de Busca.</li>
-<li>O usuário recebe a opção de fazer a busca por texto e por áudio, além de pode ver suas buscas recentes.</li>
-<li>O usuário faz a busca de um conteúdo por áudio.</li>
+<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
+<li>O usuário recebe a opção de fazer a <a href="/modelagem/lexico#busca">Busca</a> por texto e por áudio, além de pode ver suas <a href="/modelagem/lexico#busca">Buscas</a> recentes.</li>
+<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de um conteúdo por áudio.</li>
 <li>O usuário deve permitir o aplicativo o acesso ao microfone do aparelho.</li>
 <li>O sistema não identifica o conteúdo tocado por perto.</li>
 <li>O sistema retorna uma mensagem de falha ao usuário.</li>
@@ -212,9 +212,9 @@ Sistema</p>
 <h4 id="2-conteudo-nao-encontrado">2) Conteúdo não encontrado</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de Busca.</li>
-<li>O usuário recebe a opção de fazer a busca por texto e por áudio, além de pode ver suas buscas recentes.</li>
-<li>O usuário faz a busca de um conteúdo por texto.</li>
+<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
+<li>O usuário recebe a opção de fazer a <a href="/modelagem/lexico#busca">Busca</a> por texto e por áudio, além de pode ver suas <a href="/modelagem/lexico#busca">Buscas</a> recentes.</li>
+<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de um conteúdo por texto.</li>
 <li>O usuário digita o conteúdo a ser procurado.</li>
 <li>O sistema não encontra o conteúdo digitado.</li>
 <li>O sistema retorna uma mensagem de conteúdo não encontrado ao usuário.</li>
@@ -229,7 +229,7 @@ Sistema</p>
         </footer>
         <script>
             var base_url = "../../..",
-                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+                shortcuts = {"previous": 80, "next": 78, "help": 191, "search": 83};
         </script>
         <script src="../../../js/base.js" defer></script>
         <script src="../../../search/main.js" defer></script>
