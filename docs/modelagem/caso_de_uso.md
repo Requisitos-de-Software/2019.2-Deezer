@@ -16,31 +16,28 @@ Ele tem como finalidade descrever como será o uso de uma funcionalidade do sist
 		<th>Detalhes</th>
 		<th>Data</th>
 	</tr>
-
 	<tr>
 		<td>1.0</td>
-		<td>Adição dos casos UC01 e UC02</td>
+		<td>Adição dos casos UC01 e UC02.</td>
 		<td>26/09/2019</td>
 	</tr>
-	
 	<tr>
 		<td>1.1</td>
-		<td>Adição dos casos UC03 e UC04</td>
+		<td>Adição dos casos UC03 e UC04.</td>
 		<td>27/09/2019</td>
 	</tr>
-	
 	<tr>
 		<td>1.2</td>
-		<td>Adição dos casos UC05, UC06, UC07 e UC08</td>
+		<td>Adição dos casos UC05, UC06, UC07 e UC08.</td>
 		<td>28/09/2019</td>
 	</tr>
-
     <tr>
 		<td>1.3</td>
-		<td>Adição dos casos UC09 e UC10</td>
+		<td>Adição dos casos UC09 e UC10.</td>
 		<td>29/09/2019</td>
 	</tr>
 </table> 
+<br>
 
 ## Participantes
 Micaella
