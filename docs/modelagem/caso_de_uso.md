@@ -36,6 +36,11 @@ Ele tem como finalidade descrever como será o uso de uma funcionalidade do sist
 		<td>Adição dos casos UC09 e UC10.</td>
 		<td>29/09/2019</td>
 	</tr>
+    <tr>
+		<td>1.3</td>
+		<td>Adição dos casos UC11, UC12 e UC13.</td>
+		<td>10/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -55,3 +60,6 @@ Micaella
 ### [UC08: Pesquisar Conteúdo](casos_de_uso/uc08.md)
 ### [UC09: Seguir outros Usuários](casos_de_uso/uc09.md)
 ### [UC010: Escutar Estações de rádio](casos_de_uso/uc10.md)
+### [UC011: Escutar um Conteúdo](casos_de_uso/uc11.md)
+### [UC012: Gerenciar conta do Usuário](casos_de_uso/uc12.md)
+### [UC013: Configurar Aplicativo](casos_de_uso/uc13.md)
