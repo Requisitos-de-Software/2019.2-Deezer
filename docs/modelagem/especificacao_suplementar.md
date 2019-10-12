@@ -9,26 +9,23 @@
 		<th>Detalhes</th>
 		<th>Data</th>
 	</tr>
-
 	<tr>
 		<td>1.0</td>
-		<td>Versão Inicial</td>
+		<td>Versão Inicial.</td>
 		<td>27/09/2019</td>
 	</tr>
-	
 	<tr>
 		<td>1.1</td>
-		<td>Adição de Compatibilidade a Observações Legais</td>
+		<td>Adição de Compatibilidade a Observações Legais.</td>
 		<td>29/09/2019</td>
 	</tr>
-	
 	<tr>
 		<td>1.2</td>
 		<td>Ajustes e correções</td>
 		<td>29/09/2019</td>
 	</tr>
-	
-</table>
+</table> 
+<br>
 
 ## Participantes
 - Sofia Patrocínio
