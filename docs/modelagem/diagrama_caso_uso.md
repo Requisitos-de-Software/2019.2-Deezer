@@ -41,11 +41,11 @@
 
 ## [Login](/modelagem/lexico#login) de Usuário
 
-<img src="../../assets/images/uso_[Login](/modelagem/lexico#login).png">
+<img src="../../assets/images/uso_login.png">
 
 ## [Flow](/modelagem/lexico#flow)
 
-<img src="../../assets/images/uso_[Flow](/modelagem/lexico#flow).png">
+<img src="../../assets/images/uso_flow.png">
 
 ## Pesquisa de conteúdo
 
