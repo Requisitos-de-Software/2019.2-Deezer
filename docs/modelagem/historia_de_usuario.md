@@ -37,14 +37,14 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 <br>
 
 ## Listagem das Histórias de Usuário
-US01: Realizar cadastro com conta do Facebook<br>
-US02: Realizar cadastro com conta do Google<br>
-US03: Realizar cadastro com o email<br>
-US04: Realizar cadastro com o número de telefone <br>
-US05: Realizar login com o email <br>
-US06: Realizar login com o número de telefone <br>
-US07: Escolha de gêneros musicais <br>
-US08: Escolha de artistas <br>
-US09: Recomendação de músicas <br>
-US10: Recomendação de artistas <br>
-US11: Recomendação de podcasts <br>
+[US01: Realizar cadastro com conta do Facebook](/modelagem/epicos/cadastro)<br>
+[US02: Realizar cadastro com conta do Google](/modelagem/epicos/cadastro)<br>
+[US03: Realizar cadastro com o email](/modelagem/epicos/cadastro)<br>
+[US04: Realizar cadastro com o número de telefone](/modelagem/epicos/cadastro) <br>
+[US05: Realizar login com o email](/modelagem/epicos/login) <br>
+[US06: Realizar login com o número de telefone](/modelagem/epicoslogin)<br>
+[US07: Escolha de gêneros musicais](/modelagem/epicos/recomendacao) <br>
+[US08: Escolha de artistas](/modelagem/epicos/recomendacao) <br>
+[US09: Recomendação de músicas](/modelagem/epicos/recomendacao) <br>
+[US10: Recomendação de artistas](/modelagem/epicos/recomendacao) <br>
+[US11: Recomendação de podcasts](/modelagem/epicos/recomendacao) <br>
