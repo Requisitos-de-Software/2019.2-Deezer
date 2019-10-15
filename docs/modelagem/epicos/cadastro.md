@@ -7,6 +7,8 @@ Eu,como usuário, desejo me cadastrar no Deezer pela conta do Facebook para que 
 
 #### Critérios de Aceitação:
 - Deve apresentar o botão para conectar com Facebook.
+- Deve apresentar uma aba do Facebook para o usuário colocar seus dados da conta.
+- Deve mostrar mensagem pedindo permissão para acessar as informações da conta do Facebook.
 - Deve realizar a conexão com Facebook.
 
 <br>
@@ -17,6 +19,7 @@ Eu,como usuário, desejo me cadastrar no Deezer pela conta do Google para que eu
 
 #### Critérios de Aceitação:
 - Deve apresentar o botão para conectar com Google.
+- Deve apresentar uma aba do Google para o usuário colocar seus dados da conta.
 - Deve realizar a conexão com Google.
 
 <br>
@@ -40,3 +43,7 @@ Eu,como usuário, desejo me cadastrar no Deezer inserindo meu número de telefon
 - Deve apresentar espaço para adicionar nome do usuário.
 - Deve apresentar espaço para adicionar gênero.
 - Deve apresentar espaço para adicionar idade.
+- Deve enviar um código de confirmação para o celular do usuário via SMS.
+- Deve apresentar a opção de “Não recebi um código”.
+- Deve apresentar a opção de enviar o código novamente
+-Deve efetuar o login

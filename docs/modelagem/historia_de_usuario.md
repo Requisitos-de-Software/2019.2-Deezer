@@ -19,6 +19,11 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 	<tr>
 		<td>1.0</td>
 		<td>Adição da US01 até US11.</td>
+		<td>14/10/2019</td>
+	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Adição da US12 até US26.</td>
 		<td>15/10/2019</td>
 	</tr>
 </table> 
@@ -32,7 +37,9 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 
 [Cadastro](epicos/cadastro.md)<br>
 [Login](epicos/login.md) <br>
-[Recomendação de conteúdo](epicos/recomendacao.md)
+[Recomendação de conteúdo](epicos/recomendacao.md)<br>
+[Player](epicos/player.md)<br>
+[Páginas de conteúdo](epicos/paginas_conteudo.md)<br>
 
 <br>
 
@@ -48,3 +55,21 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US09: Recomendação de músicas](/modelagem/epicos/recomendacao) <br>
 [US10: Recomendação de artistas](/modelagem/epicos/recomendacao) <br>
 [US11: Recomendação de podcasts](/modelagem/epicos/recomendacao) <br>
+[US12: Recomendação de álbuns](/modelagem/epicos/recomendacao) <br>
+[US13: Rastreamento de atividade](/modelagem/epicos/player) <br>
+[US14: Escutar uma música](/modelagem/epicos/player) <br>
+[US15: Escutar um podcast](/modelagem/epicos/player) <br>
+[US16: Escutar uma estação de rádio](/modelagem/epicos/player) <br>
+[US17: Escutar um álbum](/modelagem/epicos/player) <br>
+[US18: Escutar uma playlist](/modelagem/epicos/player) <br>
+[US19: Escutar mix de um artista](/modelagem/epicos/player) <br>
+[US20: Escutar de forma aleatória](/modelagem/epicos/player) <br>
+[US21: Controlar aplicativo durante a execução de um conteúdo](/modelagem/epicos/player) <br>
+[US22: Controlar execução de um conteúdo pela barra de tarefas do aparelho](/modelagem/epicos/player) <br>
+[US23: Criação do Flow](/modelagem/epicos/recomendacao) <br>
+[US24: Playlists diárias](/modelagem/epicos/recomendacao) <br>
+[US25: Fila de espera](/modelagem/epicos/player) <br>
+[US26: Adicionar conteúdo à Fila de Espera](/modelagem/epicos/player) <br>
+[US27: Acessar página do álbum](/modelagem/epicos/paginas_conteudo) <br>
+[US28: Acessar página do artista](/modelagem/epicos/paginas_conteudo) <br>
+[US29: Acessar página do usuário](/modelagem/epicos/paginas_conteudo) <br>
