@@ -94,3 +94,6 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US40: Curtir conteúdo](/modelagem/epicos/conteudo) <br>
 [US41: Baixar conteúdo](/modelagem/epicos/conteudo) <br>
 [US42: Compartilhar conteúdo](/modelagem/epicos/conteudo) <br>
+[US43: Configurações de download](/modelagem/epicos/conteudo) <br>
+[US44: Gerenciamento de dispositivos](/modelagem/epicos/conteudo) <br>
+[US45: Recursos experimentais](/modelagem/epicos/conteudo) <br>
