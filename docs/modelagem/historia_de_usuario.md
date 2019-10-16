@@ -36,6 +36,11 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 		<td>Adição da US34 até US45.</td>
 		<td>15/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.4</td>
+		<td>Adição da US46 até US49.</td>
+		<td>16/10/2019</td>
+	</tr>
 </table> 
 <br>
 
