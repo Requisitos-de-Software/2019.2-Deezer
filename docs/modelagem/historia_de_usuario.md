@@ -48,6 +48,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [Busca](epicos/busca.md)<br>
 [Configurações do aplicativo](epicos/conf_aplicativo.md)<br>
 [Gerenciamento de conteúdo](epicos/conf_aplicativo.md)<br>
+[Planos](epicos/planos.md)<br>
 
 <br>
 
@@ -94,3 +95,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US40: Curtir conteúdo](/modelagem/epicos/conteudo) <br>
 [US41: Baixar conteúdo](/modelagem/epicos/conteudo) <br>
 [US42: Compartilhar conteúdo](/modelagem/epicos/conteudo) <br>
+[US43: Utilização sem taxas](/modelagem/epicos/planos) <br>
+[US44: Testar premium](/modelagem/epicos/planos) <br>
+[US45: Maior controle](/modelagem/epicos/planos) <br>
+[US46: Formas de pagamento](/modelagem/epicos/planos) <br>
