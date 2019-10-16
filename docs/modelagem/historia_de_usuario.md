@@ -66,7 +66,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [Páginas de conteúdo](epicos/paginas_conteudo.md)<br>
 [Busca](epicos/busca.md)<br>
 [Configurações do aplicativo](epicos/conf_aplicativo.md)<br>
-[Gerenciamento de conteúdo](epicos/conf_aplicativo.md)<br>
+[Gerenciamento de conteúdo](epicos/conteudo.md)<br>
 [Planos](epicos/planos.md)<br>
 
 <br>
