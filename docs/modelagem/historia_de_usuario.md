@@ -32,7 +32,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 		<td>15/10/2019</td>
 	</tr>
 	<tr>
-		<td>1.3/td>
+		<td>1.3</td>
 		<td>Adição da US34 até US45.</td>
 		<td>15/10/2019</td>
 	</tr>
@@ -99,6 +99,6 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US40: Curtir conteúdo](/modelagem/epicos/conteudo) <br>
 [US41: Baixar conteúdo](/modelagem/epicos/conteudo) <br>
 [US42: Compartilhar conteúdo](/modelagem/epicos/conteudo) <br>
-[US43: Configurações de download](/modelagem/epicos/conteudo) <br>
-[US44: Gerenciamento de dispositivos](/modelagem/epicos/conteudo) <br>
-[US45: Recursos experimentais](/modelagem/epicos/conteudo) <br>
+[US43: Configurações de download](/modelagem/epicos/conf_aplicativo) <br>
+[US44: Gerenciamento de dispositivos](/modelagem/epicos/conf_aplicativo) <br>
+[US45: Recursos experimentais](/modelagem/epicos/conf_aplicativo) <br>
