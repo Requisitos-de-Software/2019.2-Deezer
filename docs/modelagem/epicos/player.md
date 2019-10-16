@@ -113,24 +113,4 @@ Eu, como usuário, desejo manipular um [conteúdo](/modelagem/lexico#conteudo) p
 
 <br>
 
-### US25 Fila de Espera
 
-Eu,  como usuário, desejo visualizar a fila de espera de [conteúdo](/modelagem/lexico#conteudo), para que eu possa saber qual [conteúdo](/modelagem/lexico#conteudo) será tocado em seguida. 
-
-#### Critérios de Aceitação:
-- Deve apresentar um botão para acessar a fila de espera.
-- Deve apresentar os [conteúdos](/modelagem/lexico#conteudo) que serão tocados na ordem.
-- Deve apresentar botão para excluir um [conteúdo](/modelagem/lexico#conteudo) da fila de espera.
-- Deve ser possível selecionar um [conteúdo](/modelagem/lexico#conteudo) da fila de espera para ser tocado imadiatamente.
-
-<br>
-
-### US26 Adicionar [conteúdo](/modelagem/lexico#conteudo) à Fila de Espera
-
-Eu,  como usuário, desejo adicionar um [conteúdo](/modelagem/lexico#conteudo) específico na fila de espera, para que eu possa escutá-lo em seguida.
-
-#### Critérios de Aceitação:
-- Deve apresentar um botão para adicionar [conteúdo](/modelagem/lexico#conteudo) na fila de espera.
-- Deve apresentar uma mensagem de sucesso ao adicionar o [conteúdo](/modelagem/lexico#conteudo) à fila de espera.
-
-<br>

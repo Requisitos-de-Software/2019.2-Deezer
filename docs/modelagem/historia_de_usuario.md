@@ -47,6 +47,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [Páginas de conteúdo](epicos/paginas_conteudo.md)<br>
 [Busca](epicos/busca.md)<br>
 [Configurações do aplicativo](epicos/conf_aplicativo.md)<br>
+[Gerenciamento de conteúdo](epicos/conf_aplicativo.md)<br>
 
 <br>
 
@@ -75,8 +76,8 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US22: Controlar execução de um conteúdo pela barra de tarefas do aparelho](/modelagem/epicos/player) <br>
 [US23: Criação do Flow](/modelagem/epicos/recomendacao) <br>
 [US24: Playlists diárias](/modelagem/epicos/recomendacao) <br>
-[US25: Fila de espera](/modelagem/epicos/player) <br>
-[US26: Adicionar conteúdo à Fila de Espera](/modelagem/epicos/player) <br>
+[US25: Fila de espera](/modelagem/epicos/conteudo) <br>
+[US26: Adicionar conteúdo à Fila de Espera](/modelagem/epicos/conteudo) <br>
 [US27: Acessar página do álbum](/modelagem/epicos/paginas_conteudo) <br>
 [US28: Acessar página do artista](/modelagem/epicos/paginas_conteudo) <br>
 [US29: Acessar página do usuário](/modelagem/epicos/paginas_conteudo) <br>
@@ -86,5 +87,10 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US33: Buscar conteúdo através de categorias](/modelagem/epicos/busca) <br>
 [US34: Configurações de exibição](/modelagem/epicos/conf_aplicativo) <br>
 [US35: Configurações de notificações](/modelagem/epicos/conf_aplicativo) <br>
-[US36: Configurações de compartilhamento](/modelagem/epicos/conf_aplicativo) <br>
-[US37: Configurações de armazenamento](/modelagem/epicos/conf_aplicativo) <br>
+[US36: Configurações de áudio](/modelagem/epicos/conf_aplicativo) <br>
+[US37: Configurações de compartilhamento](/modelagem/epicos/conf_aplicativo) <br>
+[US38: Configurações de armazenamento](/modelagem/epicos/conf_aplicativo) <br>
+[US39: Criar Playlists](/modelagem/epicos/conteudo) <br>
+[US40: Curtir conteúdo](/modelagem/epicos/conteudo) <br>
+[US41: Baixar conteúdo](/modelagem/epicos/conteudo) <br>
+[US42: Compartilhar conteúdo](/modelagem/epicos/conteudo) <br>
