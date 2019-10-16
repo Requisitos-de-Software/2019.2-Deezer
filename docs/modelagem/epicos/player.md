@@ -8,7 +8,7 @@ Eu, como usuário, desejo poder selecionar uma música para que eu possa escutá
 
 #### Critérios de Aceitação:
 - Deve apresentar um botão para acessar a música específica.
-- Deve tocar a música escolhido.
+- Deve tocar a música escolhida.
 - Deve apresentar um botão de [play](/modelagem/lexico#play) e pausa.
 
 <br>

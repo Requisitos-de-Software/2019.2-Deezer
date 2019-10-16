@@ -46,6 +46,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [Player](epicos/player.md)<br>
 [Páginas de conteúdo](epicos/paginas_conteudo.md)<br>
 [Busca](epicos/busca.md)<br>
+[Configurações do aplicativo](epicos/conf_aplicativo.md)<br>
 
 <br>
 
@@ -83,3 +84,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US31: Receber resultados](/modelagem/epicos/busca) <br>
 [US32: Buscar conteúdo por áudio](/modelagem/epicos/busca) <br>
 [US33: Buscar conteúdo através de categorias](/modelagem/epicos/busca) <br>
+[US34: Configurações de exibição](/modelagem/epicos/conf_aplicativo) <br>
+[US35: Configurações de notificações](/modelagem/epicos/conf_aplicativo) <br>
+[US36: Configurações de compartilhamento](/modelagem/epicos/conf_aplicativo) <br>
+[US37: Configurações de armazenamento](/modelagem/epicos/conf_aplicativo) <br>
