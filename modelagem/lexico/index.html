@@ -182,10 +182,15 @@
         <td>Adição dos termos Bit rate, Estações de rádio, Equalizador, Perfil, Podcast, Moods e Offline.</td>
         <td>28/09/2019</td>
     </tr>
-  <tr>
+    <tr>
         <td>1.4</td>
         <td>Adição da tabela de versionamento.</td>
         <td>28/09/2019</td>
+    </tr>
+    <tr>
+        <td>1.5</td>
+        <td>Adição dos termos Curtir, Álbum, Conta, Plano Premium e Download.</td>
+        <td>10/10/2019</td>
     </tr>
 </table>
 
@@ -193,6 +198,7 @@
 <h3 id="participantes">Participantes:</h3>
 <ul>
 <li>Luis Taira</li>
+<li>Micaella</li>
 </ul>
 <h3 id="conteudo">Conteúdo</h3>
 <table>
@@ -209,7 +215,7 @@
 <td>Objeto</td>
 <td>Músicas ou <a href="/modelagem/lexico#podcast">Podcasts</a> que podem ser consumidos no aplicativo.</td>
 <td>O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.</td>
-<td>Música, <a href="/modelagem/lexico#podcast">Podcast</a>, Áudio.</td>
+<td>Música, <a href="/modelagem/lexico#podcast">Podcast</a>, Áudio, <a href="/modelagem/lexico#album">Álbum</a>.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -233,7 +239,7 @@
 <tr>
 <td>Objeto</td>
 <td>Sequências de músicas recomendadas a um usuário específico.</td>
-<td>O usuário inicia seu <a href="/modelagem/lexico#flow">Flow</a> e escuta as musicas que o sistema recomendar.</td>
+<td>O usuário inicia seu <a href="/modelagem/lexico#flow">Flow</a> e escuta as músicas que o sistema recomendar.</td>
 <td>-</td>
 </tr>
 <tr>
@@ -269,7 +275,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="inicio">início</h3>
+<h3 id="inicio">Início</h3>
 <table>
 <thead>
 <tr>
@@ -557,8 +563,8 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Conteúdo que o sistema sugere ao usuário.</td>
-<td>O sistema recomenda conteúdo ao usuário por meio de <a href="/modelagem/lexico#mix">Mixes</a>, <a href="/modelagem/lexico#flow">Flow</a> ou conteúdo disponível na tela <a href="/modelagem/lexico#inicio">início</a>.</td>
+<td><a href="/modelagem/lexico#conteudo">Conteúdo</a> que o sistema sugere ao usuário.</td>
+<td>O sistema recomenda <a href="/modelagem/lexico#conteudo">conteúdo</a> ao usuário por meio de <a href="/modelagem/lexico#mix">Mixes</a>, <a href="/modelagem/lexico#flow">Flow</a> ou conteúdo disponível na tela <a href="/modelagem/lexico#inicio">início</a>.</td>
 <td>Recomendado.</td>
 </tr>
 <tr>
@@ -582,8 +588,8 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Criar uma conta no aplicativo colocando informações pessoais.</td>
-<td>O cadastro do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.</td>
+<td>Criar uma <a href="/modelagem/lexico#conta">conta</a> no aplicativo colocando informações pessoais.</td>
+<td>O <a href="/modelagem/lexico#cadastrar">cadastro</a> do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.</td>
 <td>Sign up, registrar.</td>
 </tr>
 <tr>
@@ -607,7 +613,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Colocar informações de identificação para ter acesso a uma conta já criada.</td>
+<td>Colocar informações de identificação para ter acesso a uma <a href="/modelagem/lexico#conta">conta</a> já criada.</td>
 <td>O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de <a href="/modelagem/lexico#login">Login</a> com Facebook ou Google.</td>
 <td>Entrar.</td>
 </tr>
@@ -632,8 +638,8 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Se desconectar da conta.</td>
-<td>O usuário faz logout para que seu dispositivo não esteja conectado com a sua conta.</td>
+<td>Se desconectar da <a href="/modelagem/lexico#conta">conta</a>.</td>
+<td>O usuário faz <a href="/modelagem/lexico#logout">logout</a> para que seu dispositivo não esteja conectado com a sua <a href="/modelagem/lexico#conta">conta</a>.</td>
 <td>Sair.</td>
 </tr>
 <tr>
@@ -657,8 +663,8 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td><a href="/modelagem/lexico#compartilhar">Compartilhar</a> um conteúdo com outros usuários.</td>
-<td>O usuário pode <a href="/modelagem/lexico#compartilhar">Compartilhar</a> um link que dá acesso a um conteúdo por meio de redes sociais ou fazer com que um conteúdo apareça no seu <a href="/modelagem/lexico#instagram-stories">Instagram Stories</a>.</td>
+<td><a href="/modelagem/lexico#compartilhar">Compartilhar</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a> com outros usuários.</td>
+<td>O usuário pode <a href="/modelagem/lexico#compartilhar">Compartilhar</a> um link que dá acesso a um <a href="/modelagem/lexico#conteudo">conteúdo</a> por meio de redes sociais ou fazer com que um <a href="/modelagem/lexico#conteudo">conteúdo</a> apareça no seu <a href="/modelagem/lexico#instagram-stories">Instagram Stories</a>.</td>
 <td>Share.</td>
 </tr>
 <tr>
@@ -683,7 +689,7 @@
 <tr>
 <td>Objeto</td>
 <td>Imagens ou pequenos vídeos acessíveis por 24 horas na conta de Instagram de um usuário.</td>
-<td>O usuário pode fazer um conteúdo aparecer em seus stories.</td>
+<td>O usuário pode fazer um <a href="conteudo">conteúdo</a> aparecer em seus stories.</td>
 <td>-</td>
 </tr>
 <tr>
@@ -707,8 +713,8 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Conteúdo que será tocado em seguida.</td>
-<td>O usuário pode ver e modificar a ordem dos contéudos que serão tocados em seguida, podendo adicionar novos conteúdos nessa fila.</td>
+<td><a href="/modelagem/lexico#conteudo">Conteúdo</a> que será tocado em seguida.</td>
+<td>O usuário pode ver e modificar a ordem dos <a href="/modelagem/lexico#conteudo">contéudos</a> que serão tocados em seguida, podendo adicionar novos <a href="/modelagem/lexico#conteudo">conteúdos</a> nessa fila.</td>
 <td>Lista.</td>
 </tr>
 <tr>
@@ -733,7 +739,7 @@
 <tr>
 <td>Estado</td>
 <td>Densidade de informação de um arquivo digital.</td>
-<td>Arquivos, como músicas ou <a href="/modelagem/lexico#podcast">Podcasts</a>, com bit rate alto possuem maior qualidade sonora.</td>
+<td>Arquivos, como <a href="/modelagem/lexico#conteudo">músicas</a> ou <a href="/modelagem/lexico#podcast">Podcasts</a>, com bit rate alto possuem maior qualidade sonora.</td>
 <td>Qualidade.</td>
 </tr>
 <tr>
@@ -783,7 +789,7 @@
 <tr>
 <td>Objeto</td>
 <td>Ferramenta oferecida pelo Deezer para modificar aspectos do som.</td>
-<td>O usuário pode modificar o nível dos sinais graves, médios e agúdos ao ouvir conteúdo.</td>
+<td>O usuário pode modificar o nível dos sinais graves, médios e agúdos ao ouvir <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
 <td>-</td>
 </tr>
 <tr>
@@ -833,7 +839,7 @@
 <tr>
 <td>Objeto</td>
 <td>Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.</td>
-<td>No Deezer os usuários podem acessar, salvar e seguir <a href="/modelagem/lexico#podcast">Podcasts</a> da mesma maneira que músicas.</td>
+<td>No Deezer os usuários podem acessar, <a href="/modelagem/lexico#download">salvar</a> e seguir <a href="/modelagem/lexico#podcast">Podcasts</a> da mesma maneira que músicas.</td>
 <td>-</td>
 </tr>
 <tr>
@@ -857,8 +863,8 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Humor dos usuários em relação aos conteúdos que quer escutar.</td>
-<td>O usuário pode selecionar um mood que se relaciona ao estilo de conteúdo que quer escutar.</td>
+<td>Humor dos usuários em relação aos <a href="/modelagem/lexico#conteudo">conteúdos</a> que quer escutar.</td>
+<td>O usuário pode selecionar um <a href="/modelagem/lexico#mood">mood</a> que se relaciona ao estilo de <a href="/modelagem/lexico#conteudo">conteúdo</a> que quer escutar.</td>
 <td>Emoção, gosto, vibe.</td>
 </tr>
 <tr>
@@ -883,8 +889,133 @@
 <tr>
 <td>Estado</td>
 <td>Não estar conectado à internet.</td>
-<td>Usuários premium no Deezer podem fazer download de conteúdo para que esses fiquem disponíveis mesmo que não hája acesso à internet, já usuários free podem somente acessar conteúdo enquanto conectados à internet.</td>
+<td><a href="/modelagem/lexico#usuario-premium">Usuários premium</a> no Deezer podem fazer <a href="/modelagem/lexico#download">download</a> de <a href="/modelagem/lexico#conteudo">conteúdo</a> para que esses fiquem disponíveis mesmo que não haja acesso à internet, já <a href="/modelagem/lexico#usuario-free">usuários free</a> podem somente acessar <a href="/modelagem/lexico#conteudo">conteúdo</a> enquanto conectados à internet.</td>
 <td>Desconectado, sem internet.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="curtir">Curtir</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Gostar de algo.</td>
+<td>Usuários podem <a href="/modelagem/lexico#curtir">curtir</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a> para que esses fiquem disponíveis na página das <a href="/modelagem/lexico#mais-queridas">Mais Queridas</a>.</td>
+<td>Gostar, amar, favoritar.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="album">Álbum</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Coleção de <a href="/modelagem/lexico#conteudo">músicas</a> relacionadas de um <a href="/modelagem/lexico#artista">artista</a> ou banda.</td>
+<td>No Deezer os usuários podem acessar, <a href="/modelagem/lexico#download">salvar</a> e seguir <a href="/modelagem/lexico#album">Álbuns</a> da mesma maneira que músicas.</td>
+<td>coleção, discografia.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="conta">Conta</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Meio para poder utilizar algm serviço ou alicativo.</td>
+<td>O usuário pode criar uma <a href="/modelagem/lexico#conta">conta</a> para poder utilizar o Deezer. O usuário pode possuir <a href="/modelagem/lexico#conta">conta</a> em redes socias.</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="plano-premium">Plano premium</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Objeto</td>
+<td>Plano oferecido que demanda uma mensalidade.</td>
+<td>Ao assinar o plano, o <a href="/modelagem/lexico#usuario-premium">usuário premium</a> tem acesso a todas as funcionalidades do Deezer.</td>
+<td>Assinatura premium, assinatura.</td>
+</tr>
+<tr>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+<td><img width=500/></td>
+</tr>
+</tbody>
+</table>
+<h3 id="download">Download</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+<th>Sinônimos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Guardar <a href="/modelagem/lexico#conteudo">conteúdo</a> em um espaço de memória.</td>
+<td>O usuário pode escutar o <a href="/modelagem/lexico#conteudo">conteúdo</a> sem possuir conexão com a internet.</td>
+<td>Baixar, salvar.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -902,7 +1033,7 @@
         </footer>
         <script>
             var base_url = "../..",
-                shortcuts = {"previous": 80, "next": 78, "help": 191, "search": 83};
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../js/base.js" defer></script>
         <script src="../../search/main.js" defer></script>

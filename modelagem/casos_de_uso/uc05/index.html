@@ -150,23 +150,23 @@
 <h1 id="curtir-conteudo">Curtir Conteúdo</h1>
 <p><div class="line"></div></p>
 <h2 id="descricao">Descrição</h2>
-<p>O usuário deve poder curtir um conteúdo específico (músicas, <a href="/modelagem/lexico#artista">Artistas</a>, <a href="/modelagem/lexico#podcast">Podcasts</a>, <a href="/modelagem/lexico#playlist">Playlists</a>, entre outros).</p>
+<p>O usuário deve poder <a href="/modelagem/lexico#curtir">curtir</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico (<a href="/modelagem/lexico#conteudo">Músicas</a>, <a href="/modelagem/lexico#artista">Artistas</a>, <a href="/modelagem/lexico#podcast">Podcasts</a>, <a href="/modelagem/lexico#playlist">Playlists</a>, <a href="/modelagem/lexico#album">Álbuns</a> entre outros).</p>
 <h2 id="atores">Atores</h2>
 <p>Usuário
 <br>
 Sistema</p>
 <h2 id="pre-condicao">Pré-condição</h2>
-<p>O usuário não deve ter curtido algum conteúdo específico.</p>
+<p>O usuário não deve ter curtido algum <a href="/modelagem/lexico#conteudo">conteúdo</a> específico.</p>
 <h2 id="fluxo-de-eventos">Fluxo de Eventos</h2>
 <h3 id="fluxo-principal">Fluxo Principal</h3>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário faz um <a href="/modelagem/lexico#busca">Busca</a> por um conteúdo.</li>
+<li>O usuário faz um <a href="/modelagem/lexico#busca">Busca</a> por um <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
 <li>O sistema retorna o resultado da <a href="/modelagem/lexico#busca">Busca</a>.</li>
-<li>O usuário escolhe o conteúdo.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário aperta em Curtir.</li>
-<li>O sistema adiciona o conteúdo curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.
+<li>O usuário escolhe o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário aperta em <a href="/modelagem/lexico#curtir">Curtir</a>.</li>
+<li>O sistema adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.
 <br></li>
 </ol>
 <h3 id="fluxos-alternativos">Fluxos Alternativos</h3>
@@ -174,20 +174,20 @@ Sistema</p>
 <ol>
 <li>O usuário entra no Deezer.</li>
 <li>O usuário acessa o <a href="/modelagem/lexico#inicio">início</a>.</li>
-<li>O usuário escolhe um conteúdo sugerido na página incial.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário aperta em Curtir.</li>
-<li>O sistema adiciona o conteúdo curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
+<li>O usuário escolhe um <a href="/modelagem/lexico#conteudo">conteúdo</a> sugerido na página incial.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário aperta em <a href="/modelagem/lexico#curtir">Curtir</a>.</li>
+<li>O sistema adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
 </ol>
 <h4 id="2">2 )</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
 <li>O usuário acessa o <a href="/modelagem/lexico#flow">Flow</a>.</li>
 <li>O usuário escolhe um <a href="/modelagem/lexico#playlist">Playlist</a> do <a href="/modelagem/lexico#flow">Flow</a>.</li>
-<li>O usuário escolhe o conteúdo.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário aperta em Curtir.</li>
-<li>O sistema adiciona o conteúdo curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
+<li>O usuário escolhe o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário aperta em <a href="/modelagem/lexico#curtir">Curtir</a>.</li>
+<li>O sistema adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
 </ol>
 <h4 id="3">3 )</h4>
 <ol>
@@ -195,16 +195,16 @@ Sistema</p>
 <li>O usuário <a href="/modelagem/lexico#busca">Busca</a> por um <a href="/modelagem/lexico#artista">Artista</a>.</li>
 <li>O usuário escolhe por um <a href="/modelagem/lexico#artista">Artista</a>.</li>
 <li>O usuário aperta no <a href="/modelagem/lexico#mix">Mix</a> do <a href="/modelagem/lexico#artista">Artista</a>.</li>
-<li>O sistema toca de forma aleatória músicas do <a href="/modelagem/lexico#artista">Artista</a> escolhido.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário aperta em Curtir.</li>
-<li>O sistema adiciona o conteúdo curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
+<li>O sistema toca de forma aleatória <a href="/modelagem/lexico#conteudo">músicas</a> do <a href="/modelagem/lexico#artista">Artista</a> escolhido.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário aperta em <a href="/modelagem/lexico#curtir">Curtir</a>.</li>
+<li>O sistema adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> curtido à <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
 </ol>
 <h4 id="4">4 )</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
 <li>O usuário <a href="/modelagem/lexico#busca">Busca</a> por um <a href="/modelagem/lexico#artista">Artista</a>.</li>
-<li>O usuário aperta em Curtir o <a href="/modelagem/lexico#artista">Artista</a>.</li>
+<li>O usuário aperta em <a href="/modelagem/lexico#curtir">Curtir</a> o <a href="/modelagem/lexico#artista">Artista</a>.</li>
 <li>O sistema adiciona o <a href="/modelagem/lexico#artista">Artista</a> curtido aos seus <a href="/modelagem/lexico#artista">Artistas</a> Favoritos.</li>
 </ol>
 <h4 id="5">5 )</h4>
@@ -212,25 +212,24 @@ Sistema</p>
 <li>O usuário entra no Deezer.</li>
 <li>O usuário acessa a <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
 <li>O usuário acessa as suas <a href="/modelagem/lexico#playlist">Playlists</a>.</li>
-<li>O usuário escolhe um conteúdo.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário, pela página de controle, acessa o álbum do conteúdo.</li>
-<li>O usuário curte o álbum.</li>
-<li>O sistema adiciona o conteúdo aos Álbuns Favoritos.</li>
+<li>O usuário escolhe um <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário, pela página de controle, acessa o <a href="/modelagem/lexico#album">álbum</a>.</li>
+<li>O sistema adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> aos <a href="/modelagem/lexico#album">Álbuns</a> Favoritos.</li>
 </ol>
 <h3 id="fluxos-de-excecao">Fluxos de Exceção</h3>
-<h4 id="1-usuario-ja-curtiu-o-conteudo-especifico">1) Usuário já curtiu o conteúdo específico</h4>
+<h4 id="1-usuario-ja-curtiu-o-conteudo-especifico">1) Usuário já curtiu o <a href="/modelagem/lexico#conteudo">conteúdo</a> específico</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário acessa um conteúdo específico.</li>
-<li>O usuário já havia curtido o conteúdo.</li>
-<li>O usuário, caso aperte em Curtir novamente, estará descurtindo o conteúdo.</li>
-<li>Após descurtir, o sistema remove o conteúdo da <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
+<li>O usuário acessa um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico.</li>
+<li>O usuário já havia curtido o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário, caso aperte em <a href="/modelagem/lexico#curtir">Curtir</a> novamente, estará descurtindo o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>Após <a href="/modelagem/lexico#curtir">descurtir</a>, o sistema remove o <a href="/modelagem/lexico#conteudo">conteúdo</a> da <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
 </ol>
 <h2 id="pos-condicoes">Pós-condições</h2>
-<p>O usuário agora pode acessar o conteúdo pela <a href="/modelagem/lexico#minha-musica">Minha música</a>.
+<p>O usuário agora pode acessar o <a href="/modelagem/lexico#conteudo">conteúdo</a>pela <a href="/modelagem/lexico#minha-musica">Minha música</a>.
 <br>
-Usuários premium podem baixar o conteúdo curtido.
+Usuários premium podem <a href="/modelagem/lexico#download">baixar</a> o <a href="/modelagem/lexico#conteudo">conteúdo</a> curtido.
 <br>
 O usuário pode acompanhar novos lançamentos dos <a href="/modelagem/lexico#artista">Artistas</a> curtidos. </p></div>
         </div>
@@ -241,7 +240,7 @@ O usuário pode acompanhar novos lançamentos dos <a href="/modelagem/lexico#art
         </footer>
         <script>
             var base_url = "../../..",
-                shortcuts = {"previous": 80, "next": 78, "help": 191, "search": 83};
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js" defer></script>
         <script src="../../../search/main.js" defer></script>

@@ -202,7 +202,7 @@ Sistema</p>
 <h4 id="22">2.2 )</h4>
 <ol>
 <li>O usuário não cadastrado seleciona o cadastro pelo Google.</li>
-<li>O usuário entra na conta do Google para se conectar com o Deezer.</li>
+<li>O usuário entra na <a href="/modelagem/lexico#conta">conta</a> do Google para se conectar com o Deezer.</li>
 <li>É realizado o cadastro.</li>
 <li>O usuário não cadastrado passa a ser um usuário.</li>
 </ol>
@@ -218,35 +218,35 @@ Sistema</p>
 <br></li>
 </ol>
 <h3 id="fluxos-de-excecao">Fluxos de Exceção</h3>
-<h4 id="1-conta-do-facebook-ja-cadastrada">1) Conta do Facebook já cadastrada</h4>
+<h4 id="1-conta-do-facebook-ja-cadastrada">1) <a href="/modelagem/lexico#conta">Conta</a> do Facebook já cadastrada</h4>
 <ol>
 <li>O usuário não cadastrado entra no Deezer.</li>
 <li>O usuário não cadastrado seleciona a opção de se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> pelo Facebook.</li>
 <li>O usuário não cadastrado concede permissão para que o Deezer receba informações do seu <a href="/modelagem/lexico#perfil">Perfil</a> do Facebook.</li>
-<li>Já existe um cadastro com a conta do Facebook.</li>
+<li>Já existe um cadastro com a <a href="/modelagem/lexico#conta">conta</a> do Facebook.</li>
 <li>O sistema retorna ao passo 4 do fluxo principal.</li>
 </ol>
-<h4 id="2-conta-do-google-ja-cadastrada">2) Conta do Google já cadastrada</h4>
+<h4 id="2-conta-do-google-ja-cadastrada">2) <a href="/modelagem/lexico#conta">Conta</a> do Google já cadastrada</h4>
 <ol>
 <li>O usuário não cadastrado entra no Deezer.</li>
 <li>O usuário não cadastrado seleciona a opção de se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> pelo Google.</li>
-<li>Já existe um cadastro com a conta do Google.</li>
+<li>Já existe um cadastro com a <a href="/modelagem/lexico#conta">conta</a> do Google.</li>
 <li>O sistema retorna ao passo 4 do fluxo principal.</li>
 </ol>
-<h4 id="3-conta-invalida">3) Conta inválida</h4>
+<h4 id="3-conta-invalida">3) <a href="/modelagem/lexico#conta">Conta</a> inválida</h4>
 <ol>
 <li>O usuário não cadastrado entra no Deezer.</li>
 <li>O usuário não cadastrado seleciona o cadastro pelo Facebook ou Google.</li>
-<li>A conta do Facebook ou Google não é válida.</li>
-<li>O sistema retorna ao passo 3 do fluxo principal</li>
+<li>A <a href="/modelagem/lexico#conta">conta</a> do Facebook ou Google não é válida.</li>
+<li>O sistema retorna ao passo 3 do fluxo principal.</li>
 </ol>
 <h4 id="4-dados-invalidos">4) Dados inválidos</h4>
 <ol>
 <li>O usuário seleciona a opção de se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> com o número de telefone.</li>
 <li>O usuário adiciona seu número de celular e os demais campos pedidos.</li>
 <li>O usuário seleciona a opção "<a href="/modelagem/lexico#cadastrar">Cadastrar</a>-se".</li>
-<li>O sistema identifica campos preenchidos incorretamente</li>
-<li>O sistema retorna ao passo 3 do fluxo principal</li>
+<li>O sistema identifica campos preenchidos incorretamente.</li>
+<li>O sistema retorna ao passo 3 do fluxo principal.</li>
 <li>O sistema indica os campos que foram preenchidos incorretamente.</li>
 </ol>
 <p><br></p>
@@ -260,7 +260,7 @@ Sistema</p>
         </footer>
         <script>
             var base_url = "../../..",
-                shortcuts = {"previous": 80, "next": 78, "help": 191, "search": 83};
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js" defer></script>
         <script src="../../../search/main.js" defer></script>

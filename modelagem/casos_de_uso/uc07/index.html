@@ -150,24 +150,24 @@
 <h1 id="adicionar-conteudo-em-playlists">Adicionar Conteúdo em <a href="/modelagem/lexico#playlist">Playlists</a></h1>
 <p><div class="line"></div></p>
 <h2 id="descricao">Descrição</h2>
-<p>O usuário deve poder adicionar conteúdos específicos em suas <a href="/modelagem/lexico#playlist">Playlists</a> criadas.</p>
+<p>O usuário deve poder adicionar <a href="/modelagem/lexico#conteudo">conteúdos</a> específicos em suas <a href="/modelagem/lexico#playlist">Playlists</a> criadas.</p>
 <h2 id="atores">Atores</h2>
 <p>Usuário
 <br>
 Sistema</p>
 <h2 id="pre-condicao">Pré-condição</h2>
-<p>O usuário não deve ter adicionado o conteúdo específico na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.
+<p>O usuário não deve ter adicionado o <a href="/modelagem/lexico#conteudo">conteúdos</a> específico na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.
 <br>
 O usuário deve ter uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</p>
 <h2 id="fluxo-de-eventos">Fluxo de Eventos</h2>
 <h3 id="fluxo-principal">Fluxo Principal</h3>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário faz uma <a href="/modelagem/lexico#busca">Busca</a> por um conteúdo específico.</li>
+<li>O usuário faz uma <a href="/modelagem/lexico#busca">Busca</a> por um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico.</li>
 <li>O sistema retorna o resultado da pesquisa.</li>
-<li>O usuário escolhe o conteúdo.</li>
-<li>O usuário adiciona o conteúdo à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
-<li>O conteúdo adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.
+<li>O usuário escolhe o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
+<li>O <a href="/modelagem/lexico#conteudo">conteúdo</a> adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.
 <br></li>
 </ol>
 <h3 id="fluxos-alternativos">Fluxos Alternativos</h3>
@@ -175,20 +175,19 @@ O usuário deve ter uma <a href="/modelagem/lexico#playlist">Playlist</a> criada
 <ol>
 <li>O usuário entra no Deezer.</li>
 <li>O usuário acessa o <a href="/modelagem/lexico#inicio">início</a>.</li>
-<li>O usuário escolhe um conteúdo sugerido na página incial.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário adiciona o conteúdo à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
-<li>O conteúdo adicionado estará dispoíivel na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
+<li>O usuário escolhe um <a href="/modelagem/lexico#conteudo">conteúdo</a> sugerido na página incial.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
+<li>O <a href="/modelagem/lexico#conteudo">conteúdo</a> adicionado estará dispoíivel na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
 </ol>
 <h4 id="2">2 )</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
 <li>O usuário acessa o <a href="/modelagem/lexico#flow">Flow</a>.</li>
 <li>O usuário escolhe um <a href="/modelagem/lexico#playlist">Playlist</a> do <a href="/modelagem/lexico#flow">Flow</a>.</li>
-<li>O usuário escolhe o conteúdo.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário adiciona o conteúdo à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
-<li>O conteúdo adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
+<li>O usuário escolhe o conteúdo<a href="/modelagem/lexico#conteudo">conteúdo</a>ágina de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a>o à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
+<li>O <a href="/modelagem/lexico#conteudo">conteúdo</a> adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
 </ol>
 <h4 id="3">3 )</h4>
 <ol>
@@ -196,36 +195,36 @@ O usuário deve ter uma <a href="/modelagem/lexico#playlist">Playlist</a> criada
 <li>O usuário <a href="/modelagem/lexico#busca">Busca</a> por um <a href="/modelagem/lexico#artista">Artista</a>.</li>
 <li>O usuário escolhe por um <a href="/modelagem/lexico#artista">Artista</a>.</li>
 <li>O usuário aperta no <a href="/modelagem/lexico#mix">Mix</a> do <a href="/modelagem/lexico#artista">Artista</a>.</li>
-<li>O sistema toca de forma aleatória músicas do <a href="/modelagem/lexico#artista">Artista</a> escolhido.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário adiciona o conteúdo à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
-<li>O conteúdo adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
+<li>O sistema toca de forma aleatória <a href="/modelagem/lexico#conteudo">músicas</a> do <a href="/modelagem/lexico#artista">Artista</a> escolhido.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> à uma <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
+<li>O <a href="/modelagem/lexico#conteudo">conteúdo</a> adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
 </ol>
 <h4 id="4">4 )</h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
 <li>O usuário acessa a <a href="/modelagem/lexico#minha-musica">Minha música</a>.</li>
 <li>O usuário acessa as suas <a href="/modelagem/lexico#playlist">Playlists</a>.</li>
-<li>O usuário escolhe um conteúdo.</li>
-<li>O usuário entra na página de controle do conteúdo.</li>
-<li>O usuário, pela página de controle, acessa o álbum do conteúdo.</li>
-<li>O usuário adiciona o conteúdo à uma outra <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
-<li>O conteúdo adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
+<li>O usuário escolhe um <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário entra na página de controle do <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário, pela página de controle, acessa o <a href="/modelagem/lexico#album">álbum</a> do <a href="/modelagem/lexico#conteudo">conteúdo</a>o.</li>
+<li>O usuário adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> à uma outra <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
+<li>O <a href="/modelagem/lexico#conteudo">conteúdo</a> adicionado estará disponível na <a href="/modelagem/lexico#playlist">Playlist</a> selecionada.</li>
 </ol>
 <h3 id="fluxos-de-excecao">Fluxos de Exceção</h3>
 <h4 id="1-usuario-nao-criou-uma-playlist">1) Usuário não criou uma <a href="/modelagem/lexico#playlist">Playlist</a></h4>
 <ol>
 <li>O usuário entra no Deezer.</li>
-<li>O usuário faz uma <a href="/modelagem/lexico#busca">Busca</a> por um conteúdo específico.</li>
+<li>O usuário faz uma <a href="/modelagem/lexico#busca">Busca</a> por um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico.</li>
 <li>O sistema retorna o resultado da pesquisa.</li>
-<li>O usuário escolhe o conteúdo.</li>
-<li>O usuário adiciona o conteúdo à uma <a href="/modelagem/lexico#playlist">Playlist</a>.</li>
+<li>O usuário escolhe o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>O usuário adiciona o <a href="/modelagem/lexico#conteudo">conteúdo</a> à uma <a href="/modelagem/lexico#playlist">Playlist</a>.</li>
 <li>O usuário não possui <a href="/modelagem/lexico#playlist">Playlist</a> criada.</li>
 <li>O sistema disponibilizará ao usuário a <a href="/modelagem/lexico#mais-queridas">Mais queridas</a> e a opção de criar um <a href="/modelagem/lexico#playlist">Playlist</a>.</li>
-<li>O usuário deve criar uma <a href="/modelagem/lexico#playlist">Playlist</a>, ou adicionar o conteúdo na <a href="/modelagem/lexico#mais-queridas">Mais queridas</a>.</li>
+<li>O usuário deve criar uma <a href="/modelagem/lexico#playlist">Playlist</a>, ou adicionar o <a href="/modelagem/lexico#conteudo">conteúdo</a> na <a href="/modelagem/lexico#mais-queridas">Mais queridas</a>.</li>
 </ol>
 <h2 id="pos-condicao">Pós-condição</h2>
-<p>O usuário agora pode ouvir o conteúdo acessando sua <a href="/modelagem/lexico#playlist">Playlist</a>. </p></div>
+<p>O usuário agora pode ouvir o <a href="/modelagem/lexico#conteudo">conteúdo</a> acessando sua <a href="/modelagem/lexico#playlist">Playlist</a>. </p></div>
         </div>
 
         <footer class="col-md-12">
@@ -234,7 +233,7 @@ O usuário deve ter uma <a href="/modelagem/lexico#playlist">Playlist</a> criada
         </footer>
         <script>
             var base_url = "../../..",
-                shortcuts = {"previous": 80, "next": 78, "help": 191, "search": 83};
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js" defer></script>
         <script src="../../../search/main.js" defer></script>
