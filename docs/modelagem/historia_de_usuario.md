@@ -41,12 +41,21 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 		<td>Adição da US46 até US49.</td>
 		<td>16/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.5</td>
+		<td>Adição parcial do product backlog e pequenas correções.</td>
+		<td>16/10/2019</td>
+	</tr>
 </table> 
 <br>
 
 ## Participantes
 - Micaella
 - Samuel
+
+## Backlog
+
+<img src="../../assets/images/productbacklog.png">
 
 ## Épicos
 

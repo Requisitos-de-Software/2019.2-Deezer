@@ -9,6 +9,7 @@ Eu, como usuário, desejo conseguir [buscar](/modelagem/lexico#busca) um [conte�
 #### Critérios de Aceitação:
 - Deve apresentar uma barra de pesquisa.
 - Deve apresentar sugestões parciais.
+- Deve possuir acesso ao microfone.
 
 <br>
 
