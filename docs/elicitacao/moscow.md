@@ -20,6 +20,7 @@ de prioridade, sendo elas:
 ### Execução
 
 <br>
+
 #### Participantes:
 - Eduardo Lima
 - Samuel Pereira
