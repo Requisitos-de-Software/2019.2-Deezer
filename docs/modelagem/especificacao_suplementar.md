@@ -44,23 +44,13 @@ A **especificação suplementar** é um documento com intuito de explicitar os r
 
 |Nº|Requisito
 |--|---------
-|8|O sistema deve recomendar músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.
-|30|O sistema deve poder recomendar conteúdo de acordo com a atividade do usuário.
-|31|O sistema deve poder criar [Playlists](/modelagem/lexico#playlist) de acordo com o conteúdo mais ouvido pelos usuários.
-|39|O sistema deve poder oferecer episódios do mesmo [Podcast](/modelagem/lexico#podcast) que o usuário está ouvindo.
 |60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o Deezer Premium por um tempo determinado.
 |66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.
 |72|O [Usuário premium](/modelagem/lexico#usuario-premium) não deve receber anúncios durante o uso da aplicação.
 |79|O sistema deve priorizar o gosto do usuário para sugestão de conteúdo.
-|82|O sistema deve oferecer uma [Busca](/modelagem/lexico#busca) mais flexível em relação a [Busca](/modelagem/lexico#busca) do usuário.
 |83|O sistema deve oferecer planos acessíveis aos usuários.
 |87|O sistema deve fornecer feedbacks do seu status.
 |88|O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.
-|89|O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.
-|90|O sistema deve pesquisar em tempo real de acordo com a [Busca](/modelagem/lexico#busca) do usuário.
-|91|O sistema deve realizar confirmações de cadastro.
-|93|O usuário deve poder visualizar políticas do sistema.
-|94|O usuário deve poder visualizar as capas de álbuns.
 |96|O sistema deve apresentar uma interface intuitiva.
 
 ## Usabilidade

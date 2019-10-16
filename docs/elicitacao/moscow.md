@@ -17,7 +17,31 @@ de prioridade, sendo elas:
 |Versão 1 |MoSCoW 1(Versão abaixo) (10/09/2019)|
 |Versão 1.1 | [MoSCoW 1.1](moscow1.md) (22/09/2019 a 25/09/2019)|
 
-### Execução
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+	<tr>
+		<td>1.0</td>
+		<td>Versão Inicial.</td>
+		<td>10/09/2019</td>
+	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>[MoSCoW 1.1](moscow1.md)</td>
+		<td>27/09/2019</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição de cenários 6 e 7.</td>
+		<td>29/09/2019</td>
+	</tr>
+</table> 
+<br>
 
 <br>
 #### Participantes:
