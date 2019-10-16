@@ -26,6 +26,11 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 		<td>Adição da US12 até US26.</td>
 		<td>15/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição da US30 até US33.</td>
+		<td>15/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -40,6 +45,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [Recomendação de conteúdo](epicos/recomendacao.md)<br>
 [Player](epicos/player.md)<br>
 [Páginas de conteúdo](epicos/paginas_conteudo.md)<br>
+[Busca](epicos/busca.md)<br>
 
 <br>
 
@@ -73,3 +79,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US27: Acessar página do álbum](/modelagem/epicos/paginas_conteudo) <br>
 [US28: Acessar página do artista](/modelagem/epicos/paginas_conteudo) <br>
 [US29: Acessar página do usuário](/modelagem/epicos/paginas_conteudo) <br>
+[US30: Buscar conteúdo por texto](/modelagem/epicos/busca) <br>
+[US31: Receber resultados](/modelagem/epicos/busca) <br>
+[US32: Buscar conteúdo por áudio](/modelagem/epicos/busca) <br>
+[US33: Buscar conteúdo através de categorias](/modelagem/epicos/busca) <br>
