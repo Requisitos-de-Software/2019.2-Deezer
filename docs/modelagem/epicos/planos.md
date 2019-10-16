@@ -1,7 +1,7 @@
 # Épico: Planos
 <div class="line"></div>
 
-### US43 Utilização sem taxas
+### US46 Utilização sem taxas
 
 Eu, como [usuário](/modelagem/lexico#usuario-free), desejo conseguir utilizar o Deezer sem taxas para que eu possa utilizar a aplicação de forma gratuita.
 
@@ -11,7 +11,7 @@ Eu, como [usuário](/modelagem/lexico#usuario-free), desejo conseguir utilizar o
 
 <br>
 
-### US44 Testar [premium](/modelagem/lexico#usuario-hifi)
+### US47 Testar [premium](/modelagem/lexico#usuario-hifi)
 
 Eu, como [usuário](/modelagem/lexico#usuario-free), desejo conseguir experimentar o plano [premium](/modelagem/lexico#usuario-hifi) para que eu possa avaliar o serviço.
 
@@ -21,7 +21,7 @@ Eu, como [usuário](/modelagem/lexico#usuario-free), desejo conseguir experiment
 
 <br>
 
-### US45 Maior controle
+### US48 Maior controle
 
 Eu, como usuário [premium](/modelagem/lexico#usuario-hifi), desejo conseguir ter maior controle acerca do que escuto para que eu possa ter uma melhor experiência no Deezer.
 
@@ -29,7 +29,7 @@ Eu, como usuário [premium](/modelagem/lexico#usuario-hifi), desejo conseguir te
 - Deve apresentar um menu de controle sem restrições na manipulação de [conteúdo](/modelagem/lexico#conteudo).
 - Deve permitir o uso de [conteúdo](/modelagem/lexico#conteudo) [offline](/modelagem/lexico#offline).
 
-### US46 Formas de pagamento
+### US49 Formas de pagamento
 
 Eu, como usuário [premium](/modelagem/lexico#usuario-hifi), desejo possuir vários formas de pagamento para que eu possa ter maior facilidade na efetuação dos pagamentos.
 

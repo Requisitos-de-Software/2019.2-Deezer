@@ -64,3 +64,32 @@ Eu,  como usuário, desejo configurar o espaço de armazenamento para que eu pos
 - Deve apresentar o botão para limpar tudo.
 
 <br>
+
+### US43 Configurações de [download](/modelagem/lexico#download)
+
+Eu,  como usuário, desejo configurar a forma de [baixar](/modelagem/lexico#download) [conteúdo](/modelagem/lexico#conteudo) para que eu possa escolher qual será a via de [download](/modelagem/lexico#download).
+
+#### Critérios de Aceitação:
+- Deve apresentar o botão para ativar [download](/modelagem/lexico#download) via redes móveis.
+- Deve sempre poder fazer o [download](/modelagem/lexico#download) via Wi-Fi.
+<br>
+
+### US44 Gerenciamento de dispositivos
+
+Eu,  como usuário, desejo gerenciar dispositivos conectados com o aplicativo para que eu possa ter o controle do que está sendo executado em outras plataformas.
+
+#### Critérios de Aceitação:
+- Deve apresentar o botão para se conectar com outros dispositivos.
+- Deve poder controlar o [conteúdo](/modelagem/lexico#conteúdo) tocado pelos dispositvos conectados.
+<br>
+
+### US45 Recursos experimentais
+
+Eu,  como usuário, desejo testar recursos experimentais fornecidos pelo aplicativo para que eu possa [sugerir](/modelagem/lexico#recomendacao) melhorias.
+
+#### Critérios de Aceitação:
+- Deve apresentar o botão testar recursos experimentais.
+- Deve utilizar o experimento.
+- Deve apresentar um quadro de satisfação com o recurso para o usuário avaliar.
+<br>
+

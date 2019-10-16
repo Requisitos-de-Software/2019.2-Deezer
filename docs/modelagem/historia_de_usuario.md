@@ -31,6 +31,11 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 		<td>Adição da US30 até US33.</td>
 		<td>15/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Adição da US34 até US45.</td>
+		<td>15/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -95,7 +100,10 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US40: Curtir conteúdo](/modelagem/epicos/conteudo) <br>
 [US41: Baixar conteúdo](/modelagem/epicos/conteudo) <br>
 [US42: Compartilhar conteúdo](/modelagem/epicos/conteudo) <br>
-[US43: Utilização sem taxas](/modelagem/epicos/planos) <br>
-[US44: Testar premium](/modelagem/epicos/planos) <br>
-[US45: Maior controle](/modelagem/epicos/planos) <br>
-[US46: Formas de pagamento](/modelagem/epicos/planos) <br>
+[US43: Configurações de download](/modelagem/epicos/conf_aplicativo) <br>
+[US44: Gerenciamento de dispositivos](/modelagem/epicos/conf_aplicativo) <br>
+[US45: Recursos experimentais](/modelagem/epicos/conf_aplicativo) <br>
+[US46: Utilização sem taxas](/modelagem/epicos/planos) <br>
+[US47: Testar premium](/modelagem/epicos/planos) <br>
+[US48: Maior controle](/modelagem/epicos/planos) <br>
+[US49: Formas de pagamento](/modelagem/epicos/planos) <br>
