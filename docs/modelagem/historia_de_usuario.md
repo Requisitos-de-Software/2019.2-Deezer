@@ -57,8 +57,8 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 ## Participantes
 - Micaella
 - Samuel
-- Eduardo
-- Sofia
+- Eduardo (Priorização)
+- Sofia (Priorização)
 
 ## Backlog
 
