@@ -36,6 +36,10 @@
 
 <img src="../../assets/images/NFR/NFR-Compatibilidade.png">
 
+### Usabilidade
+
+<img src="../../assets/images/NFR/NFR-Usabilidade.png">
+
 ### Confiabilidade
 
 <img src="../../assets/images/NFR/NFR-Confiabilidade.png">
