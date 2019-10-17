@@ -24,6 +24,11 @@
 		<td>Adição do NFR de Confiabilidade.</td>
 		<td>16/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Conserto de NFR de Compatibilidade.</td>
+		<td>17/10/2019</td>
+	</tr>
 </table> 
 <br>
 
