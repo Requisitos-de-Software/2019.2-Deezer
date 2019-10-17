@@ -20,7 +20,7 @@
 		<td>16/10/2019</td>
 	</tr>
 	<tr>
-		<td>1.1</td>
+		<td>1.2</td>
 		<td>Adição do NFR de Confiabilidade.</td>
 		<td>16/10/2019</td>
 	</tr>
@@ -31,6 +31,10 @@
 - Luis Taira
 - Eduardo Lima
 - Sofia Patrocínio
+
+### Compatibilidade
+
+<img src="../../assets/images/NFR/NFR-Compatibilidade.png">
 
 ### Confiabilidade
 
