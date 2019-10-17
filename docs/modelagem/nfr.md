@@ -13,11 +13,17 @@
 		<td>1.0</td>
 		<td>Adição do NFR de Compatibilidade.</td>
 		<td>16/10/2019</td>
+  </tr>
   <tr>
 		<td>1.1</td>
 		<td>Adição do NFR de Usabilidade.</td>
 		<td>16/10/2019</td>
-	
+	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Adição do NFR de Segurança.</td>
+		<td>16/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -26,6 +32,6 @@
 - Eduardo Lima
 - Sofia Patrocínio
 
-### Compatibilidade
+### Segurança
 
-<img src="../../assets/images/NFR/NFR-Usabilidade.png">
+<img src="../../assets/images/NFR/NFR-Seguranca.png">
