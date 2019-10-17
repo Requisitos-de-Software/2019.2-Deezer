@@ -46,12 +46,19 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 		<td>Adição parcial do product backlog e pequenas correções.</td>
 		<td>16/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.6</td>
+		<td>Adição total do product backlog e pequenas correções.</td>
+		<td>16/10/2019</td>
+	</tr>
 </table> 
 <br>
 
 ## Participantes
 - Micaella
 - Samuel
+- Eduardo
+- Sofia
 
 ## Backlog
 
@@ -106,8 +113,8 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US32: Buscar conteúdo por áudio](/modelagem/epicos/busca) <br>
 [US33: Buscar conteúdo através de categorias](/modelagem/epicos/busca) <br>
 [US34: Configurações de exibição](/modelagem/epicos/conf_aplicativo) <br>
-[US35: Configurações de notificações](/modelagem/epicos/conf_aplicativo) <br>
-[US36: Configurações de áudio](/modelagem/epicos/conf_aplicativo) <br>
+[US35: Configurações de áudio](/modelagem/epicos/conf_aplicativo) <br>
+[US36: Configurações de notificações](/modelagem/epicos/conf_aplicativo) <br>
 [US37: Configurações de compartilhamento](/modelagem/epicos/conf_aplicativo) <br>
 [US38: Configurações de armazenamento](/modelagem/epicos/conf_aplicativo) <br>
 [US39: Criar Playlists](/modelagem/epicos/conteudo) <br>
