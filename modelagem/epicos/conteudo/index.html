@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../../assets/favicon.ico">
+        
+        <title>Épico: Gerenciamento de [conteúdo](/modelagem/lexico#conteudo) - Deezer</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atelier-forest-light.min.css">
+        <link href="../../../stylesheets/common.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../../..">Deezer</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../../..">Inicial</a>
+                            </li>
+                            <li >
+                                <a href="../../../planejamento/">Planejamento</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pre-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+</li>
+                                    
+<li >
+    <a href="../../../pontocontrole/">Ponto de Controle</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../../elicitacao/moscow1/">MoScoW</a>
+</li>
+                                    
+<li >
+    <a href="../../../elicitacao/introspeccao/">Introspecção</a>
+</li>
+                                    
+<li >
+    <a href="../../../elicitacao/obs_part/">Observação Participativa</a>
+</li>
+                                    
+<li >
+    <a href="../../../elicitacao/analise_de_protocolo/">Análise de Protocolo</a>
+</li>
+                                    
+<li >
+    <a href="../../../elicitacao/questionario1/">Questionário</a>
+</li>
+                                    
+<li >
+    <a href="../../../elicitacao/entrevista/">Entrevista</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../cenarios/cenarios/">Cenários</a>
+</li>
+                                    
+<li >
+    <a href="../../lexico/">Léxico</a>
+</li>
+                                    
+<li >
+    <a href="../../especificacao_suplementar/">Especificação Suplementar</a>
+</li>
+                                    
+<li >
+    <a href="../../caso_de_uso/">Casos de Uso</a>
+</li>
+                                    
+<li >
+    <a href="../../diagrama_caso_uso/">Diagramas de Caso de Uso</a>
+</li>
+                                    
+<li >
+    <a href="../../historia_de_usuario/">Histórias de Usuário</a>
+</li>
+                                    
+<li >
+    <a href="../../nfr/">NFR</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#epico-gerenciamento-de-conteudo">Épico: Gerenciamento de conteúdo</a></li>
+            <li><a href="#us39-criar-playlists">US39 Criar playlists</a></li>
+            <li><a href="#us40-curtir-conteudo">US40 Curtir conteúdo</a></li>
+            <li><a href="#us41-baixar-conteudo">US41 Baixar conteúdo</a></li>
+            <li><a href="#us42-compartilhar-conteudo">US42 Compartilhar conteúdo</a></li>
+            <li><a href="#us25-fila-de-espera">US25 Fila de Espera</a></li>
+            <li><a href="#us26-adicionar-conteudo-a-fila-de-espera">US26 Adicionar conteúdo à Fila de Espera</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="epico-gerenciamento-de-conteudo">Épico: Gerenciamento de <a href="/modelagem/lexico#conteudo">conteúdo</a></h1>
+<p><div class="line"></div></p>
+<h3 id="us39-criar-playlists">US39 Criar <a href="/modelagem/lexico#playlist">playlists</a></h3>
+<p>Eu,  como usuário, desejo criar <a href="/modelagem/lexico#playlist">playlists</a> para que eu possa adicionar <a href="/modelagem/lexico#conteudo">conteúdos</a> do meu gosto e ouvi-los em sequência.</p>
+<h4 id="criterios-de-aceitacao">Critérios de Aceitação:</h4>
+<ul>
+<li>Deve apresentar o botão para criar uma <a href="/modelagem/lexico#playlist">playlist</a>.</li>
+<li>Deve apresentar um campo para escrever o nome da <a href="/modelagem/lexico#playlist">playlist</a>.</li>
+<li>Deve apresentar botão para adicionar <a href="/modelagem/lexico#conteudo">conteúdo</a> na <a href="/modelagem/lexico#playlist">playlist</a>.</li>
+</ul>
+<p><br></p>
+<h3 id="us40-curtir-conteudo">US40 <a href="/modelagem/lexico#curtir">Curtir</a> <a href="/modelagem/lexico#conteudo">conteúdo</a></h3>
+<p>Eu,  como usuário, desejo <a href="/modelagem/lexico#curtir">curtir</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico para que eu possa acessá-los na página de Minha Música.</p>
+<h4 id="criterios-de-aceitacao_1">Critérios de Aceitação:</h4>
+<ul>
+<li>Deve apresentar o botão para <a href="/modelagem/lexico#curtir">curtir</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>Deve adicionar músicas curtidas às <a href="/modelagem/lexico#mais-queridas">Mais Queridas</a>.</li>
+<li>Deve adicionar <a href="/modelagem/lexico#album">álbuns</a> curtidos aos <a href="/modelagem/lexico#album">álbuns</a> favoritos.</li>
+<li>Deve adicionar <a href="/modelagem/lexico#podcast">podcasts</a> curtidos aos <a href="/modelagem/lexico#podcast">podcasts</a> favoritos.</li>
+<li>Deve adicionar <a href="/modelagem/lexico#playlist">playlists</a> curtidas às <a href="/modelagem/lexico#playlist">playlists</a> favoritos.</li>
+<li>Deve adicionar <a href="/modelagem/lexico#artista">artistas</a> curtidos aos <a href="/modelagem/lexico#artista">artistas</a> favoritos.
+<br></li>
+</ul>
+<h3 id="us41-baixar-conteudo">US41 <a href="/modelagem/lexico#download">Baixar</a> <a href="/modelagem/lexico#conteudo">conteúdo</a></h3>
+<p>Eu,  como usuário, desejo <a href="/modelagem/lexico#download">baixar</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico para que eu possa acessá-los sem necessitar de conexão com a internet.</p>
+<h4 id="criterios-de-aceitacao_2">Critérios de Aceitação:</h4>
+<ul>
+<li>Deve ser <a href="/modelagem/lexico#usuario-premium">usuário premium</a>.</li>
+<li>Deve apresentar botão para <a href="/modelagem/lexico#download">baixar</a> <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>Deve adicionar <a href="/modelagem/lexico#conteudo">conteúdo</a> <a href="/modelagem/lexico#download">baixado</a> nos <a href="/modelagem/lexico#download">Downloads</a>.</li>
+<li>Deve possibilitar a execução <a href="/modelagem/lexico#offline">offline</a> do <a href="/modelagem/lexico#conteudo">conteúdo</a> <a href="/modelagem/lexico#download">baixado</a>.</li>
+</ul>
+<p><br></p>
+<h3 id="us42-compartilhar-conteudo">US42 <a href="/modelagem/lexico#compartilhar">Compartilhar</a> <a href="/modelagem/lexico#conteudo">conteúdo</a></h3>
+<p>Eu,  como usuário, desejo <a href="/modelagem/lexico#compartilhar">compartilhar</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico para que eu possa postar letras ou <a href="/modelagem/lexico#conteudo">conteúdos</a> nas redes sociais.</p>
+<h4 id="criterios-de-aceitacao_3">Critérios de Aceitação:</h4>
+<ul>
+<li>Deve apresentar botão para [compartilhar(/modelagem/lexico#compartilhar) <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
+<li>Deve apresentar botão para escolher o local de compartilhamento.</li>
+<li>Deve apresentar conexão com a <a href="/modelagem/lexico#conta">conta</a> escolhida.</li>
+</ul>
+<p><br></p>
+<h3 id="us25-fila-de-espera">US25 Fila de Espera</h3>
+<p>Eu,  como usuário, desejo visualizar a fila de espera de <a href="/modelagem/lexico#conteudo">conteúdo</a>, para que eu possa saber qual <a href="/modelagem/lexico#conteudo">conteúdo</a> será tocado em seguida. </p>
+<h4 id="criterios-de-aceitacao_4">Critérios de Aceitação:</h4>
+<ul>
+<li>Deve apresentar um botão para acessar a fila de espera.</li>
+<li>Deve apresentar os <a href="/modelagem/lexico#conteudo">conteúdos</a> que serão tocados na ordem.</li>
+<li>Deve apresentar botão para excluir um <a href="/modelagem/lexico#conteudo">conteúdo</a> da fila de espera.</li>
+<li>Deve ser possível selecionar um <a href="/modelagem/lexico#conteudo">conteúdo</a> da fila de espera para ser tocado imadiatamente.</li>
+</ul>
+<p><br></p>
+<h3 id="us26-adicionar-conteudo-a-fila-de-espera">US26 Adicionar <a href="/modelagem/lexico#conteudo">conteúdo</a> à Fila de Espera</h3>
+<p>Eu,  como usuário, desejo adicionar um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico na fila de espera, para que eu possa escutá-lo em seguida.</p>
+<h4 id="criterios-de-aceitacao_5">Critérios de Aceitação:</h4>
+<ul>
+<li>Deve apresentar um botão para adicionar <a href="/modelagem/lexico#conteudo">conteúdo</a> na fila de espera.</li>
+<li>Deve apresentar uma mensagem de sucesso ao adicionar o <a href="/modelagem/lexico#conteudo">conteúdo</a> à fila de espera.</li>
+</ul>
+<p><br></p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../js/base.js" defer></script>
+        <script src="../../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

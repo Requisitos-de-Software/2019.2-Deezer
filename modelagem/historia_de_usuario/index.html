@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../assets/favicon.ico">
+        
+        <title>Histórias de Usuário - Deezer</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atelier-forest-light.min.css">
+        <link href="../../stylesheets/common.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">Deezer</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">Inicial</a>
+                            </li>
+                            <li >
+                                <a href="../../planejamento/">Planejamento</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pre-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+</li>
+                                    
+<li >
+    <a href="../../pontocontrole/">Ponto de Controle</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../elicitacao/moscow1/">MoScoW</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/introspeccao/">Introspecção</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/obs_part/">Observação Participativa</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/analise_de_protocolo/">Análise de Protocolo</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/questionario1/">Questionário</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/entrevista/">Entrevista</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../cenarios/cenarios/">Cenários</a>
+</li>
+                                    
+<li >
+    <a href="../lexico/">Léxico</a>
+</li>
+                                    
+<li >
+    <a href="../especificacao_suplementar/">Especificação Suplementar</a>
+</li>
+                                    
+<li >
+    <a href="../caso_de_uso/">Casos de Uso</a>
+</li>
+                                    
+<li >
+    <a href="../diagrama_caso_uso/">Diagramas de Caso de Uso</a>
+</li>
+                                    
+<li class="active">
+    <a href="./">Histórias de Usuário</a>
+</li>
+                                    
+<li >
+    <a href="../nfr/">NFR</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li >
+                                <a rel="next" href="../diagrama_caso_uso/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../nfr/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#historias-de-usuario">Histórias de Usuário</a></li>
+            <li><a href="#versoes">Versões</a></li>
+            <li><a href="#participantes">Participantes</a></li>
+            <li><a href="#backlog">Backlog</a></li>
+            <li><a href="#epicos">Épicos</a></li>
+            <li><a href="#listagem-das-historias-de-usuario">Listagem das Histórias de Usuário</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="historias-de-usuario">Histórias de Usuário</h1>
+<p><div class="line"></div></p>
+<p align="justify">&emsp;
+
+História de usuário é uma descrição concisa de uma necessidade do usuário do produto/requisito sob o ponto de vista desse usuário.
+A história de usuário busca descrever essa necessidade de uma forma simples e leve.<br>
+Para melhor organização, separamos as histórias em seus respectivos épicos, porém listamos todos eles logo abaixo.
+</p>
+
+<h2 id="versoes">Versões</h2>
+<table class="versions">
+    <tr>
+        <th class="version_header">Versão</th>
+        <th>Detalhes</th>
+        <th>Data</th>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>Adição da US01 até US11.</td>
+        <td>14/10/2019</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Adição da US12 até US26.</td>
+        <td>15/10/2019</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Adição da US30 até US33.</td>
+        <td>15/10/2019</td>
+    </tr>
+    <tr>
+        <td>1.3</td>
+        <td>Adição da US34 até US45.</td>
+        <td>15/10/2019</td>
+    </tr>
+    <tr>
+        <td>1.4</td>
+        <td>Adição da US46 até US49.</td>
+        <td>16/10/2019</td>
+    </tr>
+    <tr>
+        <td>1.5</td>
+        <td>Adição parcial do product backlog e pequenas correções.</td>
+        <td>16/10/2019</td>
+    </tr>
+    <tr>
+        <td>1.6</td>
+        <td>Adição total do product backlog e pequenas correções.</td>
+        <td>16/10/2019</td>
+    </tr>
+</table>
+
+<p><br></p>
+<h2 id="participantes">Participantes</h2>
+<ul>
+<li>Micaella</li>
+<li>Samuel</li>
+<li>Eduardo (Priorização)</li>
+<li>Sofia (Priorização)</li>
+</ul>
+<h2 id="backlog">Backlog</h2>
+<p><img src="../../assets/images/productbacklog.png"></p>
+<h2 id="epicos">Épicos</h2>
+<p><a href="../epicos/cadastro/">Cadastro</a><br>
+<a href="../epicos/login/">Login</a> <br>
+<a href="../epicos/recomendacao/">Recomendação de conteúdo</a><br>
+<a href="../epicos/player/">Player</a><br>
+<a href="../epicos/paginas_conteudo/">Páginas de conteúdo</a><br>
+<a href="../epicos/busca/">Busca</a><br>
+<a href="../epicos/conf_aplicativo/">Configurações do aplicativo</a><br>
+<a href="../epicos/conteudo/">Gerenciamento de conteúdo</a><br>
+<a href="../epicos/planos/">Planos</a><br></p>
+<p><br></p>
+<h2 id="listagem-das-historias-de-usuario">Listagem das Histórias de Usuário</h2>
+<p><a href="/modelagem/epicos/cadastro">US01: Realizar cadastro com conta do Facebook</a><br>
+<a href="/modelagem/epicos/cadastro">US02: Realizar cadastro com conta do Google</a><br>
+<a href="/modelagem/epicos/cadastro">US03: Realizar cadastro com o email</a><br>
+<a href="/modelagem/epicos/cadastro">US04: Realizar cadastro com o número de telefone</a> <br>
+<a href="/modelagem/epicos/login">US05: Realizar login com o email</a> <br>
+<a href="/modelagem/epicoslogin">US06: Realizar login com o número de telefone</a><br>
+<a href="/modelagem/epicos/recomendacao">US07: Escolha de gêneros musicais</a> <br>
+<a href="/modelagem/epicos/recomendacao">US08: Escolha de artistas</a> <br>
+<a href="/modelagem/epicos/recomendacao">US09: Recomendação de músicas</a> <br>
+<a href="/modelagem/epicos/recomendacao">US10: Recomendação de artistas</a> <br>
+<a href="/modelagem/epicos/recomendacao">US11: Recomendação de podcasts</a> <br>
+<a href="/modelagem/epicos/recomendacao">US12: Recomendação de álbuns</a> <br>
+<a href="/modelagem/epicos/player">US13: Rastreamento de atividade</a> <br>
+<a href="/modelagem/epicos/player">US14: Escutar uma música</a> <br>
+<a href="/modelagem/epicos/player">US15: Escutar um podcast</a> <br>
+<a href="/modelagem/epicos/player">US16: Escutar uma estação de rádio</a> <br>
+<a href="/modelagem/epicos/player">US17: Escutar um álbum</a> <br>
+<a href="/modelagem/epicos/player">US18: Escutar uma playlist</a> <br>
+<a href="/modelagem/epicos/player">US19: Escutar mix de um artista</a> <br>
+<a href="/modelagem/epicos/player">US20: Escutar de forma aleatória</a> <br>
+<a href="/modelagem/epicos/player">US21: Controlar aplicativo durante a execução de um conteúdo</a> <br>
+<a href="/modelagem/epicos/player">US22: Controlar execução de um conteúdo pela barra de tarefas do aparelho</a> <br>
+<a href="/modelagem/epicos/recomendacao">US23: Criação do Flow</a> <br>
+<a href="/modelagem/epicos/recomendacao">US24: Playlists diárias</a> <br>
+<a href="/modelagem/epicos/conteudo">US25: Fila de espera</a> <br>
+<a href="/modelagem/epicos/conteudo">US26: Adicionar conteúdo à Fila de Espera</a> <br>
+<a href="/modelagem/epicos/paginas_conteudo">US27: Acessar página do álbum</a> <br>
+<a href="/modelagem/epicos/paginas_conteudo">US28: Acessar página do artista</a> <br>
+<a href="/modelagem/epicos/paginas_conteudo">US29: Acessar página do usuário</a> <br>
+<a href="/modelagem/epicos/busca">US30: Buscar conteúdo por texto</a> <br>
+<a href="/modelagem/epicos/busca">US31: Receber resultados</a> <br>
+<a href="/modelagem/epicos/busca">US32: Buscar conteúdo por áudio</a> <br>
+<a href="/modelagem/epicos/busca">US33: Buscar conteúdo através de categorias</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US34: Configurações de exibição</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US35: Configurações de áudio</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US36: Configurações de notificações</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US37: Configurações de compartilhamento</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US38: Configurações de armazenamento</a> <br>
+<a href="/modelagem/epicos/conteudo">US39: Criar Playlists</a> <br>
+<a href="/modelagem/epicos/conteudo">US40: Curtir conteúdo</a> <br>
+<a href="/modelagem/epicos/conteudo">US41: Baixar conteúdo</a> <br>
+<a href="/modelagem/epicos/conteudo">US42: Compartilhar conteúdo</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US43: Configurações de download</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US44: Gerenciamento de dispositivos</a> <br>
+<a href="/modelagem/epicos/conf_aplicativo">US45: Recursos experimentais</a> <br>
+<a href="/modelagem/epicos/planos">US46: Utilização sem taxas</a> <br>
+<a href="/modelagem/epicos/planos">US47: Testar premium</a> <br>
+<a href="/modelagem/epicos/planos">US48: Maior controle</a> <br>
+<a href="/modelagem/epicos/planos">US49: Formas de pagamento</a> <br></p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
