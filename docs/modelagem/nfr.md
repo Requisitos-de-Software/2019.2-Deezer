@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>1.1</td>
-		<td>Adição do NFR de Segurança.</td>
+		<td>Adição do NFR de Confiabilidade.</td>
 		<td>16/10/2019</td>
 	</tr>
 </table> 
@@ -32,6 +32,6 @@
 - Eduardo Lima
 - Sofia Patrocínio
 
-### Segurança
+### Confiabilidade
 
-<img src="../../assets/images/NFR/NFR-Seguranca.png">
+<img src="../../assets/images/NFR/NFR-Confiabilidade.png">
