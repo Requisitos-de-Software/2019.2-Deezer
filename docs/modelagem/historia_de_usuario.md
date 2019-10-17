@@ -84,7 +84,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US03: Realizar cadastro com o email](epicos/cadastro.md)<br>
 [US04: Realizar cadastro com o número de telefone](epicos/cadastro.md)<br>
 [US05: Realizar login com o email](epicos/login.md)<br>
-[US06: Realizar login com o número de telefone](epicoslogin.md)<br>
+[US06: Realizar login com o número de telefone](epicos/login.md)<br>
 [US07: Escolha de gêneros musicais](epicos/recomendacao.md)<br>
 [US08: Escolha de artistas](epicos/recomendacao.md)<br>
 [US09: Recomendação de músicas](epicos/recomendacao.md)<br>
