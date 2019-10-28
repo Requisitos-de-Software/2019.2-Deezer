@@ -62,14 +62,14 @@ Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas at�
 
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
 |--|---------|------|---|
-|Análise de Protocolo|-|-|30/10
-Entrevista|-|-|30/10
-Casos de Uso|-|-|30/10
-Histórias de Usuário|-|-|30/10
-Backlog|-|-|30/10
-Cenários|-|-|30/10
-Especificação Suplementar|-|-|30/10
-Diagramas de Casos de Uso|-|-|30/10
-Léxicos|-|-|30/10
-NFR's|-|-|30/10
+|Análise de Protocolo|Eduardo|-|30/10
+Entrevista|Luís|-|30/10
+Casos de Uso|Sofia|-|30/10
+Histórias de Usuário|Eduardo|-|30/10
+Backlog|Sofia|-|30/10
+Cenários|Micaella|30/10|30/10
+Especificação Suplementar|Luís|-|30/10
+Diagramas de Casos de Uso|Sofia|-|30/10
+Léxicos|Micaella|-|30/10
+NFR's|Samuel|-|30/10
 
