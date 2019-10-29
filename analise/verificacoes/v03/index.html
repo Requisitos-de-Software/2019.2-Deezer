@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../../../assets/favicon.ico">
         
-        <title>[Cadastrar](/modelagem/lexico#cadastrar) Usuário com Número de Celular - Deezer</title>
+        <title>Verificação dos Diagramas de Casos de Uso - Deezer</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -101,31 +101,31 @@
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="../cenarios/">Cenários</a>
+    <a href="../../../modelagem/cenarios/cenarios/">Cenários</a>
 </li>
                                     
 <li >
-    <a href="../../lexico/">Léxico</a>
+    <a href="../../../modelagem/lexico/">Léxico</a>
 </li>
                                     
 <li >
-    <a href="../../especificacao_suplementar/">Especificação Suplementar</a>
+    <a href="../../../modelagem/especificacao_suplementar/">Especificação Suplementar</a>
 </li>
                                     
 <li >
-    <a href="../../caso_de_uso/">Casos de Uso</a>
+    <a href="../../../modelagem/caso_de_uso/">Casos de Uso</a>
 </li>
                                     
 <li >
-    <a href="../../diagrama_caso_uso/">Diagramas de Caso de Uso</a>
+    <a href="../../../modelagem/diagrama_caso_uso/">Diagramas de Caso de Uso</a>
 </li>
                                     
 <li >
-    <a href="../../historia_de_usuario/">Histórias de Usuário</a>
+    <a href="../../../modelagem/historia_de_usuario/">Histórias de Usuário</a>
 </li>
                                     
 <li >
-    <a href="../../nfr/">NFR</a>
+    <a href="../../../modelagem/nfr/">NFR</a>
 </li>
                                 </ul>
                             </li>
@@ -134,11 +134,11 @@
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="../../../analise/verificacao/">Verificação</a>
+    <a href="../../verificacao/">Verificação</a>
 </li>
                                     
 <li >
-    <a href="../../../analise/validacao/">Validação</a>
+    <a href="../../validacao/">Validação</a>
 </li>
                                 </ul>
                             </li>
@@ -158,51 +158,190 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#cadastrar-usuario-com-numero-de-celular">Cadastrar Usuário com Número de Celular</a></li>
+        <li class="main active"><a href="#verificacao-dos-diagramas-de-casos-de-uso">Verificação dos Diagramas de Casos de Uso</a></li>
+            <li><a href="#contexto">Contexto</a></li>
+            <li><a href="#checklist">Checklist</a></li>
+            <li><a href="#resposta">Resposta</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="cadastrar-usuario-com-numero-de-celular"><a href="/modelagem/lexico#cadastrar">Cadastrar</a> Usuário com Número de Celular</h1>
-<p><br /></p>
-<table>
-<thead>
-<tr>
-<th>Título</th>
-<th><a href="/modelagem/lexico#cadastrar">Cadastrar</a> Usuário com Número de Celular</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Objetivo</strong></td>
-<td>Criar um <a href="/modelagem/lexico#perfil">Perfil</a> para um Usuário no Deezer usando o número do celular.</td>
-</tr>
-<tr>
-<td><strong>Contexto</strong></td>
-<td><strong>Pré-condições:</strong> Possuir um número de celular válido.<br /><strong>Pós-condição:</strong> É criado um <a href="/modelagem/lexico#perfil">Perfil</a> para o novo Usuário na aplicação.</td>
-</tr>
-<tr>
-<td><strong>Atores</strong></td>
-<td>1. Usuário não cadastrado. <br /> 2. Sistema.</td>
-</tr>
-<tr>
-<td><strong>Recursos</strong></td>
-<td>Acesso à internet.</td>
-</tr>
-<tr>
-<td><strong>Episódios</strong></td>
-<td>1. O Usuário não cadastrado acessa o Deezer.<br />2. O Usuário não cadastrado insere seu número de celular, preenche suas informações e seleciona o botão "<a href="/modelagem/lexico#cadastrar">Cadastrar</a>".<br />3. O Sistema envia um SMS com o código validador para o Usuário não cadastrado.<br />4. O Sistema detecta o sms e insere o código enviado.<br />5. O Usuário não cadastrado seleciona suas preferências musicais.</td>
-</tr>
-<tr>
-<td><strong>Restrições</strong></td>
-<td>Fluxo intuitivo.</td>
-</tr>
-<tr>
-<td><strong>Exceção</strong></td>
-<td>1. Número de celular já cadastrado no Deezer. <br /> 2. O Usuário fechar o aplicativo antes de terminar a ação.<br />3. A internet parar de funcionar no meio da ação.</td>
-</tr>
-</tbody>
-</table></div>
+<h1 id="verificacao-dos-diagramas-de-casos-de-uso">Verificação dos Diagramas de Casos de Uso</h1>
+<h2 id="contexto">Contexto</h2>
+<ul>
+<li>Técnica utilizada: Técnica de Leitura Check-List</li>
+<li>Autor do documento: Samuel Pereira.</li>
+<li>Inspetora: Sofia Patrocinio.</li>
+</ul>
+<h2 id="checklist">Checklist</h2>
+<p>Esse é o check-list que servirá de base para a inspeção dos casos de uso.
+<br></p>
+<ol>
+<li>O título é auto-explicativo?</li>
+<li>O diagrama de caso de uso prova algum resultado observável e de valor para os atores ou outros interessados do sistema?</li>
+<li>Todos os casos de uso são uma ação?</li>
+<li>Todos os extends fazem sentido?</li>
+<li>Todos os extends estão na direção certa?</li>
+<li>A pré-condição está correta?</li>
+<li>Existe um include depois de algum extends?</li>
+<li>Todos os includes fazem sentido?</li>
+<li>Todos os includes estão na direção certa?</li>
+<li>Todas as heranças fazem sentido?</li>
+<li>Todos os casos de uso possuem especificações?</li>
+<li>Os atores fazem sentido?</li>
+<li>Os serviços externos se comunicam com os casos de uso?</li>
+<li>A comunicação está sendo feita de forma correta?</li>
+<li>O diagrama se aplica ao que ocorre na aplicação?</li>
+<li>Todos os termos estão documentados no léxicos?</li>
+</ol>
+<h2 id="resposta">Resposta</h2>
+<table class="checklist">
+    <tr>
+        <th class="checklist_header">Checklist</th>
+        <th>Diagrama 1</th>
+        <th>Diagrama 2</th>
+        <th>Diagrama 3</th>
+        <th>Diagrama 4</th>
+        <th>Diagrama 5</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+        <tr>
+        <td>7</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    <tr>
+        <td>8</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>9</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>10</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>11</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>12</td>
+        <td>X</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>X</td>
+        <td>OK</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>13</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>14</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>15</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>16</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+</table>
+
+<p><br></p></div>
         </div>
 
         <footer class="col-md-12">
