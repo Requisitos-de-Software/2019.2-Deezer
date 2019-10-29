@@ -63,7 +63,7 @@ Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas at�
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
 |--|---------|------|---|
 |Análise de Protocolo|Eduardo|30/10|30/10
-Entrevista|Luís|-|30/10
+Entrevista|Luís|30/10|30/10
 Casos de Uso|Sofia|30/10|30/10
 Histórias de Usuário|Eduardo|30/10|30/10
 Backlog|Sofia|-|30/10
