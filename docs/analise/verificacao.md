@@ -46,6 +46,11 @@ Neste documento há todas as verificações com as suas devidas validações.
 		<td>Adição da verificação da Especificação Suplementar.</td>
 		<td>30/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.6</td>
+		<td>Adição da verificação do Léxico.</td>
+		<td>30/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -70,3 +75,5 @@ Neste documento há todas as verificações com as suas devidas validações.
 ### [VV05: Entrevistas](verificacoes/vv05.md)
 
 ### [VV06: Especificação Suplementar](verificacoes/vv06.md)
+
+### [VV07: Léxico](verificacoes/vv07.md)
