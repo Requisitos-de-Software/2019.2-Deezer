@@ -65,10 +65,19 @@ Neste documento há todas as verificações com as suas devidas validações.
 <br>
 
 ### [Verificação 01: Cenários](verificacoes/vv01.md)
+
 ### [Verificação 02: Análise de Protocolo](verificacoes/vv02.md)
+
 ### [Verificação 03: Histórias de Usuário](verificacoes/vv03.md)
+
 ### [Verificação 04: NFRs](verificacoes/vv04.md)
+
 ### [Verificação 05: Entrevistas](verificacoes/vv05.md)
+
 ### [Verificação 06: Especificação Suplementar](verificacoes/vv06.md)
+
 ### [Verificação 07: Casos de Uso](verificacoes/v02.md)
-### [Verificação 08: Léxico](verificacoes/vv08.md)
+
+### [Verificação 08: Diagramas de Casos de Uso](verificacoes/v03.md)
+
+### [Verificação 09: Léxico](verificacoes/vv09.md)
