@@ -37,3 +37,5 @@ Neste documento há todas as verificações com as suas devidas validações.
 ### [VV01: Cenários](verificacoes/vv01.md)
 
 ### [VV02: Análise de Protocolo](verificacoes/vv02.md)
+
+### [VV03: Histórias de Usuário](verificacoes/vv03.md)
