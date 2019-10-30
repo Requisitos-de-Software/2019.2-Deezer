@@ -34,4 +34,5 @@ Neste documento há todas as verificações com as suas devidas validações.
 
 <br>
 
-### [VV01: Cenários](verificacoes/vv01.md)
+### [Verificação 01: Cenários](verificacoes/vv01.md)
+### [Verificação 02: NFRs](verificacoes/vv02.md)
