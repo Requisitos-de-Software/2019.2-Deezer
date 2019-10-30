@@ -21,6 +21,16 @@ Neste documento há todas as verificações com as suas devidas validações.
 		<td>Adição da verificação dos Cenários.</td>
 		<td>30/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Adição da verificação das Entrevistas.</td>
+		<td>30/10/2019</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição da verificação da Especificação Suplementar.</td>
+		<td>30/10/2019</td>
+	</tr>
 </table> 
 <br>
 
