@@ -34,7 +34,7 @@ Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas at�
 |Introspecção|Todos os membros|11/09| 11/09
 |Observação Participativa|Todos os membros|05/09| 11/09
 |Questionário|Todos os membros| Ainda no ar | Fim da disciplina
-|Moscow|Todos os membros|10/09| 11/09
+|MosCow|Todos os membros|10/09| 11/09
 <br>
 
 ## Modelagem - 1/10 
@@ -53,6 +53,23 @@ Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas at�
 
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
 |--|---------|------|---|
-|Backlogs|- |-|15/10
-|Histórias de Usuário|Micaella|-|15/10
-|NFR|-|-|15/10
+|Backlogs|Micaella e Samuel|15/10|15/10
+|Histórias de Usuário|Micaella e Samuel|15/10|15/10
+|NFR|Eduardo, Luís e Sofia|15/10|15/10
+
+## Verificação e Validação - 17/10 
+17/10 - 31/10
+
+|Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
+|--|---------|------|---|
+|Análise de Protocolo|Eduardo|-|30/10
+Entrevista|Luís|-|30/10
+Casos de Uso|Sofia|-|30/10
+Histórias de Usuário|Eduardo|-|30/10
+Backlog|Sofia|-|30/10
+Cenários|Micaella|30/10|30/10
+Especificação Suplementar|Luís|-|30/10
+Diagramas de Casos de Uso|Sofia|-|30/10
+Léxicos|Micaella|-|30/10
+NFR's|Samuel|-|30/10
+
