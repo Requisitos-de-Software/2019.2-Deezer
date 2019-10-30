@@ -35,3 +35,4 @@ Neste documento há todas as verificações com as suas devidas validações.
 <br>
 
 ### [VV01: Cenários](verificacoes/vv01.md)
+### [VV02: Casos de Uso](verificacoes/v02.md)
