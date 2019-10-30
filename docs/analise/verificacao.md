@@ -39,3 +39,5 @@ Neste documento há todas as verificações com as suas devidas validações.
 ### [VV02: Análise de Protocolo](verificacoes/vv02.md)
 
 ### [VV03: Entrevistas](verificacoes/vv03.md)
+
+### [VV04: Especificação Suplementar](verificacoes/vv04.md)
