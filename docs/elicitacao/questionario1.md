@@ -53,7 +53,7 @@ Em relação a preferência de plataforma, a grande maioria tem preferência pel
 
 Nosso público, em sua maioria, já foi ou são usuários Deezer.
 
-A partir desse momento, o questionário conta com uma condição. As respostas posteriores são apenas para aqueles que são ou já foram usuários do Deezer.
+A partir desse momento, o questionário [conta](/modelagem/lexico#conta) com uma condição. As respostas posteriores são apenas para aqueles que são ou já foram usuários do Deezer.
 
 <img src="../../assets/images/xpdeezer1.png">
 
@@ -69,7 +69,7 @@ Sobre as funcionalidades diferenciais da aplicação, houve maioria para boas e 
 
 <img src="../../assets/images/tim1.png">
 
-O Deezer possui uma parceria com a Tim, em que usuários da Tim podem ser usuários do Deezer Premium gratuitamente. Por curiosidade, perguntamos ao nosso público se eles são usuários Tim. Vimos que em nossa amostra, houve maioria para não usuário Tim.
+O Deezer possui uma parceria com a Tim, em que usuários da Tim podem ser [usuários do Deezer Premium](/modelagem/lexico#usuario-premium) gratuitamente. Por curiosidade, perguntamos ao nosso público se eles são usuários Tim. Vimos que em nossa amostra, houve maioria para não usuário Tim.
 
 <img src="../../assets/images/other1.png">
 
