@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../../../assets/favicon.ico">
         
-        <title>Escutar um [Conteúdo](/modelagem/lexico#conteudo) - Deezer</title>
+        <title>Verificação das Entrevistas - Deezer</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -101,31 +101,31 @@
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="../../cenarios/cenarios/">Cenários</a>
+    <a href="../../../modelagem/cenarios/cenarios/">Cenários</a>
 </li>
                                     
 <li >
-    <a href="../../lexico/">Léxico</a>
+    <a href="../../../modelagem/lexico/">Léxico</a>
 </li>
                                     
 <li >
-    <a href="../../especificacao_suplementar/">Especificação Suplementar</a>
+    <a href="../../../modelagem/especificacao_suplementar/">Especificação Suplementar</a>
 </li>
                                     
 <li >
-    <a href="../../caso_de_uso/">Casos de Uso</a>
+    <a href="../../../modelagem/caso_de_uso/">Casos de Uso</a>
 </li>
                                     
 <li >
-    <a href="../../diagrama_caso_uso/">Diagramas de Caso de Uso</a>
+    <a href="../../../modelagem/diagrama_caso_uso/">Diagramas de Caso de Uso</a>
 </li>
                                     
 <li >
-    <a href="../../historia_de_usuario/">Histórias de Usuário</a>
+    <a href="../../../modelagem/historia_de_usuario/">Histórias de Usuário</a>
 </li>
                                     
 <li >
-    <a href="../../nfr/">NFR</a>
+    <a href="../../../modelagem/nfr/">NFR</a>
 </li>
                                 </ul>
                             </li>
@@ -134,7 +134,7 @@
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="../../../analise/verificacao/">Verificação</a>
+    <a href="../../verificacao/">Verificação</a>
 </li>
                                 </ul>
                             </li>
@@ -154,111 +154,93 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#escutar-um-conteudo">Escutar um Conteúdo</a></li>
-            <li><a href="#descricao">Descrição</a></li>
-            <li><a href="#atores">Atores</a></li>
-            <li><a href="#pre-condicao">Pré-condição</a></li>
-            <li><a href="#fluxo-de-eventos">Fluxo de Eventos</a></li>
-            <li><a href="#pos-condicao">Pós-condição</a></li>
+        <li class="main active"><a href="#verificacao-das-entrevistas">Verificação das Entrevistas</a></li>
+            <li><a href="#contexto">Contexto</a></li>
+            <li><a href="#checklist">Checklist</a></li>
+            <li><a href="#resposta">Resposta</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="escutar-um-conteudo">Escutar um <a href="/modelagem/lexico#conteudo">Conteúdo</a></h1>
-<p><div class="line"></div></p>
-<h2 id="descricao">Descrição</h2>
-<p>O usuário deve poder escutar <a href="/modelagem/lexico#conteudo">conteúdos</a> específicos.</p>
-<h2 id="atores">Atores</h2>
-<p>Usuário
-<br>
-Sistema</p>
-<h2 id="pre-condicao">Pré-condição</h2>
-<p>O usuário não deve estar escutando um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico.</p>
-<h2 id="fluxo-de-eventos">Fluxo de Eventos</h2>
-<h3 id="fluxo-principal">Fluxo Principal</h3>
+<h1 id="verificacao-das-entrevistas">Verificação das Entrevistas</h1>
+<h2 id="contexto">Contexto</h2>
+<ul>
+<li>Técnica utilizada: Técnica de Leitura Check-List</li>
+<li>Autor do documento: Eduardo Lima, Samuel Buters, Sofia Patrocínio, Micaella Gouveia e Luís Taira.</li>
+<li>Inspetor: Luís Henrique Pereira Taira.</li>
+</ul>
+<h2 id="checklist">Checklist</h2>
+<p>Esse é o check-list que servirá de base para a inspeção das entrevistas.
+<br></p>
 <ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
-<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de uma <a href="/modelagem/lexico#conteudo">música</a>.</li>
-<li>O sistema gera resultados em tempo real.</li>
-<li>O usuário escolhe o <a href="/modelagem/lexico#conteudo">conteúdo</a> desejado.</li>
-<li>O usuário agora pode escutar o <a href="/modelagem/lexico#conteudo">conteúdo</a> selecionado.</li>
+<li>Todas as perguntas foram respondidas?</li>
+<li>O entrevistado faz parte do público alvo da aplicação?</li>
+<li>Foram documentados os requisitos levantados?</li>
+<li>Não existem erros de digitação?</li>
+<li>A realização das entrevistas esta bem documentada?</li>
+<li>As perguntas feitas são relevantes para o escopo da aplicação?</li>
 </ol>
-<p><br></p>
-<h3 id="fluxos-alternativos">Fluxos Alternativos</h3>
-<h4 id="1">1 )</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#minha-musica">Minha Música</a>.</li>
-<li>O usuário seleciona as <a href="/modelagem/lexico#mais-queridas">Mais Queridas</a>.</li>
-<li>O sistema mostra as <a href="/modelagem/lexico#conteudo">músicas</a> curtidas.</li>
-<li>O usuário escolhe a <a href="/modelagem/lexico#conteudo">música</a> desejada.</li>
-<li>O usuário agora pode escutar a <a href="/modelagem/lexico#conteudo">música</a> selecionada.</li>
-</ol>
-<h4 id="2">2 )</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#minha-musica">Minha Música</a>.</li>
-<li>O usuário seleciona as <a href="/modelagem/lexico#playlist">Playlists</a>.</li>
-<li>O sistema mostra as <a href="/modelagem/lexico#playlist">playlists</a> curtidas.</li>
-<li>O usuário escolhe a <a href="/modelagem/lexico#playlist">playlist</a> desejada.</li>
-<li>O usuário agora pode escutar um <a href="/modelagem/lexico#conteudo">conteúdo</a> da <a href="/modelagem/lexico#playlist">playlist</a> ou escutá-la de forma aleatória.</li>
-</ol>
-<h4 id="3">3 )</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#minha-musica">Minha Música</a>.</li>
-<li>O usuário seleciona os <a href="/modelagem/lexico#album">Álbuns</a>.</li>
-<li>O sistema mostra os <a href="/modelagem/lexico#album">álbuns</a> curtidos.</li>
-<li>O usuário escolhe o <a href="/modelagem/lexico#album">álbum</a> desejado.</li>
-<li>O usuário agora pode escutar um <a href="/modelagem/lexico#conteudo">conteúdo</a> do <a href="/modelagem/lexico#album">álbum</a> ou escutá-lo de forma aleatória.</li>
-</ol>
-<h4 id="4">4 )</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#minha-musica">Minha Música</a>.</li>
-<li>O usuário seleciona os <a href="/modelagem/lexico#mix">Mixes</a>.</li>
-<li>O sistema mostra os <a href="/modelagem/lexico#mix">mixes</a> curtidos.</li>
-<li>O usuário escolhe o <a href="/modelagem/lexico#mix">Mix</a> desejado.</li>
-<li>O usuário agora pode escutar um <a href="/modelagem/lexico#conteudo">conteúdo</a> do <a href="/modelagem/lexico#album">álbum</a> ou escutá-lo de forma aleatória.</li>
-</ol>
-<h4 id="5">5 )</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#minha-musica">Minha Música</a>.</li>
-<li>O usuário seleciona os <a href="/modelagem/lexico#podcast">Podcasts</a>.</li>
-<li>O sistema mostra os <a href="/modelagem/lexico#podcast">podcasts</a> curtidos.</li>
-<li>O usuário escolhe o <a href="/modelagem/lexico#mpodcast">podcast</a> desejado.</li>
-<li>O usuário agora pode escutar um <a href="/modelagem/lexico#conteudo">conteúdo</a> do <a href="/modelagem/lexico#album">álbum</a> ou escutá-lo de forma aleatória.</li>
-</ol>
-<h4 id="6">6 )</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#minha-musica">Início</a>.</li>
-<li>O usuário seleciona um <a href="/modelagem/lexico#conteudo">conteúdo</a> da página de <a href="/modelagem/lexico#minha-musica">Início</a>.</li>
-<li>O usuário agora pode escutar o <a href="/modelagem/lexico#conteudo">conteúdo</a> selecionado.</li>
-</ol>
-<h3 id="fluxos-de-excecao">Fluxos de Exceção</h3>
-<h4 id="1-conteudo-nao-encontrado">1) <a href="/modelagem/lexico#conteudo">Conteúdo</a> não encontrado</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#busca">Busca</a>.</li>
-<li>O usuário faz a <a href="/modelagem/lexico#busca">Busca</a> de uma <a href="/modelagem/lexico#conteudo">música</a>.</li>
-<li>O sistema não encontra o <a href="/modelagem/lexico#conteudo">conteúdo</a> buscado.</li>
-<li>O usuário deve buscar por outro <a href="/modelagem/lexico#conteudo">conteúdo</a>.</li>
-</ol>
-<h4 id="2-conteudo-nao-disponivel">2) <a href="/modelagem/lexico#contedo">Conteúdo</a> não disponível</h4>
-<ol>
-<li>O usuário entra no Deezer.</li>
-<li>O usuário acessa a página de <a href="/modelagem/lexico#minha-musica">Minha Música</a>.</li>
-<li>O usuário seleciona os <a href="/modelagem/lexico#album">Álbuns</a>.</li>
-<li>O sistema mostra os <a href="/modelagem/lexico#album">álbuns</a> curtidos.</li>
-<li>O usuário escolhe o <a href="/modelagem/lexico#album">álbum</a> desejado.</li>
-<li>O usuário seleciona um <a href="/modelagem/lexico#conteudo">conteúdo</a> do <a href="/modelagem/lexico#album">álbum</a> que não está disponível.</li>
-<li>O sistema não executará o <a href="/modelagem/lexico#conteudo">conteúdo</a> selecionado e tocará o próximo <a href="/modelagem/lexico#conteudo">conteúdo</a> do <a href="/modelagem/lexico#album">álbum</a>.</li>
-</ol>
-<h2 id="pos-condicao">Pós-condição</h2>
-<p>O usuário agora pode escutar um <a href="/modelagem/lexico#conteudo">conteúdo</a> desejado.</p></div>
+<h2 id="resposta">Resposta</h2>
+<table class="checklist">
+    <tr>
+        <th class="checklist_header">Checklist</th>
+        <th>Entrevista 1</th>
+        <th>Entrevista 2</th>
+        <th>Entrevista 3</th>
+        <th>Entrevista 4</th>
+        <th>Entrevista 5</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>X</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+        <td>OK</td>
+    </tr>
+</table>
+
+<p><br></p></div>
         </div>
 
         <footer class="col-md-12">
