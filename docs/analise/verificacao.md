@@ -46,6 +46,11 @@ Neste documento há todas as verificações com as suas devidas validações.
 		<td>Adição da verificação da Especificação Suplementar.</td>
 		<td>30/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.6</td>
+		<td>Adição da verificação do Léxico.</td>
+		<td>30/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -74,3 +79,5 @@ Neste documento há todas as verificações com as suas devidas validações.
 ### [Verificação 07: Casos de Uso](verificacoes/v02.md)
 
 ### [Verificação 08: Diagramas de Casos de Uso](verificacoes/v03.md)
+
+### [Verificação 09: Léxico](verificacoes/vv09.md)
