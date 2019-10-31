@@ -36,6 +36,16 @@ Neste documento há todas as verificações com as suas devidas validações.
 		<td>Adição da verificação dos NFRs.</td>
 		<td>30/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.4</td>
+		<td>Adição da verificação das Entrevistas.</td>
+		<td>30/10/2019</td>
+	</tr>
+	<tr>
+		<td>1.5</td>
+		<td>Adição da verificação da Especificação Suplementar.</td>
+		<td>30/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -57,4 +67,10 @@ Neste documento há todas as verificações com as suas devidas validações.
 
 ### [Verificação 04: NFRs](verificacoes/vv04.md)
 
-### [Verificação 05: Diagramas de Casos de Uso](verificacoes/v03.md)
+### [Verificação 05: Entrevistas](verificacoes/vv05.md)
+
+### [Verificação 06: Especificação Suplementar](verificacoes/vv06.md)
+
+### [Verificação 07: Casos de Uso](verificacoes/v02.md)
+
+### [Verificação 08: Diagramas de Casos de Uso](verificacoes/v03.md)
