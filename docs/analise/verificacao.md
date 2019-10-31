@@ -21,6 +21,16 @@ Neste documento há todas as verificações com as suas devidas validações.
 		<td>Adição da verificação dos Cenários.</td>
 		<td>30/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Adição da verificação da Análise de Protocolo.</td>
+		<td>30/10/2019</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição da verificação das histórias de usuário.</td>
+		<td>30/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -35,4 +45,6 @@ Neste documento há todas as verificações com as suas devidas validações.
 <br>
 
 ### [Verificação 01: Cenários](verificacoes/vv01.md)
-### [Verificação 02: Casos de Uso](verificacoes/v02.md)
+### [Verificação 02: Análise de Protocolo](verificacoes/vv02.md)
+### [Verificação 03: Histórias de Usuário](verificacoes/vv03.md)
+### [Verificação 04: Casos de Uso](verificacoes/v02.md)

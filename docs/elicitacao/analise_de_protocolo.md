@@ -33,6 +33,13 @@
 		<td>Adição de tabela de versionamento</td>
 		<td>29/09/2019</td>
 	</tr>
+
+	<tr>
+		<td>2.2</td>
+		<td>Reorganização dos relatos</td>
+		<td>30/10/2019</td>
+	</tr>
+
 </table>
 
 ##  Metodologia
@@ -70,11 +77,7 @@ Por ser [usuária Free](/modelagem/lexico#usuario-free), não posso voltar a mú
 Voltando pra inicio, várias opções: [Artistas](/modelagem/lexico#artista) relacionados a meu gosto, [Playlists](/modelagem/lexico#playlist) [recomendadas](/modelagem/lexico#recomendacao), lançamentos, [Playlists](/modelagem/lexico#playlist) mais ouvidas, [Estações de rádio](/modelagem/lexico#estacoes-de-radio) e [Podcasts](/modelagem/lexico#podcast). Todas seguem um padrão e quando acesso possuem as mesmas opções.”
 </p>
 
-Luís: “Ao abrir o Deezer, eu estou na tela de [Minha música](/modelagem/lexico#minha-musica), eu deslizo pela aba de tocadas recentemente e decido que quero ouvir outra coisa. Desço a tela até o botão de [álbuns](/modelagem/lexico#album) e clico no botão de [álbuns](/modelagem/lexico#album) e logo vejo o álbum brave new world do iron maiden. Decido [baixar](/modelagem/lexico#download) o [álbum](/modelagem/lexico#album) e ligo o botão de [download](/modelagem/lexico#download), desço a tela até a música dream of mirrors e clico em cima para ouvi-la. clico em cima da aba da música que está tocando e pauso a música. Clico nos botões de opções para [Compartilhar](/modelagem/lexico#compartilhar) a música em alguma rede social e escolho o whatsapp e um compartilho um link com o meu amigo. Ao voltar para o aplicativo Deezer, clico play para voltar a ouvir a música.”
-<br>
-“Ao abrir o Deezer, estou na pagina de [Minha música](/modelagem/lexico#minha-musica). Vou para a página de pesquisa e digito o nome de meu amigo e vejo [sugestões](/modelagem/lexico#recomendacao) de amigos e [Playlists](/modelagem/lexico#playlist), clico para ver todos os perfis e após descer um pouco a tela, encontro a pessoa que queria. Clico em cima do [Perfil](/modelagem/lexico#perfil) e tenho opções para seguir, de começar [Flow](/modelagem/lexico#flow), ver as [Playlists](/modelagem/lexico#playlist), [álbuns](/modelagem/lexico#album), [Artistas](/modelagem/lexico#artista), os [Mixers](/modelagem/lexico#mix) e [Podcasts](/modelagem/lexico#podcast) dessa pessoa. Clico em cima do botão de seguir e clico no botão de começar o [Flow](/modelagem/lexico#flow) para escutarmos música juntos.”
 
-</p>
 <br>
 
 ##  Resultados
@@ -122,6 +125,14 @@ Reunião presencial.
 |8      |O sistema [recomenda](recomendacao) músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
 |30     |O sistema deve [recomendar](/modelagem/lexico#recomendacao) [conteúdo](/modelagem/lexico#conteudo) de acordo com a atividade do usuário.|
 
+## Relato 2
+
+Luís: “Ao abrir o Deezer, eu estou na tela de [Minha música](/modelagem/lexico#minha-musica), eu deslizo pela aba de tocadas recentemente e decido que quero ouvir outra coisa. Desço a tela até o botão de [álbuns](/modelagem/lexico#album) e clico no botão de [álbuns](/modelagem/lexico#album) e logo vejo o álbum brave new world do iron maiden. Decido [baixar](/modelagem/lexico#download) o [álbum](/modelagem/lexico#album) e ligo o botão de [download](/modelagem/lexico#download), desço a tela até a música dream of mirrors e clico em cima para ouvi-la. clico em cima da aba da música que está tocando e pauso a música. Clico nos botões de opções para [Compartilhar](/modelagem/lexico#compartilhar) a música em alguma rede social e escolho o whatsapp e um compartilho um link com o meu amigo. Ao voltar para o aplicativo Deezer, clico play para voltar a ouvir a música.”
+<br>
+“Ao abrir o Deezer, estou na pagina de [Minha música](/modelagem/lexico#minha-musica). Vou para a página de pesquisa e digito o nome de meu amigo e vejo [sugestões](/modelagem/lexico#recomendacao) de amigos e [Playlists](/modelagem/lexico#playlist), clico para ver todos os perfis e após descer um pouco a tela, encontro a pessoa que queria. Clico em cima do [Perfil](/modelagem/lexico#perfil) e tenho opções para seguir, de começar [Flow](/modelagem/lexico#flow), ver as [Playlists](/modelagem/lexico#playlist), [álbuns](/modelagem/lexico#album), [Artistas](/modelagem/lexico#artista), os [Mixers](/modelagem/lexico#mix) e [Podcasts](/modelagem/lexico#podcast) dessa pessoa. Clico em cima do botão de seguir e clico no botão de começar o [Flow](/modelagem/lexico#flow) para escutarmos música juntos.”
+
+</p>
+
 ### Eduardo, Luís e Samuel
 
 |Número | Requisito                                         |
@@ -139,7 +150,7 @@ Reunião presencial.
 |26     |O usuário deve poder visualizar [Playlists](/modelagem/lexico#playlist), [Álbuns](/modelagem/lexico#album), [Podcasts](/modelagem/lexico#podcast), [Mixers](/modelagem/lexico#mix) e músicas públicas de outros usuários.|
 |42     |O usuário deve poder seguir [Artistas](/modelagem/lexico#artista) e outros usuários.|
 
-## Relato 2
+## Relato 3
 
 Anônimo 1: "Cliquei para abrir o aplicativo do Deezer. <br>
 Apareceu a tela com o logo e deslizou para a esquerda. <br>
