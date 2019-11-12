@@ -24,11 +24,23 @@
 		<td>Adição de cenários 6 e 7.</td>
 		<td>29/09/2019</td>
 	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Adição de cenários 8, 9 e 10.</td>
+		<td>07/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Adição de cenários 11, 12, 13 e 14.</td>
+		<td>08/11/2019</td>
+	</tr>
 </table> 
 <br>
 
 ## Participantes
 - Eduardo Lima
+- Micaella Gouveia
+
 ## Finalidade
 
 Trata-se de uma estratégia reconhecida para compreender as interações entre ambientes e sistemas, assim como elicitar a parte comportamental do software, sua dinâmica e/ou seu fluxo.
@@ -56,6 +68,27 @@ Trata-se de uma estratégia reconhecida para compreender as interações entre a
 <br/>
 
 ### 7. [Criar uma Playlist](./cenario7.md)
+<br/>
+
+### 8. [Adicionar Conteúdo em uma Playlist](./cenario8.md)
+<br/>
+
+### 9. [Curtir um Conteúdo](./cenario9.md)
+<br/>
+
+### 10. [Seguir outro Usuário](./cenario10.md)
+<br/>
+
+### 11. [Tornar-se Usuário Premium](./cenario11.md)
+<br/>
+
+### 12. [Tornar-se Usuário HiFi](./cenario12.md)
+<br/>
+
+### 13. [Começar um Flow](./cenario13.md)
+<br/>
+
+### 14. [Seguir Artistas](./cenario14.md)
 <br/>
 
 
