@@ -88,8 +88,6 @@
 |84|O sistema deve permitir a utilização de múltiplas formas de pagamento.| Usuário, Deezer | Entrevista |
 |85|O usuário deve poder ter uma página de usuário customizável.| Usuário | Entrevista |
 |86|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.| Usuário | Entrevista |
-
-
 |89|O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.| Usuário | Análise de protocolo, entrevista |
 |90|O sistema deve pesquisar em tempo real de acordo com a [Busca](/modelagem/lexico#busca) do usuário.| Usuário | Análise de protocolo |
 |91|O sistema deve realizar confirmações de [cadastro](/modelagem/lexico#cadastrar).| Usuário, Deezer | Análise de protocolo|

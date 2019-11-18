@@ -48,7 +48,7 @@ Neste projeto, foram usadas a rastreabilidade Backward-from, que liga os requisi
 ## Participantes
 - Micaella Gouveia
 - Samuel Pereira
-
+- Luís Henrique
 <br>
 
 ## [Backward-from](backward_from.md)
