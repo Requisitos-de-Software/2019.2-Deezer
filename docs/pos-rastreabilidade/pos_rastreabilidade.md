@@ -32,6 +32,11 @@ Neste projeto, foram usadas a rastreabilidade Backward-from, que liga os requisi
 		<td>Adição de backward-from dos requisitios de 36 a 70</td>
 		<td>18/11/2019</td>
 	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Adição de backward-from dos requisitios de 71 a 96</td>
+		<td>18/11/2019</td>
+	</tr>
 </table> 
 <br>
 

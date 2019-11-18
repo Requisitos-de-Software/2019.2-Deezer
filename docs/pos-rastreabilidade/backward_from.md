@@ -30,7 +30,7 @@
 |23|O Usuário pode acessar a página do [Artista](/modelagem/lexico#artista).|Usuário|Observação Participativa, Análise de Protocolo |
 |24|O Usuário pode acessar a página do Álbum.|Usuário|Observação Participativa, Análise de Protocolo |
 |25|O Usuário pode acessar a página de perfis de outros Usuários.|Usuário|Introspecção, Análise de Protocolo |
-|26|O Usuário pode visualizar [Playlists](/modelagem/lexico#playlist), álbuns, [Podcasts](/modelagem/lexico#podcast), [Mixers](/modelagem/lexico#mix) e músicas públicas de outros Usuários|Usuário|Análise de Protocolo, Entrevista |
+|26|O Usuário poas respostas que obtivemos nas ende visualizar [Playlists](/modelagem/lexico#playlist), álbuns, [Podcasts](/modelagem/lexico#podcast), [Mixers](/modelagem/lexico#mix) e músicas públicas de outros Usuários|Usuário|Análise de Protocolo, Entrevista |
 |27|O Usuário pode começar um [Flow](/modelagem/lexico#flow), mesclando seu gosto musical com o de outro Usuário.|Usuário|Análise de Protocolo |
 |28|O Usuário pode acompanhar a letras das músicas enquanto as ouve.|Usuário|Observação Participativa, Análise de Protocolo, Entrevista |
 |29|O Usuário pode [Compartilhar](/modelagem/lexico#compartilhar) a letra da música no [Instagram Stories](/modelagem/lexico#instagram-stories).|Usuário|Observação Participativa |
@@ -73,6 +73,31 @@
 |68|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder [baixar](/modelagem/lexico#[download](/modelagem/lexico#download)) [conteúdo](/modelagem/lexico#conteudo).| Usuário | Introspecção, Observação Participativa, Análise de Protocolo, Entrevista |
 |69|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder iniciar, pausar, pular e voltar o [conteúdo](/modelagem/lexico#conteudo).| Usuário | Análise de Protocolo |
 |70|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escutar o [conteúdo](/modelagem/lexico#conteudo) [Offline](/modelagem/lexico#offline).| Usuário | Observação Participativa, Entrevista |
+|71|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escolher o [conteúdo](/modelagem/lexico#conteudo) a ser tocado.|Usuário|Análise de protocolo, introspecção, observação participativa|
+|72|O [Usuário premium](/modelagem/lexico#usuario-premium) não deve receber anúncios durante o uso da aplicação.| Usuário | Especificação suplementar, entrevista, observação participativa |
+|73|O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.| Usuário|Análise de protocolo, introspecção |
+|74|O usuário deve conseguir repetir um [conteúdo](/modelagem/lexico#conteudo), [Playlists](/modelagem/lexico#playlist), [álbuns](/modelagem/lexico#album), [Podcasts](/modelagem/lexico#podcast).| Usuário | Introspecção |
+|75|O usuário deve poder avaliar [recomendações](/modelagem/lexico#recomendacao) do sistema.|Usuário | Introspecção |
+|76|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder alterar a ordem da lista a ser tocada.| Usuário | Introspecção, análise de protocolo |
+|77|O usuário deve poder [Buscar](/modelagem/lexico#busca) a partir de um trecho de música específica.| Usuário | Entrevista |
+|78|O sistema deve assegurar a qualidade da plataforma.| Usuário, Deezer | Entrevista |
+|79|O sistema deve priorizar o gosto do usuário para [sugestão](/modelagem/lexico#recomendacao) de [conteúdo](/modelagem/lexico#conteudo).| Usuário | Especificação suplementar, entrevista |
+|80|O sistema deve poder criar meios de pontuação para promoções, assim como ter um sistema de cupons.|Would|Entrevista, questionário, especificação suplementar|
+|81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.| Usuário | Entrevista |
+|82|O sistema deve oferecer uma [Busca](/modelagem/lexico#busca) mais flexível em relação a [Busca](/modelagem/lexico#busca) do usuário.| Usuário | Entrevista |
+|84|O sistema deve permitir a utilização de múltiplas formas de pagamento.| Usuário, Deezer | Entrevista |
+|85|O usuário deve poder ter uma página de usuário customizável.| Usuário | Entrevista |
+|86|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.| Usuário | Entrevista |
+
+
+|89|O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.| Usuário | Análise de protocolo, entrevista |
+|90|O sistema deve pesquisar em tempo real de acordo com a [Busca](/modelagem/lexico#busca) do usuário.| Usuário | Análise de protocolo |
+|91|O sistema deve realizar confirmações de [cadastro](/modelagem/lexico#cadastrar).| Usuário, Deezer | Análise de protocolo|
+|92|O sistema deve automatizar etapas do processo de [cadastro](/modelagem/lexico#cadastrar).| Usuário | Análise de protocolo|
+|93|O usuário deve poder visualizar políticas do sistema.| Usuário | Análise de protocolo, entrevista, introspecção, observação participativa, questionário|
+|94|O usuário deve poder visualizar as capas de [álbuns](/modelagem/lexico#album).| Usuário | Entrevista |
+|95|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.| Usuário | Entrevista |
+
 
 ## Requisitos não-funcionais
 
@@ -80,4 +105,8 @@
 |--|--|--|--|
 |60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o [Deezer Premium](/modelagem/lexico#plano-premium) por um tempo determinado.| Usuário | Observação Participativa, Análise de Protocolo |
 |66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.| Deezer | Observação Participativa, Entrevista |
+|83|O sistema deve oferecer planos acessíveis aos usuários.| Usuário, Deezer | Entrevista, especificação suplementar |
+|87|O sistema deve fornecer feedbacks do seu status.| Usuário | Especificação suplementar, análise de protocolo, entrevista |
+|88|O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.| Usuário | Especificação suplementar, análise de protocolo, entrevista |
+|96|O sistema deve apresentar uma interface intuitiva.| Usuário | Entrevista, especificação suplementar |
 
