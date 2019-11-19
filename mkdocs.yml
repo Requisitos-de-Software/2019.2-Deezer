@@ -25,7 +25,7 @@ nav:
         - NFR: modelagem/nfr.md
     - Análise:
         - Verificação: analise/verificacao.md
-        - Validação: analise/validacao.md
+        - Validação: analise/validacaoprototipo.md
         
 theme: journal
 
