@@ -25,7 +25,7 @@ nav:
         - NFR: modelagem/nfr.md
     - Análise:
         - Verificação: analise/verificacao.md
-        - Validação: analise/validacao.md
+        - Validação: analise/validacaoprototipo.md
     - Pós-rastreabilidade:
         - Sobre: pos-rastreabilidade/pos_rastreabilidade.md
         - Backward-from: pos-rastreabilidade/backward_from.md 
