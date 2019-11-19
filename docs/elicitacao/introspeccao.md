@@ -32,7 +32,6 @@ Reunião remota.
 |58|Na Página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar a quantidade de usuários que curtiram o [Artista](/modelagem/lexico#artista) e seu lançamento mais popular.|
 |30|O sistema deve [recomendar](/modelagem/lexico#recomendacao) [conteúdo](/modelagem/lexico#conteudo) de acordo com a atividade do usuário.|
 |10|Deve gerar [recomendações](/modelagem/lexico#recomendacao) a partir da região do usuário.|
-|20|O usuário deve poder criar [Playlists](/modelagem/lexico#playlist).|
 |64|O [Usuário free](/modelagem/lexico#usuario-free) deve poder iniciar, pausar e pular o [conteúdo](/modelagem/lexico#conteudo).|
 |74|O usuário deve conseguir repetir um [conteúdo](/modelagem/lexico#conteudo), [Playlists](/modelagem/lexico#playlist), [álbuns](/modelagem/lexico#album), [Podcasts](/modelagem/lexico#podcast).|
 |75|O usuário deve avaliar [recomendações](/modelagem/lexico#recomendacao) do sistema.|
@@ -55,7 +54,6 @@ Reunião remota.
 |71|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escolher o [conteúdo](/modelagem/lexico#conteudo) a ser tocado.|
 |2|O usuário deve poder se [Cadastrar](/modelagem/lexico#cadastrar) pela [conta](/modelagem/lexico#conta) do Facebook.|
 |7|O sistema pode pedir ao usuário escolher [Artistas](/modelagem/lexico#artista) de seu gosto.|
-|8|O sistema [recomenda](/modelagem/lexico#recomendacao) músicas, [Playlists](/modelagem/lexico#playlist), [Estações de rádio](/modelagem/lexico#estacoes-de-radio) para o usuário, dependendo do seu gosto.|
 |49|O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um conteúdo específico.|
 |63|O [Usuário free](/modelagem/lexico#usuario-free) deve escutar o [conteúdo](/modelagem/lexico#conteudo) de forma aleatória.|
 |62|O [Usuário free](/modelagem/lexico#usuario-free) tem número limitado para pular o [conteúdo](/modelagem/lexico#conteudo).|
