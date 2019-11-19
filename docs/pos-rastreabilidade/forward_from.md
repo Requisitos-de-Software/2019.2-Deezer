@@ -40,3 +40,43 @@
 |33|O Usuário pode ver suas músicas [Mais queridas](/modelagem/lexico#mais-queridas).|-|- | - |
 |34|O Usuário pode ver suas [Playlists](/modelagem/lexico#playlist) favoritas e criadas.|-|- | - |
 |35|O Usuário pode ver seus álbuns favoritos.|-|- | - |
+|36|O usuário deve poder ver seus [Artistas](/modelagem/lexico#artista) favoritos.| - | - | US40 |
+|37|O usuário deve poder ver seus [Mixes](/modelagem/lexico#mix) criados.| - | - | US40 |
+|38|O usuário deve poder ver seus [Podcasts](/modelagem/lexico#podcast) favoritos.| - | UC11 - Escutar um Conteúdo | US40 |
+|39|O sistema deve poder oferecer episódios do mesmo [Podcast](/modelagem/lexico#podcast) que o usuário está ouvindo.| - | - | US11 |
+|40|O usuário deve poder ser notificado com as atualizações e novidades mais recentes.| - | - | US36 |
+|41|O usuário deve poder acessar suas notificações.| - | - | US36
+|42|O usuário deve poder seguir [Artistas](/modelagem/lexico#artista) e outros usuários.| C10 - Seguir outros Usuários, C14 - Seguir Artistas | UC09 - Seguir outros Usuários | - |
+|43|O usuário deve poder ser seguido.| C10 - Seguir outros Usuários | UC09 - Seguir outros Usuários | - |
+|44|Criações do usuário devem poder ser seguidas.| - | - | - |
+|45|O usuário deve poder gerenciar sua conta.| - | UC12 - Gerenciar Conta do Usuário | - |
+|46|O usuário deve poder configurar o aplicativo.| - | UC13 - Configurar Aplicativo | US36, US37, US38, US39 |
+|47|O usuário deve poder gerenciar os dispositivos conectados.| - | - | US44 |
+|48|O usuário deve poder testar recursos experimentais.| - | - | US45 |
+|49|O usuário deve poder [Buscar](/modelagem/lexico#busca) por texto um [conteúdo](/modelagem/lexico#conteudo) específico.| C05 - Procurar um conteúdo | UC08 - Pesquisar Conteúdo | US30 |
+|50|O usuário deve poder visualizar na página de [Busca](/modelagem/lexico#busca) [conteúdos](/modelagem/lexico#conteudo) relacionados a pesquisa.| C05 - Procurar um conteúdo | UC08 - Pesquisar Conteúdo | US31 |
+|51|O usuário deve poder [Buscar](/modelagem/lexico#busca) a partir de um som um [conteúdo](/modelagem/lexico#conteudo) específico.| Usuário | C05 - Procurar um conteúdo | UC08 - Pesquisar Conteúdo | US32 |
+|52|O usuário deve poder filtrar sua [Busca](/modelagem/lexico#busca) por gêneros e [Moods](/modelagem/lexico#moods).| - | - | US33 |
+|53|O usuário deve poder ampliar sua [Busca](/modelagem/lexico#busca) de forma específica.| - | - | - |
+|54|O usuário deve poder ver as Top Músicas, últimos lançamentos, [discografia](/modelagem/lexico#album) de um [Artista](/modelagem/lexico#artista).| - | - | - |
+|55|O usuário deve poder, a partir de um [Artista](/modelagem/lexico#artista), encontrar [Artistas](/modelagem/lexico#artista) similares.| - | - | - |
+|56|Na Página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar [Playlists](/modelagem/lexico#playlist) em que o [Artista](/modelagem/lexico#artista) está.| - | - | - |
+|57|Na página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar faixas em que o [Artista](/modelagem/lexico#artista) aparece.| - | - | - |
+|58|Na Página do [Artista](/modelagem/lexico#artista), o usuário deve poder visualizar a quantidade de usuários que [curtiram](/modelagem/lexico#curtir) o [Artista](/modelagem/lexico#artista) e seu lançamento mais popular.| - | - | - |
+|59|O usuário deve poder [curtir](/modelagem/lexico#curtir) [Artistas](/modelagem/lexico#artista).| C09 - Curtir um Conteúdo | UC05 - Curtir Conteúdo | US40 |
+|61|O [Usuário free](/modelagem/lexico#usuario-free) deve receber anúncios durante o uso da aplicação.| - | - | US46 |
+|62|O [Usuário free](/modelagem/lexico#usuario-free) deve ter um número limitado para pular o [conteúdo](/modelagem/lexico#conteudo).| - | - | US46 |
+|63|O [Usuário free](/modelagem/lexico#usuario-free) deve ter que escutar o [conteúdo](/modelagem/lexico#conteudo) de forma aleatória.| - | - | US46, US20 |
+|64|O [Usuário free](/modelagem/lexico#usuario-free) deve poder iniciar, pausar e pular o [conteúdo](/modelagem/lexico#conteudo).| - | - | US46 |
+|65|O [Usuário free](/modelagem/lexico#usuario-free) deve possuir conexão com internet para acessar o [conteúdo](/modelagem/lexico#conteudo).| - | - | US46 |
+|67|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder pular o [conteúdo](/modelagem/lexico#conteudo) de forma ilimitada.| - | - | US48 |
+|68|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder [baixar](/modelagem/lexico#[download](/modelagem/lexico#download)) [conteúdo](/modelagem/lexico#conteudo).| C06 - Baixar um conteúdo | - | US48, US41 |
+|69|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder iniciar, pausar, pular e voltar o [conteúdo](/modelagem/lexico#conteudo).| - | - | US48 |
+|70|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escutar o [conteúdo](/modelagem/lexico#conteudo) [Offline](/modelagem/lexico#offline).| C06 - Baixar um conteúdo | - | US48, US41 |
+
+## Requisitos não-funcionais
+
+| Número | Requisito | Cenários | Casos de Uso | Histórias de Usuário |
+|--|---------|------|---| ---|
+|60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o [Deezer Premium](/modelagem/lexico#plano-premium) por um tempo determinado.| C11 - Tornar-se Usuário Premium | UC12 - Gerenciar Conta do Usuário | US47 |
+|66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.| C11 - Tornar-se Usuário Premium | - | US49 |
