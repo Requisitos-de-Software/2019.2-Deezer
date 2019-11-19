@@ -154,3 +154,7 @@ As comunicações entre os serviços deverão ser feitas por meio de conexão co
 
 A estrutura  geral  do  Site,  do  Aplicativo,  do  Software  gratuito  de  streaming  da  Deezer  e  todos  os elementos  que  o  compõem  (tal  como,  mas não  limitado  a,  logotipos,  nomes  de  domínio,  faixas  ou vídeos, e os seus elementos associados, como as fotos, imagens, textos e biografia dos autores, [Artistas](/modelagem/lexico#artista) e/ou  qualquer  beneficiário  legal  das  faixas  ou  vídeos,  e  mas  também  os  elementos  visuais  na embalagem)  serão  de propriedade  exclusiva  da  Deezer  e/ou  seus  licenciantes  (principalmente  os produtores de gravações e vídeos, as empresas gravadoras e sociedade de autores)
 
+## Referências
+
+PHP SOFTWARE COMPANY. Samily Rocha Gois Francisco Luiz Sobrinho. Projeto de Software Floricultura Beija-Flor Especificação Suplementar. Disponível em: <a href="https://docplayer.com.br/3800759-Php-software-company-samily-rocha-gois-francisco-luiz-sobrinho-projeto-de-software-floricultura-beija-flor-especificacao-suplementar-versao-101.html" target="_blank">https://docplayer.com.br/3800759-Php-software-company-samily-rocha-gois-francisco-luiz-sobrinho-projeto-de-software-floricultura-beija-flor-especificacao-suplementar-versao-101.html</a>. Acesso em 19 de novembro de 2019.
+

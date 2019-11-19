@@ -62,3 +62,7 @@ Clique <a href="https://www.figma.com/proto/LNBlrr7Cn1j5MQEMrMYfQG/Deezer?node-i
 <br>
 <img src="../../assets/images/requisito80.png">
 <br>
+
+## Referências
+
+FIGMA. Figma, 2019. Disponível em: <a href="https://help.figma.com/category/87-prototyping" target="_blank">https://help.figma.com/category/87-prototyping</a>. Acesso em 19 de novembro de 2019.
