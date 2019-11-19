@@ -26,6 +26,11 @@ nav:
     - Análise:
         - Verificação: analise/verificacao.md
         - Validação: analise/validacao.md
+    - Pós-rastreabilidade:
+        - Sobre: pos-rastreabilidade/pos_rastreabilidade.md
+        - Backward-from: pos-rastreabilidade/backward_from.md 
+        - Forward-from: pos-rastreabilidade/forward_from.md 
+
         
 theme: journal
 
