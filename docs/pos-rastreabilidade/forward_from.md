@@ -80,3 +80,25 @@
 |--|---------|------|---| ---|
 |60|O [Usuário free](/modelagem/lexico#usuario-free) deve poder experimentar o [Deezer Premium](/modelagem/lexico#plano-premium) por um tempo determinado.| C11 - Tornar-se Usuário Premium | UC12 - Gerenciar Conta do Usuário | US47 |
 |66|O [Usuário premium](/modelagem/lexico#usuario-premium) deve pagar uma mensalidade.| C11 - Tornar-se Usuário Premium | - | US49 |
+|71|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder escolher o [conteúdo](/modelagem/lexico#conteudo) a ser tocado.|C09 - Curtit um conteúdo|UC04 - Flow do Usuário, UC05 - Curtir Conteúdo, UC011 - Escutar um Conteúdo | US48 |
+|72|O [Usuário premium](/modelagem/lexico#usuario-premium) não deve receber anúncios durante o uso da aplicação.|-|- | US48 |
+|73|O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.|C04 - Escutar um conteúdo |- | - |
+|74|O usuário deve conseguir repetir um [conteúdo](/modelagem/lexico#conteudo), [Playlists](/modelagem/lexico#playlist), [álbuns](/modelagem/lexico#album), [Podcasts](/modelagem/lexico#podcast).|C04 - Escutar um conteúdo|- | - |
+|75|O usuário deve poder avaliar [recomendações](/modelagem/lexico#recomendacao) do sistema.|C09 - Curtir um conteúdo|UC05 - Curtir Conteúdo| - |
+|76|O [Usuário premium](/modelagem/lexico#usuario-premium) deve poder alterar a ordem da lista a ser tocada.|-|- | - |
+|77|O usuário deve poder [Buscar](/modelagem/lexico#busca) a partir de um trecho de música específica.|C05 - Procurar um conteúdo|UC08 - Pesquisar Conteúdo | - |
+|78|O sistema deve assegurar a qualidade da plataforma.|-|- | - |
+|79|O sistema deve priorizar o gosto do usuário para [sugestão](/modelagem/lexico#recomendacao) de [conteúdo](/modelagem/lexico#conteudo).|C13 - Começar um Flow|- | - |
+|80|O sistema deve poder criar meios de pontuação para promoções, assim como ter um sistema de cupons.|-|- | - |
+|81|O sistema deve assegurar a qualidade do serviço em outros dispositivos.|-|- | - |
+|82|O sistema deve oferecer uma [Busca](/modelagem/lexico#busca) mais flexível em relação a [Busca](/modelagem/lexico#busca) do usuário.|C05 - Procurar um conteúdo |- | - |
+|84|O sistema deve permitir a utilização de múltiplas formas de pagamento.|-|- | US49 |
+|85|O usuário deve poder ter uma página de usuário customizável.|-|UC03 - Perfil do Usuário, UC012 - Gerenciar conta do Usuário | - |
+|86|O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.|-|UC03 - Perfil do Usuário | - |
+|89|O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.|-|- | - |
+|90|O sistema deve pesquisar em tempo real de acordo com a [Busca](/modelagem/lexico#busca) do usuário.|C05 - Procurar um conteúdo|UC08 - Pesquisar Conteúdo | - |
+|91|O sistema deve realizar confirmações de [cadastro](/modelagem/lexico#cadastrar).|C01 - Cadastrar usuário com o Facebook, C02 - Cadastrar usuário com o número de celular, C03 - Cadastrar usuário com o Google| UC01 - Cadastro do Usuário | - |
+|92|O sistema deve automatizar etapas do processo de [cadastro](/modelagem/lexico#cadastrar).|C01 - Cadastrar usuário com o Facebook, C02 - Cadastrar usuário com o número de celular, C03 - Cadastrar usuário com o Google|UC01 - Cadastro do Usuário | - |
+|93|O usuário deve poder visualizar políticas do sistema.|-|- | - |
+|94|O usuário deve poder visualizar as capas de [álbuns](/modelagem/lexico#album).|-|- | - |
+|95|O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.|C04 - Escutar um conteúdo|UC011 - Escutar um Conteúdo | - |
