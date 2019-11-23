@@ -6,7 +6,7 @@
 Eu,  como usuário, desejo configurar a exibição do aplicativo para que eu ter conforto na visualização do aplicativo.
 
 #### Critérios de Aceitação:
-- Deve apresentar o botão para selecionar o modo noturno.
+- Deve apresentar o botão para selecionar o [modo noturno](/modelagem/lexico#modo-noturno).
 - Deve apresentar o botão para selecionar o player monocromático.
 - Deve reiniciar o aplicativo para que as mudanças sejam feitas.
 
@@ -44,10 +44,9 @@ Eu,  como usuário, desejo configurar as notificações do aplicativo para que e
 Eu,  como usuário, desejo configurar [contas](/modelagem/lexico#conta) vinculadas para que eu possa [compartilhar](/modelagem/lexico#compartilhar) [conteúdos](/modelagem/lexico#conteudo) para elas.
 
 #### Critérios de Aceitação:
-- Deve poder associar à [conta](/modelagem/lexico#conta) do Twitter.
-- Deve poder associar à [conta](/modelagem/lexico#conta) do Facebook.
-- Deve poder associar à [conta](/modelagem/lexico#conta) do Google.
-- Deve poder associar à [conta](/modelagem/lexico#conta) do Instagram.
+- Deve poder associar à [conta](/modelagem/lexico#conta) do [Twitter](/modelagem/lexico#rede-social).
+- Deve poder associar à [conta](/modelagem/lexico#conta) do [Facebook](/modelagem/lexico#rede-social).
+- Deve poder associar à [conta](/modelagem/lexico#conta) do [Instagram](/modelagem/lexico#rede-social).
 
 <br>
 

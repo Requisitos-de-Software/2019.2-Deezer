@@ -51,6 +51,11 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 		<td>Adição total do product backlog e pequenas correções.</td>
 		<td>16/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.7</td>
+		<td>Adição de correções da verificação</td>
+		<td>23/11/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -111,7 +116,7 @@ Para melhor organização, separamos as histórias em seus respectivos épicos, 
 [US30: Buscar conteúdo por texto](epicos/busca.md)<br>
 [US31: Receber resultados](epicos/busca.md)<br>
 [US32: Buscar conteúdo por áudio](epicos/busca.md)<br>
-[US33: Buscar conteúdo através de categorias](epicos/busca.md)<br>
+[US33: Buscar conteúdo através de categorias musicais](epicos/busca.md)<br>
 [US34: Configurações de exibição](epicos/conf_aplicativo.md)<br>
 [US35: Configurações de áudio](epicos/conf_aplicativo.md)<br>
 [US36: Configurações de notificações](epicos/conf_aplicativo.md)<br>

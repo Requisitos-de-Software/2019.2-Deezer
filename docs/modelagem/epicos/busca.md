@@ -39,10 +39,10 @@ Eu, como usuário, desejo conseguir [buscar](/modelagem/lexico#busca) um [conte�
 
 <br>
 
-### US33 [Buscar](/modelagem/lexico#busca) [conteúdo](/modelagem/lexico#conteudo) através de categorias
+### US33 [Buscar](/modelagem/lexico#busca) [conteúdo](/modelagem/lexico#conteudo) através de categorias musicais
 
-Eu, como usuário, desejo conseguir [buscar](/modelagem/lexico#busca) [conteúdo](/modelagem/lexico#conteudo) através de categorias ou [moods](/modelagem/lexico#moods) para que eu possa encontrar [conteúdo](/modelagem/lexico#conteudo) novo ou apropriado para aos meus atuais interesses.
+Eu, como usuário, desejo conseguir [buscar](/modelagem/lexico#busca) [conteúdo](/modelagem/lexico#conteudo) através de categorias musicais ou [moods](/modelagem/lexico#moods) para que eu possa encontrar [conteúdo](/modelagem/lexico#conteudo) novo ou apropriado para aos meus atuais interesses.
 
 #### Critérios de Aceitação:
-- Deve apresentar botões de gêneros.
+- Deve apresentar botões de gêneros musicais.
 - Deve apresentar botões de [moods](/modelagem/lexico#moods).
