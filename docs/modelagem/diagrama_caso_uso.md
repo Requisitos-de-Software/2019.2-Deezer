@@ -29,6 +29,11 @@
 		<td>Adição de participantes e datas.</td>
 		<td>29/09/2019</td>
 	</tr>
+	<tr>
+		<td>1.4</td>
+		<td>Adição de correção de atores.</td>
+		<td>23/11/2019</td>
+	</tr>
 </table> 
 <br>
 
