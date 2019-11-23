@@ -22,7 +22,7 @@ Eu,  como usuário, desejo acessar a página de um [artista](/modelagem/lexico#a
 - Deve apresentar um botão para acessar a página do [artista](/modelagem/lexico#artista).
 - Deve apresentar a discografia do [artista](/modelagem/lexico#artista).
 - Deve apresentar um botão para curtir o [artista](/modelagem/lexico#artista).
-- Deve poder executar o conteúdo do [artista](/modelagem/lexico#artista).
+- Deve poder executar o [conteúdo](/modelagem/lexico#conteudo) do [artista](/modelagem/lexico#artista).
 
 <br>
 

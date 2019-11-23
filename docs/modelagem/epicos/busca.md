@@ -24,7 +24,7 @@ Eu, como usuário, desejo conseguir visualizar o resultado de minhas [buscas](/m
 - Deve apresentar [perfis](/modelagem/lexico#perfil), quando disponível.
 - Deve apresentar [playlists](/modelagem/lexico#playlist), quando disponível.
 - Deve apresentar [álbuns](/modelagem/lexico#album), quando disponível.
-- Deve apresentar [podcasts](/modelagem/lexico#podcast], quando disponível.
+- Deve apresentar [podcasts](/modelagem/lexico#podcast), quando disponível.
 - Deve apresentar a falta de resultados, quando aplicável.
 
 <br>
