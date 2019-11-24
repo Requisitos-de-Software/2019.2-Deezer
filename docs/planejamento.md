@@ -74,7 +74,7 @@ Léxicos|Micaella|30/10|30/10
 NFR's|Samuel|30/10|30/10
 
 
-## Validação - 17/10 
+## Validação - 31/10 
 17/10 - 31/10
 
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
@@ -89,5 +89,20 @@ Especificação Suplementar|Luís|-|30/10
 Diagramas de Casos de Uso|Sofia|-|30/10
 Léxicos|Micaella|-|30/10
 NFR's|Samuel|-|30/10
+
+## Melhorias - 25/11 
+17/11 - 25/11
+
+|Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
+|--|---------|------|---|
+|Melhoria na Análise de Protocolo|Micaella|24/11|25/11
+|Melhoria na Entrevista|Luís|24/11|25/11
+|Melhoria nos Casos de Uso|Micaella|21/11|25/11
+|Melhoria nas Histórias de Usuário|Samuel|23/11|25/11
+|Melhoria nos Cenários|Eduardo|-|25/11
+|Melhoria na Especificação Suplementar|Sofia|-|25/11
+|Melhoria nos Diagramas de Casos de Uso|Samuel|-|25/11
+|Melhoria nos Léxicos|Luís|-|25/11
+|Melhoria nos NFR's|Luís, Eduardo e Sofia|-|25/11
 
 
