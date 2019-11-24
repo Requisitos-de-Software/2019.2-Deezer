@@ -190,7 +190,7 @@
 <h2 id="descricao">Descrição</h2>
 <p>O usuário deve se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> no aplicativo.</p>
 <h2 id="atores">Atores</h2>
-<p>Usuário
+<p>Usuário não cadastrado
 <br>
 Sistema</p>
 <h2 id="pre-condicao">Pré-condição</h2>
@@ -200,7 +200,7 @@ Sistema</p>
 <ol>
 <li>O usuário que não possui cadastro entra no Deezer.
 <br></li>
-<li>O usuário não cadastrado seleciona o botão "<a href="/modelagem/lexico#cadastrar">Cadastrar</a>-se".
+<li>O usuário não cadastrado seleciona o botão "<a href="/modelagem/lexico#cadastrar">Cadastrar-se</a>".
 <br></li>
 <li>O usuário não cadastrado recebe duas opções de cadastro: uma pelo email e outra pelo número do celular.</li>
 <li>O usuário seleciona algum dos meios de cadastro.</li>
@@ -209,7 +209,7 @@ Sistema</p>
 <br></li>
 </ol>
 <h3 id="fluxos-alternativos">Fluxos Alternativos</h3>
-<h4 id="1">1 )</h4>
+<h4 id="fa01">FA01 )</h4>
 <ol>
 <li>O usuário não cadastrado adiciona seu número de telefone.</li>
 <li>O usuário não cadastrado adiciona seu nome de usuário.</li>
@@ -220,7 +220,7 @@ Sistema</p>
 <li>É realizado o cadastro.</li>
 <li>O usuário não cadastrado passa a ser um usuário.</li>
 </ol>
-<h4 id="2">2 )</h4>
+<h4 id="fa02">FA02 )</h4>
 <ol>
 <li>O usuário não cadastrado seleciona a opção "Registre-se com o seu email".
 <br></li>
@@ -229,7 +229,7 @@ Sistema</p>
 <li>É realizado o cadastro.</li>
 <li>O usuário não cadastrado passa a ser um usuário.</li>
 </ol>
-<h4 id="21">2.1 )</h4>
+<h4 id="fa021">FA02.1 )</h4>
 <ol>
 <li>O usuário não cadastrado seleciona o cadastro pelo Facebook.</li>
 <li>O usuário não cadastrado entra no Facebook para se conectar com o Deezer.</li>
@@ -237,14 +237,14 @@ Sistema</p>
 <li>É realizado o cadastro.</li>
 <li>O usuário não cadastrado passa a ser um usuário.</li>
 </ol>
-<h4 id="22">2.2 )</h4>
+<h4 id="fa022">FA02.2 )</h4>
 <ol>
 <li>O usuário não cadastrado seleciona o cadastro pelo Google.</li>
 <li>O usuário entra na <a href="/modelagem/lexico#conta">conta</a> do Google para se conectar com o Deezer.</li>
 <li>É realizado o cadastro.</li>
 <li>O usuário não cadastrado passa a ser um usuário.</li>
 </ol>
-<h4 id="23">2.3 )</h4>
+<h4 id="fa023">FA02.3 )</h4>
 <ol>
 <li>O usuário não cadastrado adiciona seu email.</li>
 <li>O usuário não cadastrado adiciona sua senha.</li>
@@ -256,7 +256,7 @@ Sistema</p>
 <br></li>
 </ol>
 <h3 id="fluxos-de-excecao">Fluxos de Exceção</h3>
-<h4 id="1-conta-do-facebook-ja-cadastrada">1) <a href="/modelagem/lexico#conta">Conta</a> do Facebook já cadastrada</h4>
+<h4 id="fe01-conta-do-facebook-ja-cadastrada">FE01) <a href="/modelagem/lexico#conta">Conta</a> do Facebook já cadastrada</h4>
 <ol>
 <li>O usuário não cadastrado entra no Deezer.</li>
 <li>O usuário não cadastrado seleciona a opção de se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> pelo Facebook.</li>
@@ -264,21 +264,21 @@ Sistema</p>
 <li>Já existe um cadastro com a <a href="/modelagem/lexico#conta">conta</a> do Facebook.</li>
 <li>O sistema retorna ao passo 4 do fluxo principal.</li>
 </ol>
-<h4 id="2-conta-do-google-ja-cadastrada">2) <a href="/modelagem/lexico#conta">Conta</a> do Google já cadastrada</h4>
+<h4 id="fe02-conta-do-google-ja-cadastrada">FE02) <a href="/modelagem/lexico#conta">Conta</a> do Google já cadastrada</h4>
 <ol>
 <li>O usuário não cadastrado entra no Deezer.</li>
 <li>O usuário não cadastrado seleciona a opção de se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> pelo Google.</li>
 <li>Já existe um cadastro com a <a href="/modelagem/lexico#conta">conta</a> do Google.</li>
 <li>O sistema retorna ao passo 4 do fluxo principal.</li>
 </ol>
-<h4 id="3-conta-invalida">3) <a href="/modelagem/lexico#conta">Conta</a> inválida</h4>
+<h4 id="fe03-conta-invalida">FE03) <a href="/modelagem/lexico#conta">Conta</a> inválida</h4>
 <ol>
 <li>O usuário não cadastrado entra no Deezer.</li>
 <li>O usuário não cadastrado seleciona o cadastro pelo Facebook ou Google.</li>
 <li>A <a href="/modelagem/lexico#conta">conta</a> do Facebook ou Google não é válida.</li>
 <li>O sistema retorna ao passo 3 do fluxo principal.</li>
 </ol>
-<h4 id="4-dados-invalidos">4) Dados inválidos</h4>
+<h4 id="fe04-dados-invalidos">FE04) Dados inválidos</h4>
 <ol>
 <li>O usuário seleciona a opção de se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> com o número de telefone.</li>
 <li>O usuário adiciona seu número de celular e os demais campos pedidos.</li>

@@ -207,7 +207,7 @@ Sistema</p>
 <br></li>
 </ol>
 <h3 id="fluxos-alternativos">Fluxos Alternativos</h3>
-<h4 id="1">1 )</h4>
+<h4 id="fa01">FA01 )</h4>
 <ol>
 <li>O usuário não logado adiciona seu número de telefone.</li>
 <li>Um código de confirmação é mandado para o número de celular</li>
@@ -215,27 +215,27 @@ Sistema</p>
 <li>O <a href="/modelagem/lexico#login">Login</a> é realizado.</li>
 <li>O usuário não logado passa a estar logado no aplicativo.</li>
 </ol>
-<h4 id="2">2 )</h4>
+<h4 id="fa02">FA02 )</h4>
 <ol>
 <li>O usuário não logado seleciona a opção "Faça <a href="/modelagem/lexico#login">Login</a> com seu e-mail".
 <br></li>
 <li>O usuário recebe três opções de <a href="/modelagem/lexico#login">Login</a>. Uma pelo Facebook, outra pelo Google, e outra com o email, adicionando também a senha.</li>
 </ol>
-<h4 id="21">2.1 )</h4>
+<h4 id="fa021">FA02.1 )</h4>
 <ol>
 <li>O usuário não logado seleciona o <a href="/modelagem/lexico#login">Login</a> pelo Facebook.</li>
 <li>O usuário, se tiver cadastrado no Deezer pelo Facebook, faz o <a href="/modelagem/lexico#login">Login</a> diretamente para o Deezer.</li>
 <li>O usuário, se não tiver cadastrado no Deezer pelo Facebook, entra no Facebook para se conectar com o Deezer.</li>
 <li>O usuário não logado passa a estar logado no aplicativo.</li>
 </ol>
-<h4 id="22">2.2 )</h4>
+<h4 id="fa022">FA02.2 )</h4>
 <ol>
 <li>O usuário não logado seleciona o <a href="/modelagem/lexico#login">Login</a> pelo Google.</li>
 <li>O usuário, se tiver cadastrado no Deezer pelo Google, faz o <a href="/modelagem/lexico#login">Login</a> diretamente para o Deezer.</li>
 <li>O usuário, se não tiver cadastrado no Deezer pelo Google, entra no Google para se conectar com o Deezer.</li>
 <li>O usuário não logado passa a estar logado no aplicativo.</li>
 </ol>
-<h4 id="23">2.3 )</h4>
+<h4 id="fa023">FA02.3 )</h4>
 <ol>
 <li>O usuário não logado adiciona seu email.</li>
 <li>O usuário não logado adicona sua senha.</li>
@@ -243,14 +243,14 @@ Sistema</p>
 <br></li>
 </ol>
 <h3 id="fluxos-de-excecao">Fluxos de Exceção</h3>
-<h4 id="1-conta-do-google-removida">1) <a href="/modelagem/lexico#conta">Conta</a> do Google removida</h4>
+<h4 id="fe01-conta-do-google-removida">FE01) <a href="/modelagem/lexico#conta">Conta</a> do Google removida</h4>
 <ol>
 <li>O usuário entra no aplicativo Deezer.</li>
 <li>O usuário seleciona a opção de fazer o <a href="/modelagem/lexico#login">Login</a> pelo Google.</li>
 <li>O <a href="/modelagem/lexico#conta">conta</a> do Google não existe mais.</li>
 <li>O sistema volta para o passo 3 do fluxo principal.</li>
 </ol>
-<h4 id="2-conta-do-facebook-removida">2) <a href="/modelagem/lexico#conta">Conta</a> do Facebook removida</h4>
+<h4 id="fe02-conta-do-facebook-removida">FE02) <a href="/modelagem/lexico#conta">Conta</a> do Facebook removida</h4>
 <ol>
 <li>O usuário entra no aplicativo Deezer.</li>
 <li>O usuário seleciona a opção de fazer o <a href="/modelagem/lexico#login">Login</a> pelo Facebook.</li>
