@@ -2,12 +2,12 @@
 <div class="line"></div>
 
 
-### US05 Realizar [login](/modelagem/lexico#login) com o email
+### US05 Realizar [login](/modelagem/lexico#login) com o [e-mail](/modelagem/lexico#e-mail)
 
-Eu,  como usuário, desejo me [logiar](/modelagem/lexico#login) no Deezer inserindo meu email cadastrado para que eu possa entrar na aplicação.
+Eu,  como usuário, desejo me [logar](/modelagem/lexico#login) no Deezer inserindo meu [e-mail](/modelagem/lexico#e-mail) cadastrado para que eu possa entrar na aplicação.
 
 #### Critérios de Aceitação:
-- Deve apresentar um espaço para adicionar o email.
+- Deve apresentar um espaço para adicionar o [e-mail](/modelagem/lexico#e-mail).
 - Deve apresentar o botão para entrar na aplicação.
 
 ### US06 Realizar [login](/modelagem/lexico#login) com o número de telefone

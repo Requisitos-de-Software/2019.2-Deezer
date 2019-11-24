@@ -40,11 +40,11 @@ Eu,  como usuário, desejo [baixar](/modelagem/lexico#download) um [conteúdo](/
 
 ### US42 [Compartilhar](/modelagem/lexico#compartilhar) [conteúdo](/modelagem/lexico#conteudo) 
 
-Eu,  como usuário, desejo [compartilhar](/modelagem/lexico#compartilhar) um [conteúdo](/modelagem/lexico#conteudo) específico para que eu possa postar letras ou [conteúdos](/modelagem/lexico#conteudo) nas redes sociais.
+Eu,  como usuário, desejo [compartilhar](/modelagem/lexico#compartilhar) um [conteúdo](/modelagem/lexico#conteudo) específico para que eu possa postar letras ou [conteúdos](/modelagem/lexico#conteudo) nas [redes sociais](/modelagem/lexico#rede-social).
 
 #### Critérios de Aceitação:
-- Deve apresentar botão para [compartilhar(/modelagem/lexico#compartilhar) [conteúdo](/modelagem/lexico#conteudo).
-- Deve apresentar botão para escolher o local de compartilhamento.
+- Deve apresentar botão para [compartilhar](/modelagem/lexico#compartilhar) [conteúdo](/modelagem/lexico#conteudo).
+- Deve apresentar botão para escolher o local de [compartilhamento](/modelagem/lexico#compartilhar).
 - Deve apresentar conexão com a [conta](/modelagem/lexico#conta) escolhida.
 
 <br>

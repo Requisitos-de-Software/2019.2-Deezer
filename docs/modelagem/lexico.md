@@ -39,12 +39,18 @@
 		<td>Adição dos termos Curtir, Álbum, Conta, Plano Premium e Download.</td>
 		<td>10/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.6</td>
+		<td>Adição de Rede Social, Google, SMS, E-mail e Modo Noturno</td>
+		<td>23/11/2019</td>
+	</tr>
 </table> 
 <br>
 
 ### Participantes:
 - Luis Taira
 - Micaella
+- Samuel Pereira
 
 ### Conteúdo
 
@@ -162,7 +168,7 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Colocar informações de identificação para ter acesso a uma [conta](/modelagem/lexico#conta) já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de [Login](/modelagem/lexico#login) com Facebook ou Google.|Entrar.|
+|Verbo|Colocar informações de identificação para ter acesso a uma [conta](/modelagem/lexico#conta) já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de [Login](/modelagem/lexico#login) com Facebook ou [Google](/modelagem/lexico#google).|Entrar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Logout
@@ -176,7 +182,7 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|[Compartilhar](/modelagem/lexico#compartilhar) um [conteúdo](/modelagem/lexico#conteudo) com outros usuários.|O usuário pode [Compartilhar](/modelagem/lexico#compartilhar) um link que dá acesso a um [conteúdo](/modelagem/lexico#conteudo) por meio de redes sociais ou fazer com que um [conteúdo](/modelagem/lexico#conteudo) apareça no seu [Instagram Stories](/modelagem/lexico#instagram-stories).|Share.|
+|Verbo|[Compartilhar](/modelagem/lexico#compartilhar) um [conteúdo](/modelagem/lexico#conteudo) com outros usuários.|O usuário pode [Compartilhar](/modelagem/lexico#compartilhar) um link que dá acesso a um [conteúdo](/modelagem/lexico#conteudo) por meio de [redes sociais](/modelagem/lexico#rede-social) ou fazer com que um [conteúdo](/modelagem/lexico#conteudo) apareça no seu [Instagram Stories](/modelagem/lexico#instagram-stories).|Share.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Instagram Stories
@@ -260,7 +266,7 @@ Verbo|Gostar de algo.|Usuários podem [curtir](/modelagem/lexico#curtir) um [con
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Meio para poder utilizar algm serviço ou alicativo.|O usuário pode criar uma [conta](/modelagem/lexico#conta) para poder utilizar o Deezer. O usuário pode possuir [conta](/modelagem/lexico#conta) em redes socias.|-|
+|Objeto|Meio para poder utilizar algm serviço ou alicativo.|O usuário pode criar uma [conta](/modelagem/lexico#conta) para poder utilizar o Deezer. O usuário pode possuir [conta](/modelagem/lexico#conta) em [redes sociais](/modelagem/lexico#rede-social).|-|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Plano premium
@@ -277,5 +283,32 @@ Verbo|Gostar de algo.|Usuários podem [curtir](/modelagem/lexico#curtir) um [con
 |Verbo|Guardar [conteúdo](/modelagem/lexico#conteudo) em um espaço de memória.|O usuário pode escutar o [conteúdo](/modelagem/lexico#conteudo) sem possuir conexão com a internet.|Baixar, salvar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
+### Rede Social
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Ambiente virtual onde um grupo de pessoas se relaciona.|O usuário é capaz de [compartilhar](/modelagem/lexico#compartilhar) atividade e [conteúdo](/modelagem/lexico#conteudo) em suas [redes sociais](/modelagem/lexico#rede-social).|Facebook, Twitter, Instagram.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
+### Google
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Empresa multinacional de serviços online e software.|O usuário é capaz de se [conectar](/modelagem/lexico#login) através de sua conta [Google](/modelagem/lexico#google).|Conta do Google.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
+### SMS
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Serviço disponível em celulares para envio de mensagens curtas|O usuário pode confirmar seu [cadastro](/modelagem/lexico#cadastrar) através de uma mensagem de [SMS](/modelagem/lexico#sms)|Serviço de Mensagens Curtas, Short Message Service.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### E-mail
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Objeto|Serviço de correio eletrônico|O usuário pode vincular sua [conta](/modelagem/lexico#conta) e confirmar seu [cadastro](/modelagem/lexico#cadastrar) através de um [e-mail](/modelagem/lexico#e-mail).|Hotmail, Gmail, Outlook.|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+
+### Modo noturno
+|Tipo|Noção|Impacto|Sinônimos|
+|-|-|-|-|
+|Estado|Alteração visual na interface com o intuito de diminuir a emissão de luminosidade da mesma através da utilização de cores mais escuras.|Usuário pode optar por uma interface com cores mais escuras.|-|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
