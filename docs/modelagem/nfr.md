@@ -59,8 +59,14 @@
 <div class="line"></div>
 
 ### Usabilidade
-
+ 
 <div class="line"></div>
+
+- Sem propagação
+
+<img src="../../assets/images/NFR/NFR-Usabulidade-sem-propagacao.png">
+
+- Com propagação
 
 <img src="../../assets/images/NFR/NFR-Usabilidade.png">
 <div class="line"></div>
