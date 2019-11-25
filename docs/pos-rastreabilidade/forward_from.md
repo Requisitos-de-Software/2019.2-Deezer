@@ -1,4 +1,4 @@
-# Foward From Geral
+# Forward From Geral
 
 ## Requisitos Funcionais
 

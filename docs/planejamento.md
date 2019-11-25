@@ -25,8 +25,10 @@ Realizado de 27/08 até 02/09.
 
 ## Elicitação e Priorização - 12/09 
 Realizado de 03/09 até 12/09.
+
 <br>
 Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas até 25/09.
+
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
 |--|---------|------|---|
 |Entrevista|Todos os membros| 25/09| 25/09
@@ -57,16 +59,16 @@ Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas at�
 |Histórias de Usuário|Micaella e Samuel|15/10|15/10
 |NFR|Eduardo, Luís e Sofia|15/10|15/10
 
-## Verificação - 17/10 
+## Verificação - 31/10 
 17/10 - 31/10
 
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
 |--|---------|------|---|
 |Análise de Protocolo|Eduardo|30/10|30/10
-Entrevista|Luís|30/10|30/10
-Casos de Uso|Sofia|30/10|30/10
-Histórias de Usuário|Eduardo|30/10|30/10
-Backlog|Sofia|-|30/10
+Entrevista|Luís|29/10|30/10
+Casos de Uso|Sofia|29/10|30/10
+Histórias de Usuário|Eduardo|29/10|30/10
+Backlog|Sofia|29/10|30/10
 Cenários|Micaella|30/10|30/10
 Especificação Suplementar|Luís|30/10|30/10
 Diagramas de Casos de Uso|Sofia|30/10|30/10
@@ -74,21 +76,15 @@ Léxicos|Micaella|30/10|30/10
 NFR's|Samuel|30/10|30/10
 
 
-## Validação - 31/10 
-17/10 - 31/10
+## Pós-ratreabilidade - 17/11 
+31/10 - 17/11
 
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
 |--|---------|------|---|
-|Análise de Protocolo|Eduardo|-|30/10
-Entrevista|Luís|-|30/10
-Casos de Uso|Sofia|-|30/10
-Histórias de Usuário|Eduardo|-|30/10
-Backlog|Sofia|-|30/10
-Cenários|Micaella|-|30/10
-Especificação Suplementar|Luís|-|30/10
-Diagramas de Casos de Uso|Sofia|-|30/10
-Léxicos|Micaella|-|30/10
-NFR's|Samuel|-|30/10
+|Backward-From|Luís, Micaella e Samuel|15/11|17/11
+|Forward-From|Luís, Micaella e Samuel|16/11|17/11
+|Protótipo para Validação|Sofia|15/11|17/11
+
 
 ## Melhorias - 25/11 
 17/11 - 25/11
