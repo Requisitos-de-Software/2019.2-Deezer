@@ -25,8 +25,10 @@ Realizado de 27/08 até 02/09.
 
 ## Elicitação e Priorização - 12/09 
 Realizado de 03/09 até 12/09.
+
 <br>
 Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas até 25/09.
+
 |Tarefa|Participante(s)|Entrega | Entrega <br>Prevista
 |--|---------|------|---|
 |Entrevista|Todos os membros| 25/09| 25/09
