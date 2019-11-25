@@ -5,7 +5,9 @@ site_favicon: assets/favicon.ico
 nav:
     - Inicial: index.md
     - Planejamento: planejamento.md
-    - Pre-rastreabilidade:
+    - Pré-rastreabilidade:
+        - Sobre: pre-rastreabilidade/pre_rastreabilidade.md
+        - Backward-from: pre-rastreabilidade/backward_from.md 
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
         - Ponto de Controle: pontocontrole.md
     - Elicitação:
@@ -28,7 +30,6 @@ nav:
         - Validação: analise/validacaoprototipo.md
     - Pós-rastreabilidade:
         - Sobre: pos-rastreabilidade/pos_rastreabilidade.md
-        - Backward-from: pos-rastreabilidade/backward_from.md 
         - Forward-from: pos-rastreabilidade/forward_from.md 
 
         
