@@ -199,7 +199,7 @@ Data de realização: 15/09/2019 - 12:00.
 Entrevista presencial.
 <br>
 
-**Perfil](/modelagem/lexico#perfil) do Entrevistado 2**:
+**Perfil do Entrevistado 2**:
 <br>
 Graduando em Engenharia de Software.
 <br>
