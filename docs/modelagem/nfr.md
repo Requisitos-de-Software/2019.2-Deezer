@@ -39,6 +39,11 @@
 		<td>Adição do diagrama de usabilidade não-propagado e propagação de usabilidade.</td>
 		<td>25/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.6</td>
+		<td>Refatoração do diagrama de usabilidade não-propagado e propagado.</td>
+		<td>25/10/2019</td>
+	</tr>
 </table> 
 <br>
 
