@@ -55,8 +55,16 @@
                                 <a href="../../planejamento/">Planejamento</a>
                             </li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pre-rastreabilidade <b class="caret"></b></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pré-rastreabilidade <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../pre-rastreabilidade/pre_rastreabilidade/">Sobre</a>
+</li>
+                                    
+<li >
+    <a href="../../pre-rastreabilidade/backward_from/">Backward-from</a>
+</li>
                                     
 <li >
     <a href="../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
@@ -88,7 +96,7 @@
 </li>
                                     
 <li >
-    <a href="../../elicitacao/questionario1/">Questionário</a>
+    <a href="../../elicitacao/questionario2/">Questionário</a>
 </li>
                                     
 <li >
@@ -148,10 +156,6 @@
                                     
 <li >
     <a href="../../pos-rastreabilidade/pos_rastreabilidade/">Sobre</a>
-</li>
-                                    
-<li >
-    <a href="../../pos-rastreabilidade/backward_from/">Backward-from</a>
 </li>
                                     
 <li >
@@ -257,7 +261,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Músicas ou <a href="/modelagem/lexico#podcast">Podcasts</a> que podem ser consumidos no aplicativo.</td>
+<td>Conteúdos são músicas ou <a href="/modelagem/lexico#podcast">Podcasts</a> que podem ser consumidos no aplicativo.</td>
 <td>O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.</td>
 <td>Música, <a href="/modelagem/lexico#podcast">Podcast</a>, Áudio, <a href="/modelagem/lexico#album">Álbum</a>.</td>
 </tr>
@@ -282,9 +286,9 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Sequências de músicas recomendadas a um usuário específico.</td>
+<td>Flows são sequências de músicas recomendadas a um usuário específico.</td>
 <td>O usuário inicia seu <a href="/modelagem/lexico#flow">Flow</a> e escuta as músicas que o sistema recomendar.</td>
-<td>-</td>
+<td>Sequência, fluxo.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -357,8 +361,8 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Lista de músicas que pode ser criada com as músicas arbitrariamente.</td>
-<td>O usuário escuta as músicas de uma <a href="/modelagem/lexico#playlist">Playlist</a> específica em ordem ou aleatoriamente.</td>
+<td>Uma playlist é uma lista de músicas que pode ser criada com as músicas arbitrariamente.</td>
+<td>O usuário escuta as músicas de uma <a href="/modelagem/lexico#playlist">Playlist</a> específica em ordem ou aleatoriamente, podendo criar ou modificar playlists.</td>
 <td>Lista.</td>
 </tr>
 <tr>
@@ -382,7 +386,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Iniciar ou retomar a reprodução de um conteúdo.</td>
+<td>Dar play significa iniciar ou retomar a reprodução de um conteúdo.</td>
 <td>O usuário inicia ou retoma a reprodução de um conteúdo.</td>
 <td>Começar, Iniciar, Retomar.</td>
 </tr>
@@ -407,7 +411,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Conteúdo que o usuário escolheu para aparecer na página "<a href="/modelagem/lexico#minha-musica">Minha música</a>" para mais fácil acessoao conteúdo.</td>
+<td>Conteúdo mais querido é o que o usuário escolheu para aparecer na página "<a href="/modelagem/lexico#minha-musica">Minha música</a>" para mais fácil acessoao conteúdo.</td>
 <td>O usuário pode acessar e salvar conteúdos mais queridos.</td>
 <td>Favoritas, Salvas, Baixadas, Curtidas.</td>
 </tr>
@@ -432,7 +436,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Produtor de um certo conteúdo.</td>
+<td>Um artista é um produtor de um certo conteúdo.</td>
 <td>Coteúdos são separados por <a href="/modelagem/lexico#artista">Artistas</a> e o usuário pode acessar o conteúdo de um <a href="/modelagem/lexico#artista">Artista</a> específico.</td>
 <td>Cantor, Banda, <a href="/modelagem/lexico#podcast">Podcast</a>er.</td>
 </tr>
@@ -457,7 +461,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Lista de músicas recomendadas com base em um álbum, <a href="/modelagem/lexico#artista">Artista</a>, <a href="/modelagem/lexico#playlist">Playlist</a> ou gênero específico.</td>
+<td>Mixes são listas de músicas recomendadas com base em um álbum, <a href="/modelagem/lexico#artista">Artista</a>, <a href="/modelagem/lexico#playlist">Playlist</a> ou gênero específico.</td>
 <td>O sistema pode oferecer uma lista de músicas similares conforme uma base.</td>
 <td>Rádio.</td>
 </tr>
@@ -484,7 +488,7 @@
 <td>Objeto</td>
 <td>Usuário que paga mensalmente pelo uso do aplicativo ou está no periodo de teste.</td>
 <td>O usuário que é premium pode escutar conteúdos que desejar sem exceção e baixar conteúdo.</td>
-<td>Usuário pagante, Usuário HiFi.</td>
+<td>Usuário pagante, Usuário HiFi, usuário não grátis.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -534,7 +538,7 @@
 <td>Objeto</td>
 <td>Usuário com acesso a conteúdo com maior qualidade.</td>
 <td>O usuário HiFi paga uma mensalidade maior para ter acesso à conteúdo com bit rate de 1,411Kb/s.</td>
-<td><a href="/modelagem/lexico#usuario-premium">Usuário premium</a>.</td>
+<td><a href="/modelagem/lexico#usuario-premium">Usuário premium</a>, usuário com mais qualidade.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -557,7 +561,7 @@
 <tbody>
 <tr>
 <td>Estado</td>
-<td>Alta qualidade de áudio.</td>
+<td>HiFi significa alta qualidade de áudio.</td>
 <td>Conteúdo HiFi possui alto bit rate e qualidade sonora equiparável a de CDs (maior do que o normal)</td>
 <td>Alta qualidade, Alta resolução.</td>
 </tr>
@@ -607,7 +611,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td><a href="/modelagem/lexico#conteudo">Conteúdo</a> que o sistema sugere ao usuário.</td>
+<td><a href="/modelagem/lexico#conteudo">Conteúdo</a> recomendado é o que o sistema sugere ao usuário.</td>
 <td>O sistema recomenda <a href="/modelagem/lexico#conteudo">conteúdo</a> ao usuário por meio de <a href="/modelagem/lexico#mix">Mixes</a>, <a href="/modelagem/lexico#flow">Flow</a> ou conteúdo disponível na tela <a href="/modelagem/lexico#inicio">início</a>.</td>
 <td>Recomendado.</td>
 </tr>
@@ -632,7 +636,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Criar uma <a href="/modelagem/lexico#conta">conta</a> no aplicativo colocando informações pessoais.</td>
+<td>Cadastrar significa criar uma <a href="/modelagem/lexico#conta">conta</a> no aplicativo colocando informações pessoais.</td>
 <td>O <a href="/modelagem/lexico#cadastrar">cadastro</a> do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.</td>
 <td>Sign up, registrar.</td>
 </tr>
@@ -657,7 +661,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Colocar informações de identificação para ter acesso a uma <a href="/modelagem/lexico#conta">conta</a> já criada.</td>
+<td>Fazer login significa colocar informações de identificação para ter acesso a uma <a href="/modelagem/lexico#conta">conta</a> já criada.</td>
 <td>O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de <a href="/modelagem/lexico#login">Login</a> com Facebook ou <a href="/modelagem/lexico#google">Google</a>.</td>
 <td>Entrar.</td>
 </tr>
@@ -682,7 +686,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Se desconectar da <a href="/modelagem/lexico#conta">conta</a>.</td>
+<td>Fazer logout significa desconectar da <a href="/modelagem/lexico#conta">conta</a>.</td>
 <td>O usuário faz <a href="/modelagem/lexico#logout">logout</a> para que seu dispositivo não esteja conectado com a sua <a href="/modelagem/lexico#conta">conta</a>.</td>
 <td>Sair.</td>
 </tr>
@@ -732,7 +736,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Imagens ou pequenos vídeos acessíveis por 24 horas na conta de Instagram de um usuário.</td>
+<td>Instagram Stories são imagens ou pequenos vídeos acessíveis por 24 horas na conta de Instagram de um usuário.</td>
 <td>O usuário pode fazer um <a href="conteudo">conteúdo</a> aparecer em seus stories.</td>
 <td>-</td>
 </tr>
@@ -757,7 +761,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td><a href="/modelagem/lexico#conteudo">Conteúdo</a> que será tocado em seguida.</td>
+<td>A fila de espera contém o <a href="/modelagem/lexico#conteudo">Conteúdo</a> que será tocado em seguida.</td>
 <td>O usuário pode ver e modificar a ordem dos <a href="/modelagem/lexico#conteudo">contéudos</a> que serão tocados em seguida, podendo adicionar novos <a href="/modelagem/lexico#conteudo">conteúdos</a> nessa fila.</td>
 <td>Lista.</td>
 </tr>
@@ -782,7 +786,7 @@
 <tbody>
 <tr>
 <td>Estado</td>
-<td>Densidade de informação de um arquivo digital.</td>
+<td>Densidade de informação de um arquivo digital se chama bit rate.</td>
 <td>Arquivos, como <a href="/modelagem/lexico#conteudo">músicas</a> ou <a href="/modelagem/lexico#podcast">Podcasts</a>, com bit rate alto possuem maior qualidade sonora.</td>
 <td>Qualidade.</td>
 </tr>
@@ -809,7 +813,7 @@
 <td>Objeto</td>
 <td><a href="/modelagem/lexico#estacoes-de-radio">Estações de rádio</a> iguais as que podem ser ouvidas no rádio.</td>
 <td>No Deezer os usuários podem escutar <a href="/modelagem/lexico#estacoes-de-radio">Estações de rádio</a> de sua cidade como se estivesse usando um rádio.</td>
-<td>-</td>
+<td>Canal de rádio.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -832,9 +836,9 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Ferramenta oferecida pelo Deezer para modificar aspectos do som.</td>
+<td>Equalizador é uma ferramenta oferecida pelo Deezer para modificar aspectos do som.</td>
 <td>O usuário pode modificar o nível dos sinais graves, médios e agúdos ao ouvir <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
-<td>-</td>
+<td>Editor de áudio.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -857,7 +861,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Página pessoal do usuário.</td>
+<td>O perfil é a página pessoal do usuário.</td>
 <td>O usuário pode personalizar sua página mudando seu nome e seu avatar. O <a href="/modelagem/lexico#perfil">Perfil</a> dos usuários são acessíveis por meio de pesquisa por nome.</td>
 <td>Conta, página.</td>
 </tr>
@@ -882,7 +886,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.</td>
+<td>Podcast é uma faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.</td>
 <td>No Deezer os usuários podem acessar, <a href="/modelagem/lexico#download">salvar</a> e seguir <a href="/modelagem/lexico#podcast">Podcasts</a> da mesma maneira que músicas.</td>
 <td>-</td>
 </tr>
@@ -907,7 +911,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Humor dos usuários em relação aos <a href="/modelagem/lexico#conteudo">conteúdos</a> que quer escutar.</td>
+<td>Mood é o humor dos usuários em relação aos <a href="/modelagem/lexico#conteudo">conteúdos</a> que quer escutar.</td>
 <td>O usuário pode selecionar um <a href="/modelagem/lexico#mood">mood</a> que se relaciona ao estilo de <a href="/modelagem/lexico#conteudo">conteúdo</a> que quer escutar.</td>
 <td>Emoção, gosto, vibe.</td>
 </tr>
@@ -932,7 +936,7 @@
 <tbody>
 <tr>
 <td>Estado</td>
-<td>Não estar conectado à internet.</td>
+<td>Estar offline é não estar conectado à internet.</td>
 <td><a href="/modelagem/lexico#usuario-premium">Usuários premium</a> no Deezer podem fazer <a href="/modelagem/lexico#download">download</a> de <a href="/modelagem/lexico#conteudo">conteúdo</a> para que esses fiquem disponíveis mesmo que não haja acesso à internet, já <a href="/modelagem/lexico#usuario-free">usuários free</a> podem somente acessar <a href="/modelagem/lexico#conteudo">conteúdo</a> enquanto conectados à internet.</td>
 <td>Desconectado, sem internet.</td>
 </tr>
@@ -957,7 +961,7 @@
 <tbody>
 <tr>
 <td>Verbo</td>
-<td>Gostar de algo.</td>
+<td>Curtir é gostar de algo.</td>
 <td>Usuários podem <a href="/modelagem/lexico#curtir">curtir</a> um <a href="/modelagem/lexico#conteudo">conteúdo</a> para que esses fiquem disponíveis na página das <a href="/modelagem/lexico#mais-queridas">Mais Queridas</a>.</td>
 <td>Gostar, amar, favoritar.</td>
 </tr>
@@ -982,7 +986,7 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Coleção de <a href="/modelagem/lexico#conteudo">músicas</a> relacionadas de um <a href="/modelagem/lexico#artista">artista</a> ou banda.</td>
+<td>Um álbum é uma coleção de <a href="/modelagem/lexico#conteudo">músicas</a> relacionadas de um <a href="/modelagem/lexico#artista">artista</a> ou banda.</td>
 <td>No Deezer os usuários podem acessar, <a href="/modelagem/lexico#download">salvar</a> e seguir <a href="/modelagem/lexico#album">Álbuns</a> da mesma maneira que músicas.</td>
 <td>coleção, discografia.</td>
 </tr>
@@ -1007,9 +1011,9 @@
 <tbody>
 <tr>
 <td>Objeto</td>
-<td>Meio para poder utilizar algm serviço ou alicativo.</td>
+<td>Uma conta é um meio para poder utilizar algm serviço ou alicativo.</td>
 <td>O usuário pode criar uma <a href="/modelagem/lexico#conta">conta</a> para poder utilizar o Deezer. O usuário pode possuir <a href="/modelagem/lexico#conta">conta</a> em <a href="/modelagem/lexico#rede-social">redes sociais</a>.</td>
-<td>-</td>
+<td>Plano.</td>
 </tr>
 <tr>
 <td><img width=500/></td>
@@ -1202,7 +1206,7 @@
         </footer>
         <script>
             var base_url = "../..",
-                shortcuts = {"search": 83, "help": 191, "previous": 80, "next": 78};
+                shortcuts = {"help": 191, "previous": 80, "search": 83, "next": 78};
         </script>
         <script src="../../js/base.js" defer></script>
         <script src="../../search/main.js" defer></script>
