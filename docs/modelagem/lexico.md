@@ -140,7 +140,7 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Estado|HiFi sifnifica alta qualidade de áudio.|Conteúdo HiFi possui alto bit rate e qualidade sonora equiparável a de CDs (maior do que o normal)|Alta qualidade, Alta resolução.|
+|Estado|HiFi significa alta qualidade de áudio.|Conteúdo HiFi possui alto bit rate e qualidade sonora equiparável a de CDs (maior do que o normal)|Alta qualidade, Alta resolução.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Busca
@@ -175,7 +175,7 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Fazer logout significae desconectar da [conta](/modelagem/lexico#conta).|O usuário faz [logout](/modelagem/lexico#logout) para que seu dispositivo não esteja conectado com a sua [conta](/modelagem/lexico#conta).|Sair.|
+|Verbo|Fazer logout significa desconectar da [conta](/modelagem/lexico#conta).|O usuário faz [logout](/modelagem/lexico#logout) para que seu dispositivo não esteja conectado com a sua [conta](/modelagem/lexico#conta).|Sair.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Compartilhar
@@ -252,7 +252,7 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-Verbo|Cutrtir é gostar de algo.|Usuários podem [curtir](/modelagem/lexico#curtir) um [conteúdo](/modelagem/lexico#conteudo) para que esses fiquem disponíveis na página das [Mais Queridas](/modelagem/lexico#mais-queridas).|Gostar, amar, favoritar.|
+Verbo|Curtir é gostar de algo.|Usuários podem [curtir](/modelagem/lexico#curtir) um [conteúdo](/modelagem/lexico#conteudo) para que esses fiquem disponíveis na página das [Mais Queridas](/modelagem/lexico#mais-queridas).|Gostar, amar, favoritar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Álbum
