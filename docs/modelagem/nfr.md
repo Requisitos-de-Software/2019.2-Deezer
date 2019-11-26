@@ -39,6 +39,11 @@
 		<td>Adição do diagrama de usabilidade não-propagado e propagação de usabilidade.</td>
 		<td>25/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.6</td>
+		<td>Refatoração do diagrama de usabilidade não-propagado e propagado.</td>
+		<td>25/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -56,7 +61,6 @@
 - Sem propagação
 
 <img src="../../assets/images/NFR/NFR-Compatibilidade-sem-propagacao.png">
-<div class="line"></div>
 
 - Com propagação
 
@@ -80,5 +84,11 @@
 
 <div class="line"></div>
 
-<img src="../../assets/images/NFR/NFR-Confiabilidade.png">
+- Sem propagação
+
+<img src="../../assets/images/NFR/NFR-Confiabilidade-2-sem-propagacao.png">
+
+- Com propagaçao
+
+<img src="../../assets/images/NFR/NFR-Confiabilidade-2.png">
 <div class="line"></div>
