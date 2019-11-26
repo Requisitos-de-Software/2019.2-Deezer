@@ -29,6 +29,16 @@
 		<td>Adição de participantes e datas.</td>
 		<td>29/09/2019</td>
 	</tr>
+	<tr>
+		<td>1.4</td>
+		<td>Adição de correção de atores.</td>
+		<td>23/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.5</td>
+		<td>Adição de referência aos casos de usos e referências.</td>
+		<td>25/11/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -54,3 +64,6 @@
 ## Curtir conteúdo
 
 <img src="../../assets/images/uso_curtir.png">
+
+## Referências
+<p align="justify">&emsp;&emsp;SERRANO, Milene; SERRANO, Maurício. Requisitos: Aula 13. Disponível em: <[https://aprender.ead.unb.br/pluginfile.php/727236/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender.ead.unb.br/pluginfile.php/727236/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 25 nov 2019.</p>
