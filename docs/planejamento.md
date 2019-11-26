@@ -35,7 +35,7 @@ Adicionamos novas técnicas e melhorias após o Ponto de Controle realizadas at�
 |Análise de Protocolo|Todos os membros|23/09| 25/09
 |Introspecção|Todos os membros|11/09| 11/09
 |Observação Participativa|Todos os membros|05/09| 11/09
-|Questionário|Todos os membros| Ainda no ar | Fim da disciplina
+|Questionário|Todos os membros| 24/11 | Fim da disciplina
 |MosCow|Todos os membros|10/09| 11/09
 <br>
 
@@ -97,8 +97,9 @@ NFR's|Samuel|30/10|30/10
 |Melhoria nas Histórias de Usuário|Samuel|23/11|25/11
 |Melhoria nos Cenários|Eduardo|-|25/11
 |Melhoria na Especificação Suplementar|Sofia|-|25/11
-|Melhoria nos Diagramas de Casos de Uso|Samuel|-|25/11
+|Melhoria nos Diagramas de Casos de Uso|Samuel|24/11|25/11
 |Melhoria nos Léxicos|Luís|-|25/11
-|Melhoria nos NFR's|Luís, Eduardo e Sofia|-|25/11
+|Melhoria nos NFR's|Luís, Eduardo e Sofia|24/11|25/11
+
 
 
