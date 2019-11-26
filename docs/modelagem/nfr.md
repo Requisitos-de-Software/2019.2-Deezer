@@ -34,6 +34,11 @@
 		<td>Adição de compartilhamento no diagrama de compatibilidade e diagrama sem propagação.</td>
 		<td>17/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.5</td>
+		<td>Adição do diagrama de usabilidade não-propagado e propagação de usabilidade.</td>
+		<td>25/10/2019</td>
+	</tr>
 </table> 
 <br>
 
@@ -59,8 +64,14 @@
 <div class="line"></div>
 
 ### Usabilidade
-
+ 
 <div class="line"></div>
+
+- Sem propagação
+
+<img src="../../assets/images/NFR/NFR-Usabulidade-sem-propagacao.png">
+
+- Com propagação
 
 <img src="../../assets/images/NFR/NFR-Usabilidade.png">
 <div class="line"></div>
