@@ -56,14 +56,14 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Músicas ou [Podcasts](/modelagem/lexico#podcast) que podem ser consumidos no aplicativo.|O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.|Música, [Podcast](/modelagem/lexico#podcast), Áudio, [Álbum](/modelagem/lexico#album).|
+|Objeto|Conteúdos são músicas ou [Podcasts](/modelagem/lexico#podcast) que podem ser consumidos no aplicativo.|O usuário tem a liberdade de escutar os conteúdos disponíveis no Deezer.|Música, [Podcast](/modelagem/lexico#podcast), Áudio, [Álbum](/modelagem/lexico#album).|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Flow
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Sequências de músicas recomendadas a um usuário específico.|O usuário inicia seu [Flow](/modelagem/lexico#flow) e escuta as músicas que o sistema recomendar.|-|
+|Objeto|Flows são sequências de músicas recomendadas a um usuário específico.|O usuário inicia seu [Flow](/modelagem/lexico#flow) e escuta as músicas que o sistema recomendar.|Sequência, fluxo.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Minha música
@@ -84,42 +84,42 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Lista de músicas que pode ser criada com as músicas arbitrariamente.|O usuário escuta as músicas de uma [Playlist](/modelagem/lexico#playlist) específica em ordem ou aleatoriamente.|Lista.|
+|Objeto|Uma playlist é uma lista de músicas que pode ser criada com as músicas arbitrariamente.|O usuário escuta as músicas de uma [Playlist](/modelagem/lexico#playlist) específica em ordem ou aleatoriamente, podendo criar ou modificar playlists.|Lista.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Play
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Iniciar ou retomar a reprodução de um conteúdo.|O usuário inicia ou retoma a reprodução de um conteúdo.|Começar, Iniciar, Retomar.|
+|Verbo|Dar play significa iniciar ou retomar a reprodução de um conteúdo.|O usuário inicia ou retoma a reprodução de um conteúdo.|Começar, Iniciar, Retomar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Mais queridas
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Conteúdo que o usuário escolheu para aparecer na página "[Minha música](/modelagem/lexico#minha-musica)" para mais fácil acessoao conteúdo.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas, Curtidas.|
+|Objeto|Conteúdo mais querido é o que o usuário escolheu para aparecer na página "[Minha música](/modelagem/lexico#minha-musica)" para mais fácil acessoao conteúdo.|O usuário pode acessar e salvar conteúdos mais queridos.|Favoritas, Salvas, Baixadas, Curtidas.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Artista
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Produtor de um certo conteúdo.|Coteúdos são separados por [Artistas](/modelagem/lexico#artista) e o usuário pode acessar o conteúdo de um [Artista](/modelagem/lexico#artista) específico.|Cantor, Banda, [Podcast](/modelagem/lexico#podcast)er.|
+|Objeto|Um artista é um produtor de um certo conteúdo.|Coteúdos são separados por [Artistas](/modelagem/lexico#artista) e o usuário pode acessar o conteúdo de um [Artista](/modelagem/lexico#artista) específico.|Cantor, Banda, [Podcast](/modelagem/lexico#podcast)er.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Mix
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Lista de músicas recomendadas com base em um álbum, [Artista](/modelagem/lexico#artista), [Playlist](/modelagem/lexico#playlist) ou gênero específico.|O sistema pode oferecer uma lista de músicas similares conforme uma base.|Rádio.|
+|Objeto|Mixes são listas de músicas recomendadas com base em um álbum, [Artista](/modelagem/lexico#artista), [Playlist](/modelagem/lexico#playlist) ou gênero específico.|O sistema pode oferecer uma lista de músicas similares conforme uma base.|Rádio.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Usuário premium
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Usuário que paga mensalmente pelo uso do aplicativo ou está no periodo de teste.|O usuário que é premium pode escutar conteúdos que desejar sem exceção e baixar conteúdo.|Usuário pagante, Usuário HiFi.|
+|Objeto|Usuário que paga mensalmente pelo uso do aplicativo ou está no periodo de teste.|O usuário que é premium pode escutar conteúdos que desejar sem exceção e baixar conteúdo.|Usuário pagante, Usuário HiFi, usuário não grátis.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Usuário free
@@ -133,14 +133,14 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Usuário com acesso a conteúdo com maior qualidade.|O usuário HiFi paga uma mensalidade maior para ter acesso à conteúdo com bit rate de 1,411Kb/s.|[Usuário premium](/modelagem/lexico#usuario-premium).|
+|Objeto|Usuário com acesso a conteúdo com maior qualidade.|O usuário HiFi paga uma mensalidade maior para ter acesso à conteúdo com bit rate de 1,411Kb/s.|[Usuário premium](/modelagem/lexico#usuario-premium), usuário com mais qualidade.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### HiFi
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Estado|Alta qualidade de áudio.|Conteúdo HiFi possui alto bit rate e qualidade sonora equiparável a de CDs (maior do que o normal)|Alta qualidade, Alta resolução.|
+|Estado|HiFi significa alta qualidade de áudio.|Conteúdo HiFi possui alto bit rate e qualidade sonora equiparável a de CDs (maior do que o normal)|Alta qualidade, Alta resolução.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Busca
@@ -154,28 +154,28 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|[Conteúdo](/modelagem/lexico#conteudo) que o sistema sugere ao usuário.|O sistema recomenda [conteúdo](/modelagem/lexico#conteudo) ao usuário por meio de [Mixes](/modelagem/lexico#mix), [Flow](/modelagem/lexico#flow) ou conteúdo disponível na tela [início](/modelagem/lexico#inicio).|Recomendado.|
+|Verbo|[Conteúdo](/modelagem/lexico#conteudo) recomendado é o que o sistema sugere ao usuário.|O sistema recomenda [conteúdo](/modelagem/lexico#conteudo) ao usuário por meio de [Mixes](/modelagem/lexico#mix), [Flow](/modelagem/lexico#flow) ou conteúdo disponível na tela [início](/modelagem/lexico#inicio).|Recomendado.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Cadastrar
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Criar uma [conta](/modelagem/lexico#conta) no aplicativo colocando informações pessoais.|O [cadastro](/modelagem/lexico#cadastrar) do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.|Sign up, registrar.|
+|Verbo|Cadastrar significa criar uma [conta](/modelagem/lexico#conta) no aplicativo colocando informações pessoais.|O [cadastro](/modelagem/lexico#cadastrar) do usuário permite que o sistema reconheça e diferencie cada pessoa, guardando suas informações e preferências.|Sign up, registrar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Login
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Colocar informações de identificação para ter acesso a uma [conta](/modelagem/lexico#conta) já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de [Login](/modelagem/lexico#login) com Facebook ou [Google](/modelagem/lexico#google).|Entrar.|
+|Verbo|Fazer login significa colocar informações de identificação para ter acesso a uma [conta](/modelagem/lexico#conta) já criada.|O usuário que já possui um cadastro coloca suas informações de identificação, como e-mail ou clica nos botões de [Login](/modelagem/lexico#login) com Facebook ou [Google](/modelagem/lexico#google).|Entrar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Logout
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|Se desconectar da [conta](/modelagem/lexico#conta).|O usuário faz [logout](/modelagem/lexico#logout) para que seu dispositivo não esteja conectado com a sua [conta](/modelagem/lexico#conta).|Sair.|
+|Verbo|Fazer logout significa desconectar da [conta](/modelagem/lexico#conta).|O usuário faz [logout](/modelagem/lexico#logout) para que seu dispositivo não esteja conectado com a sua [conta](/modelagem/lexico#conta).|Sair.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Compartilhar
@@ -189,84 +189,84 @@
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Imagens ou pequenos vídeos acessíveis por 24 horas na conta de Instagram de um usuário.|O usuário pode fazer um [conteúdo](conteudo) aparecer em seus stories.|-|
+|Objeto|Instagram Stories são imagens ou pequenos vídeos acessíveis por 24 horas na conta de Instagram de um usuário.|O usuário pode fazer um [conteúdo](conteudo) aparecer em seus stories.|-|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Fila de espera
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Verbo|[Conteúdo](/modelagem/lexico#conteudo) que será tocado em seguida.|O usuário pode ver e modificar a ordem dos [contéudos](/modelagem/lexico#conteudo) que serão tocados em seguida, podendo adicionar novos [conteúdos](/modelagem/lexico#conteudo) nessa fila.|Lista.|
+|Verbo|A fila de espera contém o [Conteúdo](/modelagem/lexico#conteudo) que será tocado em seguida.|O usuário pode ver e modificar a ordem dos [contéudos](/modelagem/lexico#conteudo) que serão tocados em seguida, podendo adicionar novos [conteúdos](/modelagem/lexico#conteudo) nessa fila.|Lista.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Bit rate
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Estado|Densidade de informação de um arquivo digital.|Arquivos, como [músicas](/modelagem/lexico#conteudo) ou [Podcasts](/modelagem/lexico#podcast), com bit rate alto possuem maior qualidade sonora.|Qualidade.|
+|Estado|Densidade de informação de um arquivo digital se chama bit rate.|Arquivos, como [músicas](/modelagem/lexico#conteudo) ou [Podcasts](/modelagem/lexico#podcast), com bit rate alto possuem maior qualidade sonora.|Qualidade.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Estações de rádio
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|[Estações de rádio](/modelagem/lexico#estacoes-de-radio) iguais as que podem ser ouvidas no rádio.|No Deezer os usuários podem escutar [Estações de rádio](/modelagem/lexico#estacoes-de-radio) de sua cidade como se estivesse usando um rádio.|-|
+|Objeto|[Estações de rádio](/modelagem/lexico#estacoes-de-radio) iguais as que podem ser ouvidas no rádio.|No Deezer os usuários podem escutar [Estações de rádio](/modelagem/lexico#estacoes-de-radio) de sua cidade como se estivesse usando um rádio.|Canal de rádio.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Equalizador
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Ferramenta oferecida pelo Deezer para modificar aspectos do som.|O usuário pode modificar o nível dos sinais graves, médios e agúdos ao ouvir [conteúdo](/modelagem/lexico#conteudo).|-|
+|Objeto|Equalizador é uma ferramenta oferecida pelo Deezer para modificar aspectos do som.|O usuário pode modificar o nível dos sinais graves, médios e agúdos ao ouvir [conteúdo](/modelagem/lexico#conteudo).|Editor de áudio.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Perfil
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Página pessoal do usuário.|O usuário pode personalizar sua página mudando seu nome e seu avatar. O [Perfil](/modelagem/lexico#perfil) dos usuários são acessíveis por meio de pesquisa por nome.|Conta, página.|
+|Objeto|O perfil é a página pessoal do usuário.|O usuário pode personalizar sua página mudando seu nome e seu avatar. O [Perfil](/modelagem/lexico#perfil) dos usuários são acessíveis por meio de pesquisa por nome.|Conta, página.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Podcast
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.|No Deezer os usuários podem acessar, [salvar](/modelagem/lexico#download) e seguir [Podcasts](/modelagem/lexico#podcast) da mesma maneira que músicas.|-|
+|Objeto|Podcast é uma faixa de áudio em que uma ou mais pessoas falam sobre diversos assuntos.|No Deezer os usuários podem acessar, [salvar](/modelagem/lexico#download) e seguir [Podcasts](/modelagem/lexico#podcast) da mesma maneira que músicas.|-|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Moods
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Humor dos usuários em relação aos [conteúdos](/modelagem/lexico#conteudo) que quer escutar.|O usuário pode selecionar um [mood](/modelagem/lexico#mood) que se relaciona ao estilo de [conteúdo](/modelagem/lexico#conteudo) que quer escutar.|Emoção, gosto, vibe.|
+|Objeto|Mood é o humor dos usuários em relação aos [conteúdos](/modelagem/lexico#conteudo) que quer escutar.|O usuário pode selecionar um [mood](/modelagem/lexico#mood) que se relaciona ao estilo de [conteúdo](/modelagem/lexico#conteudo) que quer escutar.|Emoção, gosto, vibe.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Offline
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Estado|Não estar conectado à internet.|[Usuários premium](/modelagem/lexico#usuario-premium) no Deezer podem fazer [download](/modelagem/lexico#download) de [conteúdo](/modelagem/lexico#conteudo) para que esses fiquem disponíveis mesmo que não haja acesso à internet, já [usuários free](/modelagem/lexico#usuario-free) podem somente acessar [conteúdo](/modelagem/lexico#conteudo) enquanto conectados à internet.|Desconectado, sem internet.|
+|Estado|Estar offline é não estar conectado à internet.|[Usuários premium](/modelagem/lexico#usuario-premium) no Deezer podem fazer [download](/modelagem/lexico#download) de [conteúdo](/modelagem/lexico#conteudo) para que esses fiquem disponíveis mesmo que não haja acesso à internet, já [usuários free](/modelagem/lexico#usuario-free) podem somente acessar [conteúdo](/modelagem/lexico#conteudo) enquanto conectados à internet.|Desconectado, sem internet.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Curtir
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-Verbo|Gostar de algo.|Usuários podem [curtir](/modelagem/lexico#curtir) um [conteúdo](/modelagem/lexico#conteudo) para que esses fiquem disponíveis na página das [Mais Queridas](/modelagem/lexico#mais-queridas).|Gostar, amar, favoritar.|
+Verbo|Curtir é gostar de algo.|Usuários podem [curtir](/modelagem/lexico#curtir) um [conteúdo](/modelagem/lexico#conteudo) para que esses fiquem disponíveis na página das [Mais Queridas](/modelagem/lexico#mais-queridas).|Gostar, amar, favoritar.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Álbum
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Coleção de [músicas](/modelagem/lexico#conteudo) relacionadas de um [artista](/modelagem/lexico#artista) ou banda.|No Deezer os usuários podem acessar, [salvar](/modelagem/lexico#download) e seguir [Álbuns](/modelagem/lexico#album) da mesma maneira que músicas.|coleção, discografia.|
+|Objeto|Um álbum é uma coleção de [músicas](/modelagem/lexico#conteudo) relacionadas de um [artista](/modelagem/lexico#artista) ou banda.|No Deezer os usuários podem acessar, [salvar](/modelagem/lexico#download) e seguir [Álbuns](/modelagem/lexico#album) da mesma maneira que músicas.|coleção, discografia.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Conta
 
 |Tipo|Noção|Impacto|Sinônimos|
 |-|-|-|-|
-|Objeto|Meio para poder utilizar algm serviço ou alicativo.|O usuário pode criar uma [conta](/modelagem/lexico#conta) para poder utilizar o Deezer. O usuário pode possuir [conta](/modelagem/lexico#conta) em [redes sociais](/modelagem/lexico#rede-social).|-|
+|Objeto|Uma conta é um meio para poder utilizar algm serviço ou alicativo.|O usuário pode criar uma [conta](/modelagem/lexico#conta) para poder utilizar o Deezer. O usuário pode possuir [conta](/modelagem/lexico#conta) em [redes sociais](/modelagem/lexico#rede-social).|Plano.|
 |<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
 
 ### Plano premium
