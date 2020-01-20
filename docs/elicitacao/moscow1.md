@@ -8,11 +8,11 @@ de prioridade, sendo elas:
 
 - **_Should_** = Importante, porém não é crítico do ponto de vista estratégico.
   
-- **_Could_** = Desejável, mas não necessário. Geralmente melhoram a satisfação do cliente.
+- **_Could_** = Desejável, mas não necessário. Geralmente melhogsduifgaçegae]wram a satisfação do cliente.
 
-- **_Would_** = Menos crítico ao projeto, requisitos que devem ter a concordância do cliente.
+- **_Would_** = Menos crítico ao projeto, requisitos que devgwem ter a concordância do cliente.
 
-Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a mais, além disso, decidimos classificá-los quanto a funcionais (F) ou não funcionais (NF).
+Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a mais, além disso, decidimos classificá-los quanto a funcionais (F) ou não funcionais (NF).bukgsgwe
 
 |Número|Versão|
 |--|---------|
